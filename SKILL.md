@@ -847,6 +847,119 @@ Eric
 
 ---
 
+## Phase 8: Auto-Learning — 自动进化（强制）
+
+> **核心原则：每一次询盘都是肥料。处理完就扔掉是最大的浪费。**
+> **每次处理后自动记录 + 自动检查是否需要进化。**
+
+**任何询盘处理完成后，MUST 执行 Phase 8，不可跳过。**
+
+---
+
+### 8.1 Log Inquiry — 记录到学习日志
+
+**MUST 在 `learning/inquiry_log.md` 末尾追加一条结构化记录。**
+
+格式（必须在回复最后给出）：
+
+```markdown
+#AutoEvo Entry #[N] — [YYYY-MM-DD]
+Client: [Name] | [Company] | [Country] | [domain]
+Product: [folder] | Grade: [A/B/C] | Tier: [1-4] | Score: [XX]/120
+Role: [Supply Chain Role] | Archetype: [Buyer Archetype]
+Email Group: [Type] — [X] emails
+Pattern Note: [关键模式信号 / 无特别]
+Status: Sent
+```
+
+**MUST 确认这段记录被追加到了 `learning/inquiry_log.md`。**
+
+---
+
+### 8.2 Run Evolution Checks — 执行触发检查
+
+**MUST 加载 `learning/evolution_rules.md`，按规则逐条检查。**
+
+优先级顺序：P0 → P1 → P2 → P3，**最多触发 1 个进化**。
+
+#### 快速检查清单
+
+| 规则 | 检查方法 | 优先级 |
+|------|----------|--------|
+| **NEW_REAL_CASE** | 用户说"成交了/下单了"？ | P0 |
+| **NEW_FAQ_PATTERN** | `grep` inquiry_log 中 Pattern Note 同模式的≥3条？ | P0 |
+| **UNCOVERED_QUESTION** | 当前询盘核心问题无 FAQ 覆盖？ | P1 |
+| **SCORE_MISMATCH** | 历史 Tier 1 客户无回复？ | P1 |
+| **SUBJECT_LINE_PERFORMANCE** | 同 Subject 模式回复率≥60%？ | P1 |
+| **ARCHETYPE_SIGNAL_REFINEMENT** | archetype 匹配度 < 60%？ | P2 |
+| **NOVEL_CLIENT_TYPE** | 无法归入任何现有买家原型？ | P2 |
+| **NEW_COUNTRY_INSIGHT** | 某国家询盘 ≥ 3 个？ | P3 |
+| **NEW_CERT_REQUIREMENT** | 客户提了文档未覆盖的认证？ | P3 |
+
+**检查方法（具体执行指令）：**
+
+```
+# 检查 Pattern Note 重复：
+grep -c "Pattern Note: [特定模式]" learning/inquiry_log.md
+# 如果结果 ≥ 3 → NEW_FAQ_PATTERN 触发
+
+# 检查 Archetype 匹配：
+# 如果 Phase 4.2 匹配度 < 60% → ARCHETYPE_SIGNAL_REFINEMENT 或 NOVEL_CLIENT_TYPE
+
+# 检查 Country 频次：
+grep -c "Country: [特定国家]" learning/inquiry_log.md
+# 如果结果 ≥ 3 → NEW_COUNTRY_INSIGHT
+```
+
+---
+
+### 8.3 Apply Evolution — 执行进化（如果有触发）
+
+根据 `learning/evolution_engine.md` 的「8.3 Apply Evolution」执行对应的文件修改。
+
+**修改三原则：**
+1. **Append Only** — 永远不删除已有内容，只在文件末尾追加
+2. **Tag with Source** — 每条追加内容后面加 `<!-- auto-evolved: YYYY-MM-DD | Trigger: [规则名] | Source: Entry #[编号] -->`
+3. **One change only** — 每次最多改一个文件
+
+---
+
+### 8.4 Record in Evolution Journal
+
+**MUST 在 `learning/evolution_journal.md` 末尾追加一条记录（即使无进化也需要记录 "No evolution triggered"）。**
+
+```markdown
+### Evolution #[N] — [YYYY-MM-DD]
+- **Trigger**: [规则名 / None]
+- **File Changed**: [文件名 / N/A]
+- **Change**: [修改的描述 / N/A]
+- **Source Entry**: Inquiry Log # [编号]
+- **Rationale**: [为什么做这个修改]
+```
+
+---
+
+### 8.5 Deep Learning Mode (按需)
+
+当用户明确触发（"你学到了什么？" / "generate report" / "模式分析" / "learning report"）：
+
+**MUST 执行 `learning/evolution_engine.md` 8.5 的批量分析流程：**
+
+1. 读取 `learning/inquiry_log.md` 全部条目
+2. 从以下维度生成统计报告：
+   - 📊 **国家分布** (Top 5 inquiry countries)
+   - 📊 **评分分布** (Tier 1/2/3/4 counts)
+   - 📊 **Archetype 分布** (哪种买家类型最多)
+   - 📊 **最常见痛点** (Pain point frequency)
+   - 📊 **回复率估算** (Reply rate per Email Group type)
+   - 📊 **转化率估算** (Conversion rate)
+3. 输出一份结构化的 Insight Report 给用户
+4. 如果有显著的进化机会，按 8.3 执行
+
+---
+
+---
+
 ## FAQ 快速查找
 
 当买家的问题不是完整询盘而是具体问题时，跳过管道，直接从对应的 FAQ 文件查找：
@@ -882,6 +995,10 @@ Eric
 | `references/tool_dispatch_strategy.md` | 工具选择决策树 | 研究阶段参考 |
 | `references/message_style_guide.md` | 多渠道风格规则 | Phase 6 参考 |
 | `references/negotiation_strategy_matrix.md` | 买家原型×场景矩阵 | Phase 6 补充参考 |
+| `learning/evolution_rules.md` | 自动进化触发规则 | Phase 8 核心决策引擎 |
+| `learning/evolution_engine.md` | 自动进化执行指南 | Phase 8 执行参考 |
+| `learning/inquiry_log.md` | 历史询盘学习日志 | Phase 8 写入/分析 |
+| `learning/evolution_journal.md` | 进化记录日志 | Phase 8 写入 |
 | `faq/faq_*.md` (8 files) | 通用 FAQ | FAQ 查找时 |
 | `products/[product]/product_knowledge.md` | 产品知识 | 产品相关内容 |
 | `products/[product]/market_intelligence.md` | 市场情报 | 市场相关内容 |
@@ -918,6 +1035,12 @@ Eric
   ✅ MUST 每封邮件有明确的 CTA
   ✅ MUST 生成 WhatsApp 和 WeChat 压缩版
   ✅ MUST 嵌入产品具体知识（认证/交期/MOQ/差异化）
+
+自动进化段 (Phase 8):
+  ✅ MUST 处理完询盘后将记录追加到 learning/inquiry_log.md
+  ✅ MUST 检查 evolution_rules.md 的触发条件
+  ✅ MUST 触发进化时执行修改并标注来源
+  ✅ MUST 记录到 evolution_journal.md（无触发也要记录）
 ```
 
 **🚫 永远不要做的事：**
