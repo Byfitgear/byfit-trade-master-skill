@@ -66,10 +66,29 @@
 | 段落 | 3-5段，每段2-4句 |
 | 主题行 | 5-10词，包含关键信息 |
 | 问候语 | Hi [First Name] 或 Dear [First Name] |
-| 结尾 | Best regards / Best / Warm regards + 签名档 |
+| 结尾 | Best regards / Best / Cheers + 签名档 |
 | CTA | 每封邮件一个明确的行动号召 |
 | 附件 | 控制在5MB以内，用PDF格式 |
 | 回复时间 | 目标4小时内，最长24小时 |
+
+### ❌ 自带AI味的句式（看到立刻改）
+
+下面这些句式看起来"很专业"但实际上每个客户都见过几百遍了，看到就删：
+
+| AI味句式 | 为什么不行 | 改成 |
+|----------|-----------|------|
+| "I hope this email finds you well." | 99%的AI销售邮件以它开头 | 直接说事或直接问问题 |
+| "I am writing to introduce our company..." | 太正式，像群发 | "I noticed you carry gym flooring—wanted to connect." |
+| "We are a leading manufacturer of..." | 谁都说自己是leading | "We make rubber flooring in Qingdao. 20 lines, 12 certs." |
+| "Please don't hesitate to reach out." | 客气过头，像客服自动回复 | "Happy to send specs if you need them." |
+| "Our commitment to quality..." | 空话，没信息量 | "EN14904 certified. Batch QC on every shipment." |
+| "At BYFIT, we pride ourselves on..." | 可以删掉仍不影响内容 | 直接删，从"we"开始就好 |
+| "We understand that price is an important factor." | AI废话 | "Price matters. Here's how ours stacks up." |
+| "If you have any questions, please feel free to ask." | 太长了 | "Questions? Just ask." 或直接不问 |
+| "We look forward to building a successful partnership." | 太早、太假、像模板 | 不急着谈partnership，先谈需求 |
+| "Thank you in advance for your kind consideration." | 舔过头 | "Appreciate your time." |
+| "I would like to take this opportunity to..." | 多余的装饰语 | 删掉整句话 |
+| "Furthermore / Moreover / Additionally" | AI信号词 | 直接说下一句，不用转 |
 
 ### 邮件结构
 
