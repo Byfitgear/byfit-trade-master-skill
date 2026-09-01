@@ -46,6 +46,6 @@ For formal quotations, catalogs, certification packs, or trust disputes, track m
 
 | Claim | Exact value | Source | As of | Status |
 |---|---|---|---|---|
-| Example: 10 mm roll price | USD 12.77/sqm FOB Tianjin | User message or quotation file | YYYY-MM-DD | Confirmed |
+| Example: current quoted price | [currency] [amount]/[unit] [Incoterm] [port] | User-provided current quotation | YYYY-MM-DD | Confirmed |
 
 Status must be one of: `Confirmed`, `Needs confirmation`, `Expired`, or `Not available`. Do not send a claim marked `Needs confirmation`, `Expired`, or `Not available` as a fact.
