@@ -21,13 +21,13 @@ Before drafting any quotation or price reply, normalize:
 
 | Field | Example format |
 |---|---|
-| Product | 10 mm rubber roll |
-| Quantity | 450 m² |
-| Unit price | USD 12.77/m² |
+| Product | [product/model/specification] |
+| Quantity | [amount] [unit] |
+| Unit price | [currency] [amount]/[unit] |
 | Total | Only if supplied or explicitly calculated |
-| Incoterm | FOB |
-| Port | Tianjin |
-| Included | PU coating and confirmed specifications |
+| Incoterm | [confirmed Incoterm] |
+| Port | [confirmed loading port] |
+| Included | [confirmed scope] |
 | Excluded | Freight, customs, installation, unless stated otherwise |
 | Validity | Only if confirmed |
 
