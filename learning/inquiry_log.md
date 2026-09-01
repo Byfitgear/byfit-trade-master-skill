@@ -1,11 +1,10 @@
-# BYFIT Inquiry Learning Log
+# BYFIT sanitized inquiry learning log
 
-> 自动进化系统的核心数据源。每次处理询盘后自动追加记录。
-> **规则：** Append Only。永不删除或修改已有条目。新增条目追加到文件末尾。
+> Optional aggregate learning data only. Do not log every inquiry automatically.
+> This repository is public: never store names, contact details, domains, raw messages, exact confidential quotations, supplier identities, or other identifying commercial data here.
 
 ---
 
 ## Entry Log
 
-<!-- 新条目追加在下方 -->
-
+<!-- Add only user-authorized, anonymized pattern records below. -->
