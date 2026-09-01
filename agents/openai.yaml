@@ -1,0 +1,6 @@
+interface:
+  display_name: "BYFIT Trade Master"
+  short_description: "Research buyers and draft evidence-based BYFIT sales replies"
+  default_prompt: "Use $byfit-trade-master to analyze this buyer conversation and draft the best message to send next."
+policy:
+  allow_implicit_invocation: true

@@ -1,11 +1,9 @@
 # BYFIT Evolution Journal
 
-> 记录每次自动进化的时间、触发原因和修改内容。
-> **规则：** Append Only。一条记录一个进化事件。
+> Record user-authorized Skill changes with sanitized evidence and a privacy check. Do not include customer-identifying or confidential commercial data.
 
 ---
 
 ## Evolution Log
 
-<!-- 新记录追加在下方 -->
-
+<!-- Add validated, user-authorized evolution records below. -->
