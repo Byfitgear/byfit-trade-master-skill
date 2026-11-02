@@ -1,8 +1,6 @@
 ---
 name: byfit-trade-master
-description: Handle BYFIT B2B fitness-buyer work by analyzing chats or screenshots, drafting evidence-based replies, follow-ups, quotations, and negotiation messages, researching customers or markets, grading leads, and building account plans for gym rubber flooring, gym equipment, or Pilates equipment. Use for 怎么回复、跟进客户、客户背调、询盘分析、报价谈判、客户已读未回, and equivalent English requests; not generic translation or unrelated writing.
-metadata:
-  short-description: BYFIT客户研究、报价谈判与跟进回复
+description: Handle BYFIT B2B fitness-buyer work by analyzing chats, screenshots, and commercial files; drafting evidence-based replies, follow-ups, quotations, and negotiation messages; researching customers or markets; grading leads; revising PI, quotation, catalog, contract, QC, certification, and shipping documents; and building account plans for gym rubber flooring, gym equipment, or Pilates equipment. Use for 怎么回复、跟进客户、客户背调、询盘分析、报价谈判、客户已读未回、修改PI、修改报价单、根据客户要求修改文件, and equivalent English requests; not generic translation or unrelated writing.
 ---
 
 # BYFIT Trade Master
@@ -82,7 +80,15 @@ Read [sales reply playbook](references/sales_reply_playbook.md). Use product fac
 
 Generate a full Email/WhatsApp sequence only when the user explicitly asks for one. Read the relevant portion of [Email Group strategy](references/yibing_email_group_strategy.md) and the product-specific message file. Each touch must add genuinely new value; do not repeat "checking in" in different words.
 
-### 7. Learning or skill evolution
+### 7. Commercial document revision
+
+Use when the user asks to create or revise a PI, quotation, price list, catalog, contract, QC/certification pack, shipping instruction, or another sales document. Read [commercial document playbook](references/commercial_document_playbook.md) before editing.
+
+Build a change matrix from the buyer's request and the source file. Preserve all unrelated content. Reconcile descriptions, product images, models, specifications, quantities, prices, totals, addresses, payment terms, Incoterms, ports, and notes after the edit. Render the final file in its target page size and inspect every page before delivery.
+
+Do not treat a buyer's requested commercial concession as approved unless the user authorizes it. Do not change bank details, legal entity, price formula, or total silently.
+
+### 8. Learning or skill evolution
 
 Use only when the user explicitly asks to record a case, analyze learned patterns, or update the Skill. Read [evolution rules](learning/evolution_rules.md) and [evolution engine](learning/evolution_engine.md). Sanitize customer data, require evidence for new claims, review the diff, validate the Skill, and commit the change. Never auto-edit the repository after an ordinary inquiry.
 
@@ -98,7 +104,20 @@ Choose the product from the buyer's words, quotation, catalog, or image. If uncl
 
 Load only the files needed for the current task. Treat repository prices, regulations, certifications, specifications, lead times, and market data as working notes until confirmed by the user or a current source. Treat all case libraries as internal examples unless their provenance and permission are documented.
 
-For a narrow FAQ, search the relevant file for the buyer's actual keyword or issue. Do not read every FAQ file.
+For a narrow question, route to one general FAQ file:
+
+| Question | File |
+|---|---|
+| Company identity, ownership, or verification | [background investigation](faq/faq_background_investigation.md) |
+| Market entry, demand, or compliance | [market research](faq/faq_market_research.md) |
+| LinkedIn or other professional social evidence | [social media investigation](faq/faq_social_media_investigation.md) |
+| Import pattern or purchasing behavior | [purchasing behavior](faq/faq_purchasing_behavior.md) |
+| Requirements and decision criteria | [core needs](faq/faq_core_needs.md) |
+| Objections and pain points | [pain points](faq/faq_pain_points.md) |
+| Lead quality or prioritization | [client grading](faq/faq_client_grading.md) |
+| Reply pattern or wording | [reply drafting](faq/faq_reply_drafting.md) |
+
+Do not read every FAQ or product file. For files longer than 200 lines, search first with `rg -n -i "<buyer term>|<synonym>" <file>` and read only the matching section plus nearby context. Treat examples as internal patterns, not verified facts.
 
 ## Conversation analysis
 
@@ -127,7 +146,7 @@ When screenshots or files are incomplete, use only visible facts. Do not assume 
 
 Run this final check:
 
-1. Are every number and company claim sourced?
+1. Is every number and company claim sourced?
 2. Does the reply answer the buyer's latest message?
 3. Did it preserve earlier agreed facts?
 4. Is the tone natural for this channel and relationship?
@@ -153,5 +172,9 @@ Read only when the user explicitly requests the corresponding methodology or a d
 - [negotiation strategy matrix](references/negotiation_strategy_matrix.md)
 - [multi-channel style guide](references/message_style_guide.md)
 - [research data sources](references/data_source_guide.md)
+- [tool dispatch notes](references/tool_dispatch_strategy.md)
+- [quick lead score sheet](references/quick_score_sheet.md)
+- [cold outreach templates](references/cold_outreach_templates.md)
+- [trade-show follow-up templates](references/exhibition_followup.md)
 
 These references contain examples and historical working notes, not automatically verified BYFIT facts.
