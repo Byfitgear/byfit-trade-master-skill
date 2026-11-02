@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline FAQ validation/search and evidence-aware scoring. Standard library only."""
+"""Offline FAQ validation/search, evidence-aware scoring and quote gate. Standard library only."""
 
 from __future__ import annotations
 
@@ -31,6 +31,7 @@ DIMENSIONS = {
     "communication": 15, "social": 10, "purchasing": 10,
 }
 TIERS = (("T4", 0, 29), ("T3", 30, 59), ("T2", 60, 89), ("T1", 90, 120))
+NEED_FIELDS = ("application_and_use", "performance_priorities", "project_scope", "decision_basis")
 HEADER = re.compile(r"^### ([A-Z]{2})-(\d{3}) \| (.+)$", re.M)
 QUERY_ALIASES = {
     r"\breformers?\b": "普拉提 核心床 滑车",
@@ -224,6 +225,70 @@ def score_customer(payload: dict) -> dict:
             "risk_note": "Sales priority is not credit approval or a payment-safety guarantee."}
 
 
+def quote_gate(payload: dict) -> dict:
+    """Conservative rule check only; it cannot authenticate supplied evidence."""
+    if not isinstance(payload, dict):
+        raise ValueError("Input must be a JSON object")
+    unexpected = set(payload) - {"reply_stage", "needs", "pain_or_goal", "product_selection", "seller_offer"}
+    if unexpected:
+        raise ValueError(f"Unknown gate fields: {', '.join(sorted(unexpected))}")
+    stage = payload.get("reply_stage", "unknown")
+    if stage not in ("first", "subsequent", "unknown"):
+        raise ValueError("reply_stage must be first, subsequent or unknown")
+    needs = payload.get("needs", {})
+    if not isinstance(needs, dict) or set(needs) - set(NEED_FIELDS):
+        raise ValueError("needs must be an object with only the four documented need fields")
+    missing = []
+    if stage == "first":
+        missing.append("first_reply_must_be_non_price")
+    elif stage == "unknown":
+        missing.append("reply_stage_not_confirmed")
+
+    def confirmed(item: dict, name: str, party: str, *, objective: bool = False) -> bool:
+        if not isinstance(item, dict):
+            raise ValueError(f"{name}: expected an evidence object")
+        allowed = {"status", "value", "source", "confirmed_by"} | ({"kind"} if objective else set())
+        if set(item) - allowed:
+            raise ValueError(f"{name}: unknown evidence fields")
+        state = item.get("status", "unknown")
+        if state not in ("confirmed", "inferred", "unknown"):
+            raise ValueError(f"{name}: status must be confirmed, inferred or unknown")
+        for field in ("value", "source", "confirmed_by"):
+            if field in item and not isinstance(item[field], str):
+                raise ValueError(f"{name}: {field} must be a string")
+        if objective and "kind" in item and item["kind"] not in ("pain", "goal"):
+            raise ValueError("pain_or_goal.kind must be pain or goal")
+        return (state == "confirmed" and item.get("confirmed_by") == party
+                and all(item.get(key, "").strip() for key in ("value", "source"))
+                and (not objective or item.get("kind") in ("pain", "goal")))
+
+    for field in NEED_FIELDS:
+        if not confirmed(needs.get(field, {}), f"needs.{field}", "buyer"):
+            missing.append(f"needs.{field}")
+    if not confirmed(payload.get("pain_or_goal", {}), "pain_or_goal", "buyer", objective=True):
+        missing.append("buyer_confirmed_pain_or_goal")
+    if not confirmed(payload.get("product_selection", {}), "product_selection", "seller"):
+        missing.append("seller_confirmed_product_selection")
+    offer = payload.get("seller_offer", {})
+    if not isinstance(offer, dict) or set(offer) - {"authorized", "scope_matches", "source"}:
+        raise ValueError("seller_offer must contain only authorized, scope_matches and source")
+    for key in ("authorized", "scope_matches"):
+        if key in offer and not isinstance(offer[key], bool):
+            raise ValueError(f"seller_offer.{key} must be a boolean")
+    if "source" in offer and not isinstance(offer["source"], str):
+        raise ValueError("seller_offer.source must be a string")
+    if not (offer.get("authorized") is True and offer.get("scope_matches") is True
+            and offer.get("source", "").strip()):
+        missing.append("authorized_matching_seller_offer")
+    allowed = not missing
+    return {"quote_allowed": allowed,
+            "status": "hold_first_reply" if stage == "first" else "ready_to_quote" if allowed else "hold_discovery",
+            "reply_stage": stage, "missing_or_blocked": missing,
+            "next_action": "Draft a needs-matched authorized offer; do not send automatically." if allowed
+            else "Provide non-price value and clarify only material unanswered needs; do not invent pain.",
+            "evidence_note": "Field/rule check only. Confirm source authenticity and substantive adequacy separately."}
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
@@ -237,6 +302,8 @@ def main(argv: list[str] | None = None) -> int:
     finder.add_argument("--limit", type=int, default=5)
     scorer = sub.add_parser("score")
     scorer.add_argument("input", help="JSON file, or - for stdin; input is never stored")
+    gate = sub.add_parser("quote-gate")
+    gate.add_argument("input", help="Private JSON file, or - for stdin; input is never stored")
     args = parser.parse_args(argv)
     try:
         if args.command == "validate":
@@ -250,7 +317,8 @@ def main(argv: list[str] | None = None) -> int:
             result, status = search(args.root, args.query, args.module, args.limit), 0
         else:
             data = sys.stdin.read() if args.input == "-" else Path(args.input).read_text(encoding="utf-8")
-            result, status = score_customer(json.loads(data)), 0
+            evaluator = quote_gate if args.command == "quote-gate" else score_customer
+            result, status = evaluator(json.loads(data)), 0
         print(json.dumps(result, ensure_ascii=False, indent=2))
         return status
     except (ValueError, OSError, json.JSONDecodeError) as exc:

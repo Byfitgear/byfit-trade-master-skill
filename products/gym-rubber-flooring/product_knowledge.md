@@ -2,6 +2,8 @@
 
 > Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
 
+> Current tile facts: [seller_facts.json](seller_facts.json) controls the user-provided 50×50cm / 100×100cm sizes and literal HS reference `400821000`; not independently verified. Other dimensions below are historical examples, not additional confirmed sizes. No prices in the first substantive reply; later quotations require [discovery and approval](../../references/discovery_before_quotation.md).
+
 ## Company Overview
 
 | Item | Detail |

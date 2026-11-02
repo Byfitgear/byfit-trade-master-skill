@@ -1,7 +1,9 @@
 """Offline invariant tests; synthetic examples contain no customer data."""
 
 import importlib.util
+import json
 from pathlib import Path
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -113,6 +115,112 @@ class FAQTests(unittest.TestCase):
             self.assertTrue(any("Duplicate question" in item for item in result["errors"]))
             self.assertTrue(any("IDs must be consecutive" in item for item in result["errors"]))
             self.assertTrue(any("missing non-empty 行动" in item for item in result["errors"]))
+
+
+class QuoteGateTests(unittest.TestCase):
+    def ready_input(self):
+        def evidence(value, party="buyer"):
+            return {"status": "confirmed", "value": value, "source": "Synthetic approval/date",
+                    "confirmed_by": party}
+        return {"reply_stage": "subsequent",
+                "needs": {key: evidence("Synthetic confirmed " + key) for key in trade.NEED_FIELDS},
+                "pain_or_goal": {**evidence("New studio fit-out; no existing defect"), "kind": "goal"},
+                "product_selection": evidence("Suitable current model/structure", "seller"),
+                "seller_offer": {"authorized": True, "scope_matches": True, "source": "Synthetic Eric approval"}}
+
+    def test_first_reply_blocked_even_when_everything_else_ready(self):
+        payload = self.ready_input()
+        payload["reply_stage"] = "first"
+        result = trade.quote_gate(payload)
+        self.assertFalse(result["quote_allowed"])
+        self.assertEqual(result["status"], "hold_first_reply")
+        self.assertEqual(result["missing_or_blocked"], ["first_reply_must_be_non_price"])
+
+    def test_unknown_stage_does_not_default_to_subsequent(self):
+        payload = self.ready_input()
+        del payload["reply_stage"]
+        self.assertIn("reply_stage_not_confirmed", trade.quote_gate(payload)["missing_or_blocked"])
+
+    def test_empty_input_is_held(self):
+        result = trade.quote_gate({})
+        self.assertEqual(result["status"], "hold_discovery")
+        self.assertFalse(result["quote_allowed"])
+
+    def test_inferred_pain_cannot_unlock_price(self):
+        payload = self.ready_input()
+        payload["pain_or_goal"].update(status="inferred", kind="pain")
+        self.assertIn("buyer_confirmed_pain_or_goal", trade.quote_gate(payload)["missing_or_blocked"])
+
+    def test_confirmed_goal_without_old_problem_is_allowed(self):
+        result = trade.quote_gate(self.ready_input())
+        self.assertTrue(result["quote_allowed"])
+        self.assertEqual(result["status"], "ready_to_quote")
+
+    def test_confirmed_pain_with_evidence_is_allowed(self):
+        payload = self.ready_input()
+        payload["pain_or_goal"].update(kind="pain", value="Documented current tile movement and downtime")
+        self.assertTrue(trade.quote_gate(payload)["quote_allowed"])
+
+    def test_research_cannot_pretend_to_be_buyer_confirmation(self):
+        payload = self.ready_input()
+        payload["needs"]["decision_basis"]["confirmed_by"] = "research"
+        self.assertIn("needs.decision_basis", trade.quote_gate(payload)["missing_or_blocked"])
+
+    def test_blank_evidence_is_not_confirmation(self):
+        payload = self.ready_input()
+        payload["needs"]["application_and_use"]["source"] = " "
+        payload["product_selection"]["value"] = ""
+        result = trade.quote_gate(payload)
+        self.assertIn("needs.application_and_use", result["missing_or_blocked"])
+        self.assertIn("seller_confirmed_product_selection", result["missing_or_blocked"])
+
+    def test_unapproved_or_mismatched_offer_is_blocked(self):
+        for key in ("authorized", "scope_matches", "source"):
+            payload = self.ready_input()
+            payload["seller_offer"][key] = "" if key == "source" else False
+            self.assertIn("authorized_matching_seller_offer", trade.quote_gate(payload)["missing_or_blocked"])
+
+    def test_invalid_types_and_typos_rejected(self):
+        for payload in ([], {"reply_stage": False}, {"needs": []}, {"needs": {"aplication": {}}},
+                        {"seller_offer": {"authorized": "true"}}, {"product_selection": True},
+                        {"pain_or_goal": {"kind": "suspected"}}, {"first_response": False},
+                        {"needs": {"project_scope": {"status": "confirmed", "value": 123}}}):
+            with self.assertRaises(ValueError):
+                trade.quote_gate(payload)
+
+
+class SellerFactsTests(unittest.TestCase):
+    def test_flooring_sizes_and_literal_hs_preserved(self):
+        facts = json.loads((trade.ROOT / "products/gym-rubber-flooring/seller_facts.json").read_text(encoding="utf-8"))
+        self.assertEqual(facts["tile_sizes_cm"], [[50, 50], [100, 100]])
+        self.assertEqual(facts["tile_sizes_mm"], [[500, 500], [1000, 1000]])
+        self.assertEqual(facts["hs_code_as_provided"], "400821000")
+        self.assertEqual(facts["evidence_status"], "user_provided_not_independently_verified")
+
+
+class QuoteGateCLITests(unittest.TestCase):
+    def run_cli(self, payload):
+        return subprocess.run([sys.executable, str(trade.ROOT / "scripts/trade_tools.py"), "quote-gate", "-"],
+                              input=payload, text=True, capture_output=True, check=False)
+
+    def test_stdin_first_reply_returns_non_price_hold(self):
+        result = self.run_cli('{"reply_stage": "first"}')
+        self.assertEqual(result.returncode, 0)
+        data = json.loads(result.stdout)
+        self.assertEqual(data["status"], "hold_first_reply")
+        self.assertFalse(data["quote_allowed"])
+
+    def test_stdin_ready_reply_passes_without_echoing_evidence(self):
+        payload = QuoteGateTests().ready_input()
+        result = self.run_cli(json.dumps(payload))
+        self.assertEqual(result.returncode, 0)
+        self.assertTrue(json.loads(result.stdout)["quote_allowed"])
+        self.assertNotIn("New studio fit-out", result.stdout)
+
+    def test_invalid_json_reports_failure(self):
+        result = self.run_cli("{invalid")
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("error", json.loads(result.stderr))
 
 
 if __name__ == "__main__":

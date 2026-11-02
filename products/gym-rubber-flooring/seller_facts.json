@@ -1,0 +1,15 @@
+{
+  "product_scope": "Gym rubber flooring tiles; not rolls or other equipment",
+  "source": "Eric, explicit seller instruction in this skill update",
+  "source_date": "2026-11-02",
+  "evidence_status": "user_provided_not_independently_verified",
+  "tile_sizes_cm": [[50, 50], [100, 100]],
+  "tile_sizes_mm": [[500, 500], [1000, 1000]],
+  "hs_code_as_provided": "400821000",
+  "hs_verification": "Preserve the supplied 9-digit string exactly. Do not pad, truncate or claim independently verified classification; confirm complete declaration format and applicability before customs use.",
+  "limitations": [
+    "These sizes do not confirm availability for every finish, thickness or construction.",
+    "Walnut finish, 20/30 mm availability, loose-lay suitability, material layers, certifications, MOQ, lead time and prices require current seller evidence.",
+    "Do not apply this HS string to rubber rolls, gym equipment, Pilates equipment or every destination's tariff schedule."
+  ]
+}

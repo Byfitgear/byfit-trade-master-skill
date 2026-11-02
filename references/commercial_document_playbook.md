@@ -59,6 +59,7 @@ The photograph and description must represent the same product. If the source im
 
 ## Quotation and price list
 
+- For a new buyer/project's first substantive reply, do not send a quotation, price list, price range or priced catalog. Follow [discovery before quotation](discovery_before_quotation.md) before later customer-facing pricing. Editing an existing authorized document is not itself permission to send it or bypass this gate.
 - Normalize currency, unit, model, specification, Incoterm, and port on every line.
 - Apply a price formula only when the user supplies it for this document.
 - Recalculate subtotals and totals independently after editing.

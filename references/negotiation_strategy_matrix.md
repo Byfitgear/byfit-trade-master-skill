@@ -1,5 +1,7 @@
 # BYFIT 谈判策略矩阵
 
+> Mandatory current rule: [discovery before quotation](discovery_before_quotation.md). No prices, ranges, discounts or priced attachments in a new buyer/project's first substantive reply. Later quotes require confirmed real needs and pain/objective plus seller selection/offer approval. Legacy examples or method labels below do not override this rule or establish author attribution.
+
 > Legacy internal examples only. Follow current SKILL.md and client_scoring_framework.md when these notes conflict. Unknown evidence stays unknown; no automatic sending, fabricated buyer psychology, unverified company claims, promised returns, or unauthorized concessions.
 
 ## 8 买家原型 × 5 场景 = 40 策略组合
