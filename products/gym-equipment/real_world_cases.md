@@ -1,5 +1,7 @@
 # BYFIT Gym Equipment — Real-World Case Studies
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 > Last updated: 2026-06 | Version 1.0
 > Contact: Eric | sales@sdbyfit.com
 > Websites: https://byfitgear.com | https://shandongbyfit.com

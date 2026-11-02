@@ -1,281 +1,423 @@
-# FAQ: Core Needs 核心需求
+# FAQ：核心需求识别
 
-> 25 unique FAQ entries organized by sub-categories for BYFIT Trade Master
+100个独立问题，分为10个主题。用于识别B2B健身采购真正要实现的结果，不把采购者的首句询盘当作完整需求。所有规格、能力、价格与承诺须由当前资料确认；缺项保留待核，不代客户作技术或合规决定。
 
----
+## 一、实际用途与使用边界（CN-001—CN-010）
 
-## Sub-category: Product Needs Identification 产品需求识别
+### CN-001 | 客户只说“配一间健身房”，先确认什么？
+- 核查：这是商业会员馆、酒店配套还是单位内部设施？索取面积草图、开放时段及预计同时使用人数，区分实际使用区域与尚未确定的扩建空间。
+- 行动：先做区域和功能清单，标注必须开业具备与后续可补充的项目；让客户确认使用优先级后，再进入具体型号和数量讨论。
 
-### Q: "How do I uncover the REAL product specifications a client needs versus what they initially ask for?"
-**中文**: 如何挖掘客户真正需要的产品规格vs他们最初要求的？
-- **场景**: 客户的询盘规格不完整或外行，直接按此报价会丢单
-- **根因**: 客户经常描述的是解决方案而非需求——"我要15mm地垫"而非"我需要减震率>60%的地板"
-- **调查信号**: 规格要求异常（过厚/过薄/与使用场景不匹配）
-- **回复策略**: 先问使用场景和性能需求，再推荐对应规格
-- **回复模板**:
-  > Rather than quoting on stated specs alone, we clarify the underlying need: "You mentioned [X]mm thickness — may I ask about the intended application? For [free weight areas], we typically recommend [Y]mm for adequate shock absorption, while [yoga/pilates zones] perform better with [Z]mm. BYFIT rubber flooring comes in multiple thicknesses optimized for different zones — would you like a zone-by-zone recommendation for your facility?" This often reveals that the client's stated spec was based on a competitor's catalog, not their actual requirement.
-- **CTA**: 下载BYFIT场景→规格匹配推荐卡
+### CN-002 | 如何确认自由重量区地面的真实保护需求？
+- 核查：询问最重器械、是否允许抛落、落点位置及下层房间用途；要求现场楼板或原地面资料，不单凭“要厚一点”判断防护目标。
+- 行动：把表面保护、冲击控制和楼层传声分别列为待验证目标；涉及结构或建筑声学时交由当地专业人员评估，再形成可测试的选型条件。
 
-### Q: "A client asks for rubber flooring but doesn't mention material type. How do I determine if they need SBR, EPDM, or NR?"
-**中文**: 客户要橡胶地垫但没提材质，如何判断需要SBR、EPDM还是天然橡胶？
-- **场景**: 材质不同价格差30-50%，选错材质会导致报价偏差
-- **根因**: 多数买家不了解材质差异，只关心颜色和厚度
-- **调查信号**: 询盘只有"rubber flooring"+尺寸，无材质和性能参数
-- **回复策略**: 用使用场景和预算范围推断材质需求
-- **回复模板**:
-  > Material choice depends on application and budget: [1] SBR (styrene-butadiene rubber) — most economical, good for general gym areas, indoor use only, [2] EPDM (ethylene propylene diene monomer) — UV resistant, color-stable, suitable for outdoor and premium indoor applications, [3] NR (natural rubber) — best elasticity and feel, preferred for pilates/yoga studios, premium price. For BYFIT rubber flooring, we recommend: "To recommend the best material, could you share: [a] indoor or outdoor use?, [b] color retention importance?, [c] budget range per sqm?" This ensures the right material from the start.
-- **CTA**: 索取BYFIT材质选择决策树
+### CN-003 | 团课空间的设备需求如何区别于器械区？
+- 核查：课程包含哪些动作、每班人数、教练是否需要快速切换布置？请客户提供一份真实课表，确认器械移位、收纳和地面接触方式。
+- 行动：围绕课程流程配置功能与收纳位置，预留转换时间；先确认一节课能否顺畅完成，再讨论增加器械品类，避免用数量代替使用效率。
 
-### Q: "How do I identify if a client needs custom-colored flooring when they only asked for black?"
-**中文**: 客户只要求黑色地垫，如何判断他们是否需要定制颜色？
-- **场景**: 黑色是最便宜的选择，但客户可能有品牌色需求但没意识到可以定制
-- **根因**: 买家不知道定制颜色是可选项，默认选最便宜的
-- **调查信号**: 客户有品牌视觉体系、网站/Logo有特定品牌色、竞品用了彩色地垫
-- **回复策略**: 主动展示颜色定制能力，激发品牌升级需求
-- **回复模板**:
-  > Many clients default to black flooring because they don't know custom colors are available — but their brand identity may benefit from customization. For BYFIT rubber flooring, we proactively share: "Standard black is our most popular option for its versatility. However, we also offer [X] standard colors and custom Pantone matching for brands that want their flooring to align with their visual identity. For example, [gym chain] uses [brand color] flooring to reinforce their brand — here's a photo. Would you like a color chart to explore options?" Custom color orders typically have [Y]% higher margin.
-- **CTA**: 获取BYFIT颜色定制展示包
+### CN-004 | 普拉提工作室应先谈床型还是课程模式？
+- 核查：客户计划一对一、双人还是团课？确认教练熟悉的动作体系、学员水平、每节课人数及必须使用的附件，而非只问床的外观。
+- 行动：将课程动作映射到设备功能和空间需求，请授课负责人审核；对无法从现有资料确认的适配点安排演示或样机验证，不直接推定兼容。
 
-### Q: "The client's inquiry mentions 'gym equipment' broadly. How do I narrow down which specific products they actually need?"
-**中文**: 客户询盘笼统提到"健身器材"，如何缩小到具体需要的产品？
-- **场景**: 宽泛询盘导致不知道该推荐哪个产品线
-- **根因**: 客户可能自己也不确定需要什么，或在做品类调研
-- **调查信号**: 询盘产品列表跨多个不相关品类、无具体型号
-- **回复策略**: 用门店类型反推产品需求——不同健身房类型标配不同
-- **回复模板**:
-  > Gym type determines equipment needs: [1] Commercial fitness center — cardio machines, free weights, rubber flooring, [2] Boutique pilates studio — reformers, mats, specialized flooring, [3] CrossFit box — Olympic lifting platforms, rubber tiles, pull-up rigs, [4] Hotel gym — compact multi-stations, rubber flooring. For BYFIT, we ask: "To recommend the right product mix, could you describe the type of facility you're outfitting? Each gym type has different requirements — we specialize in matching equipment to facility type." This narrows the scope efficiently.
-- **CTA**: 下载BYFIT健身房类型→产品矩阵
+### CN-005 | 采购者说“适合所有会员”，如何界定人群？
+- 核查：主力使用者的身高范围、训练经验与活动能力怎样？询问是否有需要额外辅助的人群，并区分一般健身需求与医疗康复使用。
+- 行动：把调节范围、上下设备方式和操作可理解性列入筛选；涉及医疗用途时要求客户另行确认专业要求，不把普通健身产品描述成治疗设备。
 
-### Q: "How do I determine if a client needs shock-absorbent flooring or just basic protective flooring?"
-**中文**: 如何判断客户需要减震地垫还是基础防护地垫？
-- **场景**: 两种地板性能和价格差异大，推荐错误会影响使用体验
-- **根因**: 减震地板用于自由重量区（保护设备和地板），基础防护用于通行区域
-- **调查信号**: 客户未提及free weight区域、只说"cover the floor"
-- **回复策略**: 问清是否有重物训练区，分区推荐不同规格
-- **回复模板**:
-  > Flooring performance depends on zone usage: [1] Free weight area — requires high shock absorption (BYFIT 15-25mm rubber flooring, ≥60% impact absorption per EN 14904), [2] Machine area — moderate protection suffices (8-10mm), [3] Stretching/yoga zone — comfort-focused (4-6mm with smooth surface), [4] Walkways — basic wear resistance (3-5mm). We recommend: "For an efficient layout, BYFIT offers a zone-based flooring system: [X]mm for free weights, [Y]mm for machines, [Z]mm for stretching areas. This optimizes both performance and budget. Would you like a layout recommendation based on your floor plan?"
-- **CTA**: 索取BYFIT分区地垫方案设计服务
+### CN-006 | 如何判断户外或半开放场地的需求？
+- 核查：索取实际安装位置照片，确认日晒、雨水、排水、温差与是否有遮棚；不要把销售地址的气候直接当成每个产品的暴露条件。
+- 行动：把环境暴露逐项写入选型边界，要求供应端核实相应材料与测试资料；不适配的室内配置明确排除，维护要求也纳入客户确认单。
 
----
+### CN-007 | 设备每天使用多久对选型有什么影响？
+- 核查：询问营业时长、单台设备预计连续使用时间及高峰排队情况；用班表或门店运营估算核对，不把会员总数等同于实际负荷。
+- 行动：将使用频次转化为承载、耐用性和维护可达性的比较条件；要求客户确认高峰负荷假设，并据可核实的产品资料筛选配置。
 
-## Sub-category: Volume & MOQ Needs 起订量与数量需求
+### CN-008 | 客户的清洁流程需要提前问吗？
+- 核查：了解清洁剂名称、浓度、设备擦拭频率及地面是否机洗，要求现有清洁规程或标签照片，确认是否存在长时间浸湿或残液。
+- 行动：请技术端逐项核实材料与清洁方式的适配性，把禁用方法和日常步骤写进交接资料；必要时以实际清洁用品做样品兼容测试。
 
-### Q: "A startup gym wants only 50sqm of rubber flooring but our MOQ is 200sqm. How do I handle this?"
-**中文**: 初创健身房只要50平米地垫但我们起订量是200平米，怎么办？
-- **场景**: 小客户需求低于MOQ，直接拒绝会流失潜在大客户
-- **根因**: MOQ是为了覆盖生产成本，但新客户未来可能增长
-- **调查信号**: 客户是首次采购、门店数量可能增加
-- **回复策略**: 小单走通用库存+大单走定制生产，分开管理MOQ
-- **回复模板**:
-  > For orders below MOQ, we offer two options: [1] Standard stock program — BYFIT rubber flooring in [black/3 standard colors] is available in quantities as low as [X]sqm at standard catalog price, [2] Custom orders — MOQ of 200sqm applies for custom colors and specifications. "For your initial 50sqm, we can supply from our standard stock at $[Y]/sqm. When your business grows and you need custom options, the MOQ will unlock [Z]% better pricing. Many of our best partners started with small trial orders." This captures the customer without compromising MOQ structure.
-- **CTA**: 获取BYFIT小单→大单转化策略
+### CN-009 | 小空间采购如何识别真正的尺寸需求？
+- 核查：要求带尺寸的平面图，除设备占地外确认训练动作范围、通道、门窗和储物位置；营销图片中的摆放间距不能作为现场依据。
+- 行动：建立可用区域与操作空间图，优先排除无法安全布置的选项；让客户的场地负责人确认布局，再锁定可进入报价的设备尺寸。
 
-### Q: "How do I assess if a small first order will lead to larger repeat orders?"
-**中文**: 如何评估小首单是否会带来大复购？
-- **场景**: 需要判断是否值得为小单投入服务资源
-- **根因**: 小单本身不赚钱，但如果是测试单则后续有大单
-- **调查信号**: 客户说"trial order"/"test quality first"、有连锁扩张计划
-- **回复策略**: 从客户背景推断——连锁品牌/新开门店=大概率复购
-- **回复模板**:
-  > We assess trial order potential through three indicators: [1] Client scale — a chain with [X]+ locations testing for standardization = high repeat potential, [2] Industry commitment — a dedicated fitness company (vs. general trader) = genuine user need, [3] Order specificity — detailed specs and testing requirements suggest a serious evaluation, not price shopping. For BYFIT rubber flooring, we offer: "For trial orders, we provide the same quality commitment as our volume orders — plus a credit toward your next order: [X]% of the trial order value applied to any subsequent order over [Y]sqm placed within [Z] months."
-- **CTA**: 下载BYFIT试单→复购转化率提升方案
+### CN-010 | 多用途场馆怎样避免一次采购互相冲突？
+- 核查：收集不同活动的时间、人数、地面与器械要求，确认哪些活动同时发生、哪些需要快速撤场；问清负责转换布置的人员和工具。
+- 行动：制定用途冲突表，分别处理固定设施与可移动设施；对清场、收纳及恢复时间安排现场验证，以实际转换流程确定采购组合。
 
-### Q: "A distributor wants an exclusive territory but only commits to a small volume. Should I grant exclusivity?"
-**中文**: 经销商想要独家区域但只承诺小量，应该给独家吗？
-- **场景**: 客户想用小量锁大区域，影响未来开发
-- **根因**: 独家权是稀缺资源，不应低价出让
-- **调查信号**: 客户要求exclusive但年承诺量<市场潜力10%
-- **回复策略**: 设阶梯式独家——先非独家，达标后升级
-- **回复模板**:
-  > Exclusivity should be earned, not given: "We offer a performance-based exclusivity program: [Phase 1] Non-exclusive distribution for the first [6] months, [Phase 2] Exclusive territory granted upon reaching $[X] annual purchasing, [Phase 3] Expanded territory + marketing support at $[Y]+ annual volume. For BYFIT rubber flooring in [region], this ensures the territory is developed rather than reserved. We've found this approach motivates faster growth — [Z]% of our distributors reach Phase 2 within [W] months." This protects your market while incentivizing the distributor.
-- **CTA**: 索取BYFIT阶梯式独家代理协议模板
+## 二、利益相关者与决策组织（CN-011—CN-020）
 
-### Q: "How do I handle a client who wants to order 5 different products but only 10 units of each?"
-**中文**: 客户要5个不同产品但每个只要10件，如何处理？
-- **场景**: 多品类小批量订单生产成本高且利润薄
-- **根因**: 客户在做市场测试或补齐产品线，不是真正的大采购
-- **调查信号**: 每个品类数量低于MOQ、要求快速交货
-- **回复策略**: 提供试销套装而非散单，统一打包降低边际成本
-- **回复模板**:
-  > Multi-product small orders indicate market testing. We offer a "Starter Kit" approach: "For clients wanting to test multiple BYFIT products, we've curated starter kits: [1] Gym Flooring Starter Kit — 50sqm each of [3 popular thicknesses], [2] Pilates Equipment Starter Kit — [X] reformers + [Y] accessories, [3] Full Gym Starter Kit — a curated selection across categories. Each kit comes at a [Z]% discount vs. individual orders and includes display/marketing materials." This consolidates small orders into a manageable package while helping the client test the market efficiently.
-- **CTA**: 获取BYFIT试销套装产品目录
+### CN-011 | 采购联系人和最终使用者意见不一致怎么办？
+- 核查：分别确认采购负责成本、教练负责功能、运营负责维护的具体要求，索取各自不能接受的条件；不把联系人表态自动视为全体同意。
+- 行动：制作一页共同需求表，将分歧项单列给相关角色确认；只对已达成一致的部分继续报价，保留功能争议的解决人和完成时间。
 
----
+### CN-012 | 不知道谁批准采购，怎样问得自然？
+- 核查：询问报价提交后通常经过哪些审核，以及哪位同事需要技术、预算或合同资料；让客户说明流程，不索取与本次项目无关的个人信息。
+- 行动：按审核角色整理对应资料与待决问题，请联系人协助安排确认顺序；以“方便一次准备齐全”为目的识别审批链，不绕开现有联系人。
 
-## Sub-category: Price Sensitivity Assessment 价格敏感度评估
+### CN-013 | 设计师指定款式，但运营团队担心维护，如何整理需求？
+- 核查：请设计师标明不可变更的视觉元素，请运营说明维护频次、清洁与维修空间限制；区分效果图偏好和影响日常运营的硬约束。
+- 行动：提供视觉目标与维护条件的并列核对表；仅在真实可供的配置中寻找交集，无法兼得时写明取舍，由双方共同确认最终版本。
 
-### Q: "How do I quickly assess a prospect's price sensitivity before investing time in a detailed quote?"
-**中文**: 在投入时间做详细报价前，如何快速评估潜在客户的价格敏感度？
-- **场景**: 不想花时间做详细报价后发现客户要的是最低价
-- **根因**: 价格敏感客户需要快速筛选，否则浪费大量报价时间
-- **调查信号**: 询盘只有价格问题、无技术问题、对比多个供应商
-- **回复策略**: 用范围报价预筛——告知价格区间看反应
-- **回复模板**:
-  > Before preparing a detailed quote, we test price sensitivity with a range: "BYFIT rubber flooring ranges from $[X] to $[Y] per sqm depending on specifications. To recommend the best option within your budget, could you share: [1] your target price range, and [2] whether quality certifications are required?" [If they say "your cheapest option"] = high price sensitivity, quote standard tier only. [If they say "we need certified products"] = quality-driven, invest in a detailed premium proposal. This 30-second exchange saves hours of misdirected effort.
-- **CTA**: 下载BYFIT价格敏感度30秒测试法
+### CN-014 | 总部采购与门店负责人应分别确认什么？
+- 核查：总部是否统一品牌、合同与配置标准，门店是否承担接货、场地准备和培训？收集权限分工，防止一方确认了自己无权决定的事项。
+- 行动：用责任清单划分总部与门店签字项；统一项目规范，另附每店差异清单，让现场条件通过后才进入相应门店的发货确认。
 
-### Q: "A client says our price is 'way too high' before even reviewing the specifications. What's really going on?"
-**中文**: 客户还没看规格就说价格"太高了"，到底是什么情况？
-- **场景**: 客户在看到产品详情前就拒绝，说明不是产品问题而是预算或策略问题
-- **根因**: "Too high"可能是谈判策略、预算真的不够、或在对比不同档次产品
-- **调查信号**: 拒绝速度异常快、不问具体参数、提及竞争对手价格
-- **回复策略**: 区分三种情况，针对性回应
-- **回复模板**:
-  > "Too high" before reviewing specs means one of three things: [1] Anchoring strategy — they're trying to lower your price expectation (ask: "What price would make this work?"), [2] Budget mismatch — they're comparing BYFIT premium flooring to budget alternatives (clarify: "Are you comparing to SBR or EPDM flooring? Specs differ significantly"), [3] Real budget constraint (offer: "We have a BYFIT standard line that may fit your budget — shall I share those options?"). Understanding which scenario applies determines whether to negotiate, educate, or reposition.
-- **CTA**: 获取BYFIT"太高了"三场景应对卡
+### CN-015 | 如何了解招标顾问的实际评价方式？
+- 核查：索取正式招标条款、评分表及答疑规则，确认技术偏离是否允许、何时可提问；不根据顾问口头偏好猜测最终评标权重。
+- 行动：按评分项建立证据索引，标明满足、偏离与待澄清之处；通过规定渠道提交疑问，确保建议能进入正式文件而非仅停留在聊天中。
 
-### Q: "How do I determine if a price-sensitive client will ever accept premium pricing, or should I only offer budget options?"
-**中文**: 如何判断价格敏感客户是否会接受高端定价，还是只应该提供经济选项？
-- **场景**: 价格敏感客户可能有品质需求但预算受限
-- **根因**: 当前价格敏感不代表品质无感，可能只是预算阶段性紧张
-- **调查信号**: 客户同时问高端和低端产品、终端市场需要品质
-- **回复策略**: 测试品质意愿——先报高端看反应，如果拒绝则提供混合方案
-- **回复模板**:
-  > We test premium willingness with a mixed proposal: "BYFIT offers two approaches: [1] Premium throughout — full EPDM rubber flooring at $[X]/sqm with [Y]-year warranty, [2] Strategic mix — premium BYFIT flooring in [high-visibility/impact zones] at $[X]/sqm, and our standard line in [low-impact zones] at $[Z]/sqm. Option 2 typically reduces total cost by [W]% while maintaining premium quality where it matters most. Which approach aligns better with your current priorities?" If they choose the mix, you know they value premium but are budget-constrained — a future upsell target.
-- **CTA**: 索取BYFIT高端+经济混合方案模板
+### CN-016 | 经销商代终端询价，如何确认需求没有失真？
+- 核查：请经销商区分终端原文要求与自己的建议，确认是否有场地图、项目清单或书面规格；未经许可不直接联系其终端客户。
+- 行动：提供可转发的中性需求确认表，由经销商收集终端反馈；保留信息来源和版本，避免把转述中的假设写进正式技术或商业承诺。
 
-### Q: "When a client asks for a discount on the very first order, what does this signal about their long-term value?"
-**中文**: 客户首单就要求折扣，这传递了什么长期价值信号？
-- **场景**: 首单折扣要求可能是正常谈判也可能是低价值客户的信号
-- **根因**: 首单折扣行为与长期客户价值有相关性
-- **调查信号**: 折扣要求配合其他信号——只谈价格不谈产品、不问交期和售后
-- **回复策略**: 用条件性折扣测试——折扣换承诺
-- **回复模板**:
-  > A first-order discount request signals differently depending on context: [1] Negotiation culture — in some regions, everyone asks for a discount (normal, don't overreact), [2] Price-only focus — if discount is the ONLY topic, this may be a low-loyalty client, [3] Budget-constrained but interested — they want your product but genuinely can't afford full price. For BYFIT pilates equipment, we respond: "We'd love to support your first order. Here's our partnership offer: [X]% discount on this order with a commitment to a [Y]-month purchasing plan of $[Z]+. This unlocks our partner pricing tier going forward." Conditional discounts reveal true intentions.
-- **CTA**: 下载BYFIT条件性折扣策略卡
+### CN-017 | 多位合伙人购买工作室设备，怎样形成共同标准？
+- 核查：分别询问各合伙人最看重的开业目标、预算上限及课程差异，确认谁能批准追加费用；不要假定出资最多的人负责所有决策。
+- 行动：安排一次围绕三项关键取舍的共同确认，把已同意事项写成简短纪要；未统一的选项保留替代报价，不替客户内部决定投资方向。
 
----
+### CN-018 | 客户更换项目联系人后需要重新确认哪些需求？
+- 核查：对照最新确认记录，询问新联系人承接的权限、项目范围和未决事项；检查旧承诺是否仍有效，而不是从头重复询问所有信息。
+- 行动：发送精简交接摘要，明确已锁定、需继承确认及可以调整三类事项；请新联系人只确认变化点，保留可追溯的项目版本。
 
-## Sub-category: Delivery Needs 交付需求
+### CN-019 | 财务部门介入时，怎样补足决策资料？
+- 核查：询问财务需要的是现金支出节点、进口成本归集还是资产采购说明，确认其审核口径；不把技术介绍替代为财务所需的成本资料。
+- 行动：提供与当前报价一致的费用分类和付款节点，未知税费留给客户专业顾问核定；让财务明确尚缺哪项资料，减少跨部门来回传递。
 
-### Q: "A client needs rubber flooring delivered in 2 weeks but our standard lead time is 4 weeks. How do I handle this?"
-**中文**: 客户要求2周交付橡胶地垫但我们标准交期是4周，怎么办？
-- **场景**: 紧急订单打乱生产计划
-- **根因**: 紧急需求背后是项目死线，客户愿意为速度付溢价
-- **调查信号**: 客户提到"opening date"/"deadline"/"project delay"
-- **回复策略**: 分三种方案——库存现货/加急生产/分批交付
-- **回复模板**:
-  > For urgent delivery requests, we offer three solutions: [1] Stock availability — BYFIT keeps [X]sqm of [black/standard colors] in stock for [7]-day shipment, [2] Rush production — we can expedite manufacturing for a [Y]% rush fee, reducing lead time to [2] weeks, [3] Split delivery — ship available stock immediately + produce remaining quantity on standard timeline. "We understand the urgency — which option works best for your project timeline? Many clients choose the split delivery approach to keep their project on schedule while managing costs."
-- **CTA**: 获取BYFIT紧急交付三方案报价模板
+### CN-020 | 谁负责批准样品才能避免“看过却没定”？
+- 核查：确认样品由谁评价外观、谁评价使用、谁拥有最终放行权，询问是否需要多人共同签署；记录批准意见是否覆盖全部采购规格。
+- 行动：在寄样前确定评价表和签批路径，区分体验反馈与正式批准；把最终确认关联到样品编号及照片，避免口头满意被误当成订单放行。
 
-### Q: "How do I assess if a client's 'urgent' deadline is real or a negotiation tactic to get faster service?"
-**中文**: 如何判断客户的"紧急"截止日期是真的还是谈判策略？
-- **场景**: 所有客户都说自己紧急，需要分辨真实紧急度
-- **根因**: 假紧急消耗加急产能，真紧急如果延误会丢单
-- **调查信号**: 客户不愿分享具体项目时间线、多次使用相同借口
-- **回复策略**: 要求提供项目时间线——真紧急的客户愿意分享细节
-- **回复模板**:
-  > We verify urgency by asking for project details: "To prioritize your order effectively, could you share the key milestones: [1] Site readiness date, [2] Installation start date, [3] Grand opening date? This helps us determine the optimal shipping method and allocate production slots." Genuine urgency comes with specific dates; vague urgency ("as soon as possible") is often a pressure tactic. For BYFIT rubber flooring, truly urgent orders get our expedite protocol; non-urgent requests stay on standard timeline with no rush premium.
-- **CTA**: 下载BYFIT紧急度验证三问卡
+## 三、规格、成果与筛选标准（CN-021—CN-030）
 
-### Q: "A client wants delivery in 3 months for a future project. Should I quote now or wait until closer to the order date?"
-**中文**: 客户3个月后才需要交货，应该现在报价还是临近时再报？
-- **场景**: 远期订单面临原材料价格波动和汇率风险
-- **根因**: 现在报价3个月后执行可能亏损，但不报价会丢客户
-- **调查信号**: 客户在做项目规划、需要报价做预算但不会立即下单
-- **回复策略**: 报参考价+锁定条款——报价有效期短，下单时确认
-- **回复模板**:
-  > For future delivery projects, we provide: [1] Budgetary quote valid for [30] days with the caveat that raw material costs may adjust, [2] Price lock option — confirm the order with [X]% deposit now to lock current pricing for delivery in [3] months, [3] Escalation clause — price adjusts by ±[Y]% based on [rubber raw material index] at time of production. "For BYFIT rubber flooring, we recommend the price lock option — it secures your budget and guarantees production slot allocation. Shall we proceed with the deposit to reserve your order?"
-- **CTA**: 获取BYFIT远期订单报价策略模板
+### CN-021 | 客户指定厚度，但没有说明想解决什么问题？
+- 核查：询问该厚度来自设计要求、旧货经验还是其他报价，并请客户描述最希望改善的结果；不同来源的规格不能自动视为等效需求。
+- 行动：保留指定规格作为一条路径，另把目标结果转为可核查条件；只有取得测试或适配依据后才建议替代，不以更厚或更薄直接代表更好。
 
----
+### CN-022 | “商用级”应怎样转为可比较要求？
+- 核查：请客户说明使用频次、环境、承载及希望采用的评判资料，确认其是否引用某项标准；仅有“商用”名称不足以确定性能边界。
+- 行动：用具体结构、额定条件、维护要求和适用测试记录组成对照表；删除无法证明的等级形容词，让客户依据一致口径比较候选产品。
 
-## Sub-category: OEM/Brand Needs OEM/品牌需求
+### CN-023 | 怎样把“安静”拆成明确需求？
+- 核查：客户关注的是设备自身运转声、器械落地声还是下层空间的传声？询问听音位置、现场结构及是否有项目声学指标或测量报告。
+- 行动：分别建立设备、地面与建筑条件的验证路径，约定测量位置和使用情景；不以单一材料参数替代整个房间的声学表现承诺。
 
-### Q: "How do I determine if a client wants OEM/white-label products or is happy with BYFIT branded products?"
-**中文**: 如何判断客户要OEM/白牌产品还是愿意接受BYFIT品牌？
-- **场景**: 不确定客户是否需要贴牌，影响报价和谈判策略
-- **根因**: OEM客户有更高利润但MOQ要求也更高，自有品牌客户量小但利润稳
-- **调查信号**: 客户问"can you put our logo on it"、有自己的品牌但产品线不完整
-- **回复策略**: 主动提供两种选项让客户选择
-- **回复模板**:
-  > We present both options upfront: [1] BYFIT branded products — lower MOQ ([X]sqm), faster delivery ([Y] weeks), proven brand quality, [2] OEM/private label — your brand on BYFIT-quality flooring, MOQ [Z]sqm, custom packaging, lead time [W] weeks, [A]% OEM fee applies. "Both options deliver the same BYFIT manufacturing quality. Many clients start with BYFIT branded products to test the market, then transition to OEM as their volume grows. Which approach aligns with your current strategy?" This gives the client control while clarifying their real needs.
-- **CTA**: 索取BYFIT OEM vs自有品牌对比表
+### CN-024 | 客户要求“耐用”，如何定义寿命目标？
+- 核查：询问希望在什么使用强度下维持哪些功能，以及何种磨损必须更换；核对客户关注的是结构、表面、耗材还是维护停机频次。
+- 行动：把耐用诉求拆成可观察失效项目及维护假设，逐项匹配已有证据；不直接给无条件使用年限，无法验证的寿命预测明确标为待评估。
 
-### Q: "A client wants to private-label our pilates reformers. What's the minimum commitment I should require?"
-**中文**: 客户要在我们的普拉提床上贴自有品牌，应该要求什么最低承诺？
-- **场景**: OEM订单需要定制模具和包装，投资需要回报保障
-- **根因**: OEM定制成本高，无承诺则客户随时可能转向其他供应商
-- **调查信号**: 客户只想少量试单OEM、不愿签年度承诺
-- **回复策略**: OEM订单必须有最低年度承诺+独家保护期
-- **回复模板**:
-  > For OEM/private-label on BYFIT pilates equipment, we require: [1] Minimum annual commitment of [X] units or $[Y], [2] Exclusivity deposit of $[Z] (refundable against orders), [3] [6]-month initial exclusivity period, renewable based on performance. "OEM partnerships require mutual commitment — we invest in custom tooling and packaging, and in return, we ask for a volume commitment that justifies that investment. Our most successful OEM partners commit to [annual volume] and receive [benefits: priority production, exclusive territory, co-branded marketing support]."
-- **CTA**: 获取BYFIT OEM合作最低承诺框架
+### CN-025 | 外观“高级感”如何转为能签样的要求？
+- 核查：请客户提供参考图片并标注关注的纹理、光泽、色差、接缝或线条，确认拍摄光线与屏幕展示是否影响判断，避免只记录主观形容词。
+- 行动：以实物色板、局部工艺样和观察条件确定外观基准；将允许差异写入签样记录，报价只对应已确认工艺，不擅自扩大定制范围。
 
-### Q: "A small brand wants OEM but can only commit to 50 units. Is there a way to make this work profitably?"
-**中文**: 小品牌想做OEM但只能承诺50件，有办法盈利地做吗？
-- **场景**: 小品牌OEM需求真实但量不够覆盖定制成本
-- **根因**: 小品牌的OEM需求可能成长为大批量，但前期需要变通方案
-- **调查信号**: 品牌有增长潜力、创始人有行业背景、目标市场有空白
-- **回复策略**: 用"半定制"方案——标准产品+定制标签/包装，降低定制成本
-- **回复模板**:
-  > For low-volume OEM requests, we offer a "semi-custom" program: [1] Standard BYFIT pilates reformer with custom hangtag and branded packaging (MOQ: [X] units, OEM fee: $[Y]/unit), [2] Custom colorway on existing model (MOQ: [Z] units, no tooling cost), [3] Full OEM with custom logo embossed on frame (MOQ: [W] units + tooling fee). "The semi-custom option lets you build your brand without the full OEM investment. As your volume grows, we can upgrade to full customization. Many of our current OEM partners started with [X]-unit semi-custom orders."
-- **CTA**: 索取BYFIT半定制OEM方案手册
+### CN-026 | 客户要“与现有设备兼容”，需要什么信息？
+- 核查：收集现有设备型号、接口尺寸、附件连接方式及使用说明，确认兼容指尺寸连接还是动作体验；外观相似不能证明部件可互换。
+- 行动：由技术端逐项核对接口与使用边界，不能书面确认的安排实配验证；未通过前不将“通用配件”写成合同事实，保留替换方案。
 
----
+### CN-027 | 怎样确认客户的必选项和加分项？
+- 核查：请客户列出缺少就会淘汰的条件，并用一个预算或交期冲突检验优先级；避免把最初列出的所有偏好都当成不可变更条款。
+- 行动：形成必须、优选、可选三层筛选表，先淘汰不满足必选项的配置；只在真实可供范围内讨论加分项对应的费用与时间差异。
 
-## Sub-category: Compliance Needs 合规需求
+### CN-028 | 竞争报价规格不同，怎样建立公平比较？
+- 核查：在客户允许的范围内核对双方报价的数量、材料、配置、包装、服务与贸易条件，遮去无关敏感信息；对缺失项不臆测对手质量。
+- 行动：制作等口径差异表，注明可确认和未知部分；请客户先决定差异项是否必要，再讨论总价，而不是把低价直接解释为低配或低质。
 
-### Q: "A client in Australia asks if our rubber flooring meets their standards. Which certifications do I need?"
-**中文**: 澳大利亚客户问橡胶地垫是否符合标准，需要哪些认证？
-- **场景**: 澳大利亚有独特的合规要求，不满足会被海关扣货
-- **根因**: 澳大利亚AS/NZS标准与欧盟/美国不同，需要单独认证
-- **调查信号**: 客户提及"AS/NZS"/"Australian standards"/"ACCC"
-- **回复策略**: 查明具体标准要求，提前准备避免交货延误
-- **回复模板**:
-  > For Australian market compliance, BYFIT rubber flooring requires: [1] AS/NZS 4422:2016 — playground surfacing and impact attenuation (applicable for gym flooring in some jurisdictions), [2] Volatile Organic Compound (VOC) compliance per Green Star rating tools, [3] ACCC consumer guarantees compliance — warranty terms must meet Australian Consumer Law. We have [certification status] for items [1] and [2], and our warranty policy is ACL-compliant. For pilates equipment, AS 4092 (fitness equipment safety) applies. We can provide test reports upon request — would you like us to send them?
-- **CTA**: 获取BYFIT澳洲合规认证清单
+### CN-029 | 客户提出难以实现的组合要求怎么办？
+- 核查：指出具体冲突，例如占地与动作范围、定制与交期之间的矛盾，询问哪一项允许调整；先核实真实限制，不轻率宣称“绝对做不到”。
+- 行动：提出有依据的取舍路径，并写明每条路径改变哪些结果；让客户选择可接受边界，技术端确认后再形成修订规格和报价。
 
-### Q: "The client needs products that meet both EU and US standards simultaneously. Is this possible for rubber flooring?"
-**中文**: 客户需要同时满足欧盟和美国标准的产品，橡胶地垫能做到吗？
-- **场景**: 跨市场销售的客户需要产品在多区域合规
-- **根因**: 欧盟REACH+CE和美国CPSIA+ASTM有重叠也有差异
-- **调查信号**: 客户在多国经营、要求全球合规产品
-- **回复策略**: 设计满足最严标准的产品，自然覆盖其他市场
-- **回复模板**:
-  > BYFIT designs rubber flooring to the strictest combined standard: [1] EU REACH — limits on PAHs, phthalates, heavy metals (stricter than US on PAHs), [2] US CPSIA — lead content limits, [3] EN 14904 (EU) and ASTM F2157 (US) for sports surfaces — our flooring meets the higher EN 14904 Class A3 standard, which exceeds ASTM requirements. "We manufacture to the EU+US combined standard — this means BYFIT flooring is compliant for both markets simultaneously. Our test reports cover both EN and ASTM protocols. Would you like the full compliance package for your records?"
-- **CTA**: 下载BYFIT全球合规产品规格书
+### CN-030 | 如何确认样品体验能代表项目所需结果？
+- 核查：比较样品试用环境与实际场地的负荷、清洁、安装和操作条件，询问哪些结果只能在现场验证；一次触感体验不能覆盖全部使用目标。
+- 行动：将验证分成样品可确认项和项目现场确认项，提前安排后者的责任与时间；把评价限制写清，避免样品批准被理解成所有性能的保证。
 
-### Q: "How do I handle a client who needs certifications we don't currently have?"
-**中文**: 客户需要的认证我们目前没有，如何处理？
-- **场景**: 客户要求的认证正在办理或未办理
-- **根因**: 认证缺失可能丢单，但获取认证需要时间和成本
-- **调查信号**: 客户把认证作为硬性要求、竞品已获该认证
-- **回复策略**: 透明告知+提供替代方案+承诺办理时间线
-- **回复模板**:
-  > When a client needs a certification we don't yet hold: [1] Transparency — "We're currently in the process of obtaining [certification name] — expected completion is [date]", [2] Interim solution — "In the meantime, we can provide [equivalent certification] test results covering [X]% of the same parameters, plus a third-party lab report on the remaining criteria", [3] Commitment — "If you proceed with the order, we'll expedite the certification process and share results by [date]. We'll also cover the cost of any re-testing needed." For BYFIT rubber flooring, this approach has retained [Y]% of clients pending certification.
-- **CTA**: 索取BYFIT认证缺失应急处理SOP
+## 四、预算与到岸经济性（CN-031—CN-040）
 
----
+### CN-031 | 客户说有预算，但不愿给具体金额怎么办？
+- 核查：询问预算是否包含运输、税费、安装和首批备件，并请客户说明哪些配置必须保留；不要把拒绝透露金额推断为没有购买能力。
+- 行动：先提供费用结构与真实配置的取舍方向，让客户选择预算压力所在；获得范围或上限后再细化方案，不凭空制造不同价格档位。
 
-## Sub-category: After-Sales Needs 售后需求
+### CN-032 | 如何区分采购预算与到岸总预算？
+- 核查：确认客户的金额对应货值、指定目的港到岸费用还是最终门店落地支出，列出尚未包含的项目；税费和本地服务由相应责任方核定。
+- 行动：给报价附费用边界表，分开已报价、预估及待询价部分；让客户用同一范围审批预算，避免拿不同费用口径直接比较供应商。
 
-### Q: "How do I assess what level of after-sales support a client expects before they even ask?"
-**中文**: 如何在客户开口前预判他们期望什么级别的售后支持？
-- **场景**: 主动提供售后承诺比被动应对更有竞争力
-- **根因**: 不同市场和客户类型对售后期望不同——欧美高、新兴市场中
-- **调查信号**: 客户来自高售后期望市场、订单涉及安装、产品用于高流量场所
-- **回复策略**: 按市场+产品类型预设售后方案
-- **回复模板**:
-  > We proactively offer after-sales based on market and product: [1] EU/US markets — expect full warranty documentation, replacement guarantees, and technical hotline; we include a [X]-year warranty card with every BYFIT rubber flooring shipment, [2] Distributor clients — need installation guides and training; we provide video tutorials and train-the-trainer sessions, [3] Emerging markets — value spare parts availability; we include [Y]% spare tiles per order. "Our after-sales package is included — no extra charge. Here's what it covers: [warranty details, support channels, replacement policy]."
-- **CTA**: 下载BYFIT售后预判矩阵
+### CN-033 | 项目预算按面积计算时如何避免数量失真？
+- 核查：核对净铺装面积、裁切图、异形边角、备用量与包装单位，询问预算单价按净使用面积还是采购面积计算；不默认统一损耗比例。
+- 行动：依据客户确认的布局计算需求量与可解释的余量，分别展示采购面积和有效覆盖；让现场方审核排版后，再用于最终成本估算。
 
-### Q: "A client asks about warranty terms before even placing the order. Does this mean they're a serious buyer or a difficult customer?"
-**中文**: 客户下单前就问保修条款，说明是认真买家还是难缠客户？
-- **场景**: 提前问保修可能说明重视品质，也可能说明爱找麻烦
-- **根因**: 保修问题在采购前的位置反映了客户的优先级和经验
-- **调查信号**: 问题具体（如"coverage for delamination"=专业买家）vs笼统（如"what if something goes wrong"=新手）
-- **回复策略**: 专业保修问题=专业买家，给予详细回复建立信任
-- **回复模板**:
-  > Warranty questions before ordering are usually a positive signal — they indicate a professional buyer who understands total cost of ownership. We respond comprehensively: "BYFIT rubber flooring warranty covers: [1] Manufacturing defects — full replacement within [X] years, [2] Delamination — covered for [Y] years under normal use, [3] Color fading — covered for [Z] years indoor use. Exclusions: [misuse, improper installation, outdoor use of indoor-rated products]. Claims process: [photo documentation + batch number → assessment within 5 business days → replacement shipment]." Professional buyers appreciate this level of detail — it shows we stand behind our products.
-- **CTA**: 获取BYFIT专业级保修条款模板
+### CN-034 | 设备便宜但维护费用未知，应如何讨论经济性？
+- 核查：了解客户的使用频次、可接受停机时间、当地人工和备件采购方式；索取可验证的耗材周期与保养要求，不用假设寿命计算虚假回报。
+- 行动：制作有明确假设的持有成本表，把确定费用与情景估算分开；让客户比较初始投入和后续支出，敏感参数由其运营数据替换。
 
-### Q: "How do I create an after-sales support program for pilates equipment that doesn't eat into margins?"
-**中文**: 如何为普拉提器材设计不侵蚀利润的售后支持方案？
-- **场景**: 普拉提器材有移动部件和磨损件，售后成本高
-- **根因**: 过度承诺售后会亏本，售后不足会丢客户
-- **调查信号**: 客户要求on-site service、需要定期维护
-- **回复策略**: 分层售后——基础免费+增值收费，用售后创造利润
-- **回复模板**:
-  > We structure after-sales as a revenue opportunity, not a cost center: [1] Basic support (included) — warranty on frame [X] years, online troubleshooting guides, email support, [2] Premium support ($[Y]/year) — priority phone support, annual maintenance checklist, [Z]% discount on wear parts (springs, wheels, ropes), [3] On-site service ($[W]/visit) — technician visit for installation verification and annual tune-up. "BYFIT pilates equipment comes with our standard warranty. For studios that want peace of mind, our Premium Care program at $[Y]/year covers proactive maintenance — it typically reduces breakdown-related downtime by [A]%."
-- **CTA**: 索取BYFIT增值售后方案设计框架
+### CN-035 | 客户需要按项目回款节奏采购，先问什么？
+- 核查：询问客户采购支出与终端项目收款分别在哪些节点发生，以及哪些节点已确认；不要求无关银行流水，也不把计划回款当成现金到位。
+- 行动：按真实项目阶段整理可分批采购的范围和额外成本，交由用户审核商务可行性；付款安排只提出待批准选项，不擅自承诺融资或账期。
+
+### CN-036 | 小批量采购怎样理解包装和运输的成本影响？
+- 核查：核对每箱数量、毛重、体积、目的地及是否可合并其他货物，询问客户能否接收整包装；不能只以单件出厂价判断订单是否划算。
+- 行动：请物流方对实际装箱方案询价，分别展示货值和运输分摊；若调整数量可改变包装效率，说明库存占用与总支出，而不只强调单价下降。
+
+### CN-037 | 预算不足时，应优先减配置还是减数量？
+- 核查：问清开业所必需的功能、同时使用人数和可延后采购部分，确认减少某配置是否会破坏课程或运营；安全与必要适用条件不作为削减项。
+- 行动：围绕完整可运营的最小方案重新排序，区分阶段采购与性能调整；展示每项删减的实际影响，让客户确认，不以隐性降规格满足总价。
+
+### CN-038 | 怎样确认客户需要什么币种与有效期？
+- 核查：询问客户预算审批和实际付款使用的币种，以及预计下单时间；核对现行报价币种与有效期，不推断其有外汇套保或结算能力。
+- 行动：仅在财务确认可行后提供相应结算选项，说明价格有效边界与重新核价条件；对汇率影响做情景说明，不承诺汇率方向或固定收益。
+
+### CN-039 | 客户把安装人工排除在预算外，需要提醒什么？
+- 核查：确认谁负责卸货、搬运、地面处理、组装与废包装处置，是否已有当地报价；“自行安装”也需确认人员、工具和场地准备条件。
+- 行动：把现场工作拆成可询价的任务包，向客户提供已确认的安装资料供本地承包商报价；未知人工费用单独标注，避免总预算漏项。
+
+### CN-040 | 客户希望证明投资合理，如何建立测算边界？
+- 核查：询问决策关注新收入、会员容量、课程排班还是避免替换成本，收集客户自己的收费、利用率与支出假设；不代其编造收入提升幅度。
+- 行动：用客户确认的数据建立可调整测算，给出盈亏平衡条件和关键敏感项；明确它是决策情景而非收益保证，让财务审核后使用。
+
+## 五、进度、运输与现场条件（CN-041—CN-050）
+
+### CN-041 | 客户只给开业日，怎样确定真正的交付节点？
+- 核查：倒问清关、内陆运输、卸货、安装、试运行和员工培训分别需要多久，确认开业日是否固定；区分货到港、到场和可使用三个日期。
+- 行动：从可使用日期反排关键节点，标记各方负责人及未确认时长；生产与运输可行性核实后再承诺节点，保留客户批准所需时间。
+
+### CN-042 | 如何判断现场是否具备地面铺装条件？
+- 核查：要求基层照片及可用的平整度、含水或基层处理记录，确认谁评估现场；新装修时间表不能直接证明基层已经适合铺装。
+- 行动：把产品安装要求交给当地施工方逐项核验，形成现场放行清单；条件未满足时先明确整改与复查步骤，不以发货代替安装准备。
+
+### CN-043 | 大件器械进场需要哪些尺寸资料？
+- 核查：收集卸货口、门洞、走廊转角、电梯载重与尺寸，以及最终安装楼层；同时核实运输包装尺寸和可拆分边界，不能只看整机占地。
+- 行动：将进场路径交给现场搬运方确认，遇到限制先核实拆装或吊装可行性；费用与责任另列，未经技术批准不建议任意拆卸结构。
+
+### CN-044 | 客户没有进口经验时，应怎样确认运输需求？
+- 核查：询问收货主体是否已有报关代理、进口资质和目的地费用安排，确认谁能处理到港通知；不把首次采购等同于必须采用某种贸易术语。
+- 行动：解释各方需完成的任务并请其代理核对，按当前可提供服务范围报价；将税费、清关和末端交付边界写清，不承诺包办未知手续。
+
+### CN-045 | 混装地垫与器械时应先协调什么？
+- 核查：核对货物重量、体积、堆码限制、包装形态及到货后的卸载顺序，确认是否同一地点使用；不同产品不能只按总体积简单拼装。
+- 行动：请装柜方评估载重分布、固定与防护方案，结合现场需要排列卸货顺序；把装载可行性和最终运费作为核实项，不提前承诺装柜数量。
+
+### CN-046 | 设备有电气配置时，哪些现场信息不可遗漏？
+- 核查：索取安装地址的供电参数、插接形式和电路准备情况，并确认产品具体电气版本；不根据国家名称直接推定所有现场供电一致。
+- 行动：让技术端与当地合格人员核对电气适配和安装要求，在配置表标明已确认参数；未确认前不安排生产，也不建议自行改线解决差异。
+
+### CN-047 | 分批交付怎样确认客户真正需要的顺序？
+- 核查：询问哪些区域先投入使用、每批最少完整功能是什么，以及分批收货的仓储与清关能力；不要机械地把订单平均分成几批。
+- 行动：按照可独立使用的区域或课程组合划分批次，分别列出额外包装、运输及协调成本；请客户确认批次间依赖关系与每批验收对象。
+
+### CN-048 | 到货后暂不能安装，需求应如何调整？
+- 核查：确认预计存放时长、仓库环境、堆放条件和包装是否会被提前拆开，询问谁负责检查保管；不能把运输包装自动当成长期仓储方案。
+- 行动：向技术端核实储存限制并给出接货后的检查和保管清单；如条件不满足，协调发运或安装节奏，相关成本与风险由双方书面确认。
+
+### CN-049 | 安装方还没选定，能否先锁产品？
+- 核查：确认产品对工具、人员经验、粘接或固定方式的要求，询问客户何时能确定施工方；型号确定不代表所有现场施工条件已经满足。
+- 行动：可先保留功能与尺寸方向，将安装相关配置设为待定；提供施工需求摘要供当地团队评估，关键安装条件通过后才最终放行相关项目。
+
+### CN-050 | 客户要求加急，怎样确定值得压缩哪一段？
+- 核查：询问必须赶上的具体事件和晚到的实际影响，核对当前审批、生产、运输与现场准备进度；不假定所有延误都能靠加急生产解决。
+- 行动：逐段核实可压缩时间及真实成本，优先处理当前关键路径；仅对可兑现的选项报价，无法赶上时清楚给出最早可确认节点及替代范围。
+
+## 六、品牌与OEM定义（CN-051—CN-060）
+
+### CN-051 | 客户说要OEM，如何明确工作范围？
+- 核查：询问需要的是贴标、配色、包装、结构调整还是专属型号，索取预期销售场景和现有设计文件；“OEM”一词不能代替完整定制清单。
+- 行动：逐项划分标准可选、需打样评估和暂不可确认的内容，分别核实费用、起订与时间；让客户批准范围后再安排设计或样品工作。
+
+### CN-052 | Logo文件怎样才足够进入生产评估？
+- 核查：检查文件是否为可用矢量、尺寸与颜色是否明确，询问放置位置、可视方向及客户对商标的使用权；截图不能直接当成最终生产稿。
+- 行动：请设计或工艺端出带比例与位置的确认图，标注最终文件版本；取得客户书面批准及权利确认后再推进，不擅自重绘品牌标识。
+
+### CN-053 | 品牌色需要如何验收而不是凭屏幕确认？
+- 核查：询问客户采用的颜色标准、承认的实物色样及适用观察条件，确认不同材料是否允许视觉差异；电子图片颜色不能当成唯一标准。
+- 行动：安排与实际工艺一致的色样核对，明确可接受色差和签样方法；只有工艺端核实后才承诺匹配程度，避免将“接近”写成“完全一致”。
+
+### CN-054 | 客户要自有品牌包装，应确认哪些用途？
+- 核查：包装用于电商单件销售、经销仓储还是项目直接到场？收集物流搬运方式、品牌信息和当地标签要求，区分展示效果与运输保护需求。
+- 行动：将外观稿、结构防护和标签内容分开批准，核实试装与运输验证需求；不让好看的包装方案覆盖承重、固定和必要信息的确认。
+
+### CN-055 | 客户希望隐藏供货来源时，怎样界定可做事项？
+- 核查：问清其要求涉及宣传资料、箱唛还是依法需披露的制造与进口信息，确认原因和文件使用对象；不把隐私需求解释为允许虚假产地或身份。
+- 行动：提供授权范围内的中性品牌资料与包装方案；必须真实或依法标示的信息由客户顾问核对，不能通过删除、伪造主体信息满足要求。
+
+### CN-056 | 专属结构定制前必须确认哪些权属？
+- 核查：要求客户说明图纸来源、可授权使用的设计范围，以及模具或开发成果的预期归属；不接收一张竞品照片就推定可完整复制。
+- 行动：在技术可行性评估前明确知识产权与保密边界，再由有权人员审核开发协议；样品、模具与量产批准分别记录，不混同为一次授权。
+
+### CN-057 | 客户的标签和说明书需要多少语言？
+- 核查：确认实际销售市场、经销路径和最终用户语言，以及谁负责专业翻译与当地审阅；不要仅按采购联系人的沟通语言决定产品资料语言。
+- 行动：建立语言版本清单，将安全信息、安装步骤与营销文字分开校对；客户确认翻译与适用要求后发布，避免未审核机器译文直接进入包装。
+
+### CN-058 | 如何确认定制图片和视频的交付要求？
+- 核查：询问素材使用渠道、所需尺寸、文件格式、品牌露出和是否需要无水印版本，核实已有素材的版权与可授权范围；不先承诺素材数量。
+- 行动：列出现有可授权素材及需另行制作部分，明确费用和交期；由客户确认样片风格与使用权限后安排制作，不擅自引用其他客户的场景。
+
+### CN-059 | 客户希望每件产品有自己的编码，怎样落地？
+- 核查：索取客户SKU规则、条码体系、箱内件数及仓库扫描要求，确认编码对应单件、套装还是外箱；不自行创造看似正式的全球商品编码。
+- 行动：制作产品、客户SKU、包装层级的映射表并试扫样标；由客户确认合法编码及系统可读性后放行，保留内部追溯码与品牌码的关联。
+
+### CN-060 | 以后更换品牌设计，首单应预留什么？
+- 核查：询问品牌是否已有即将更新的标识、包装或产品命名，以及预计切换日期；确认库存包装、已做工装和在途订单是否都要同步变更。
+- 行动：将可后置的印刷或标签批准安排到合理节点，明确版本切换和旧料处理规则；不为未确认的新设计先承诺免费修改或无限次打样。
+
+## 七、合规与资料用途（CN-061—CN-070）
+
+### CN-061 | 客户说“需要认证”，第一步该问什么？
+- 核查：询问资料用于进口、招标、安装验收还是终端销售，要求具体标准、产品型号和出具机构要求；不把任何证书都视为通用通行证明。
+- 行动：建立文件需求与现有有效资料的对应表，标记范围匹配、缺失和需专业确认项；只发送核实适用的文件，不借用其他型号资料充数。
+
+### CN-062 | 同一订单多个型号，合规资料怎样逐项确认？
+- 核查：核对报告列明的型号、样品描述、配置及适用范围与订单一致性，询问改色、附件或电气版本是否影响覆盖；不能仅看报告封面名称。
+- 行动：按订单行建立资料覆盖矩阵，将未覆盖型号单独升级核查；需要补测时先确认项目、样品和周期，不把同系列自动当成已符合。
+
+### CN-063 | 客户的检测标准版本不清楚，如何处理？
+- 核查：索取项目采用的标准编号、版本年份和采购文件原文，确认由谁判定适用性；旧报告存在不代表满足当前采购或市场要求。
+- 行动：让客户合规顾问或合格检测机构核实适用版本，记录判断来源和日期；未确认前只陈述已有报告事实，不给全面合规结论。
+
+### CN-064 | 地面项目涉及建筑要求，供应商应确认到哪里？
+- 核查：询问施工地点、建筑用途及设计方要求的防火、声学或其他验收资料，区分材料检测与整套施工系统要求；不自行给出建筑审批判断。
+- 行动：提供能核实的产品与测试信息供项目专业方审核，列明基层、粘接和施工组合的限制；由有权单位确认方案适用后再锁定采购。
+
+### CN-065 | 客户询问环保，应如何明确其真正指标？
+- 核查：请客户说明关注再生含量、排放、特定物质还是采购政策，索取可接受的证明形式；“环保”不是单一指标，也不能由无气味推定。
+- 行动：把每个环境诉求连接到对应声明或检测证据，未知项目明确标待核；营销用词与报告范围保持一致，避免笼统写成无毒或零排放。
+
+### CN-066 | 招标要求原件或可核验报告，怎样准备？
+- 核查：确认接受电子扫描、带签章文件还是机构验证链接，核对提交截止日及保密要求；不假定公开版资料能满足全部投标格式条件。
+- 行动：由资料负责人审核真实性、可分享权限与版本，按要求整理索引；无法取得的形式尽早请招标方澄清，不修改机构签章或报告内容。
+
+### CN-067 | 买家希望标签体现额定承载，先做什么？
+- 核查：核对具体型号的额定条件、测试依据及标签语言，询问采购方是否有指定格式；不把极限测试值或相近型号数据当成日常额定值。
+- 行动：让技术与合规负责人共同批准标识内容，将额定使用边界同步进入说明书；数据未证实时暂停相应数值印刷，避免后续批量纠正。
+
+### CN-068 | 客户计划跨市场销售，资料如何规划？
+- 核查：确认首发与后续市场清单、各地销售主体及预计时间，分别收集进口商的资料要求；不认为某市场资料能无条件覆盖其他市场。
+- 行动：按市场建立适用性核查任务，先满足已明确首发范围；新增市场作为单独评估节点，向当前权威要求和专业审核寻求确认。
+
+### CN-069 | 包装木材或运输材料需要哪些资料？
+- 核查：确认实际采用的包装材料、运输路线和进口代理的要求，询问是否涉及特定处理或标识；仅凭“木箱”称呼不能确定材料与处理状态。
+- 行动：让包装供应端与报关代理核实应备证明和标记，订单中写清最终包装方式；资料与实物一致后再出运，不用空白模板替代处理证明。
+
+### CN-070 | 客户要求合规声明时，怎样明确签署主体？
+- 核查：确认文件名称、适用规则、拟声明内容及依法承担责任的主体，检查是否与合同角色一致；不让销售人员随意签署超出权限的法律声明。
+- 行动：把需求交给有权签署人与专业顾问审核，附上可支持的技术资料；没有依据的条款说明原因并请求澄清，不把客户模板原样盖章。
+
+## 八、商务条款与责任分界（CN-071—CN-080）
+
+### CN-071 | 客户只问FOB价，还缺什么交易信息？
+- 核查：确认指定装运港、货物数量与包装、采用的术语版本及双方理解的费用范围；仅有“FOB”三个字不足以确定一份完整报价边界。
+- 行动：在报价中写明地点、版本和包含项目，并让货代核实实际操作费用；不额外承诺未报价的目的地服务，发现术语不适配时说明待协商。
+
+### CN-072 | 如何明确运费报价由谁承担变化？
+- 核查：询问运输安排由谁预订、运费是否已有有效报价，以及订舱时间与附加费口径；不要把一次询价视为长期固定的运输成本。
+- 行动：将运费有效期、重新确认节点和可能另计项目单列，按授权讨论固定或实报方案；客户批准后再安排预订，保留报价来源与确认记录。
+
+### CN-073 | 首单付款方式应先确认哪些流程？
+- 核查：了解客户内部审批、银行支付所需资料、预期节点及双方可接受方式，核对合同与收款主体；不因对方规模大就默认可接受赊销。
+- 行动：由用户批准可提供的支付条件，再与客户的流程对齐；将付款触发点和所需单据写清，任何账户变更按独立渠道复核后处理。
+
+### CN-074 | 什么时候算订单正式生效，需要说清吗？
+- 核查：确认双方预期以签约、订金到账、规格批准还是其他事件启动排期，检查定制文件是否仍待确认；聊天里“确认”可能只指单个参数。
+- 行动：在合同或PI写明生效条件与各项批准的先后关系，让客户知道从哪一刻计算相应周期；未满足条件时准确表述当前状态，不暗示已投产。
+
+### CN-075 | 客户下单后可能修改数量，如何预先约定？
+- 核查：询问需求数量为何尚未稳定，预计何时锁定；核对材料采购、定制和装箱在哪些节点后会产生不可回收成本，不假定随时可改。
+- 行动：把变更窗口、重新核价及书面批准流程写入订单确认；收到修改后先评估成本与交期影响，再让客户选择，不自动执行口头变更。
+
+### CN-076 | 保修需求怎样从“要保修”变成明确条款？
+- 核查：询问客户关注的部件、使用强度、证明材料与当地维修方式，区分质量缺陷、耗材、误用和安装问题；不先承诺统一全包年限。
+- 行动：依据当前可授权政策逐项列明覆盖、排除、起算点和处理路径；备件、人工与运输费用分开确认，避免“保修”被理解成所有费用免费。
+
+### CN-077 | 质量争议由谁判定，需要在何时谈？
+- 核查：确认订单是否有批准样品、规格公差、检验方法和双方认可的第三方，询问争议发生时谁能提供现场与批次证据；不只写“质量保证”。
+- 行动：在签约前确定证据保存、共同检查和升级程序，由有权人员审核条款；补救范围与费用须按结果协商，不提前作无限赔偿承诺。
+
+### CN-078 | 买家要求独家权，怎样明确商业需求？
+- 核查：询问独家涉及地域、渠道、客户群还是具体型号，以及期限、采购计划与服务责任；不把“当地合作伙伴”自动解释成独家授权。
+- 行动：将范围与双方义务列成待谈条款，由用户审核销售冲突和可执行性；没有授权前只讨论合作条件，不发送可被误读的独家证明。
+
+### CN-079 | 客户要求第三方验货，双方需要提前约定什么？
+- 核查：确认机构、时间、抽样方法、检验项目、合格阈值和费用承担，核对能否在包装前完成；“验货通过”不能替代清晰的验收标准。
+- 行动：让生产、验货方和客户共同确认检查清单及复检流程，将放货条件写入订单；对现场无法测试的项目安排其他证据路径，不临时补造报告。
+
+### CN-080 | 订单取消或项目暂停，需要确认什么？
+- 核查：询问可能暂停的原因、通知窗口及当前进度，核实定制材料、已完工品和运输是否已有支出；不将可退标准品规则套用于全部项目。
+- 行动：由有权人员审核取消、延期、保管与恢复的处理条款，按可核实成本协商；把可恢复与不可恢复部分分开说明，不擅自承诺全额退款。
+
+## 九、验收、培训与交接（CN-081—CN-090）
+
+### CN-081 | 客户说“到货没问题就验收”，如何细化？
+- 核查：询问到货时谁核对箱数、外观、数量和功能，以及是否需安装后复验；不同检查时间能发现的问题不同，不能用一句满意覆盖全部环节。
+- 行动：建立接货、开箱和安装试运行三段清单，注明记录方式与通知窗口；按双方批准的范围确认验收，不削弱依法或合同享有的权利。
+
+### CN-082 | 怎样把可接受外观差异写得可执行？
+- 核查：让客户标明关注的表面位置、观察距离、照明与缺陷类别，核对已有签样；可见工作面和隐蔽部位不应未经讨论使用同一主观判断。
+- 行动：用真实图片和实物基准制定外观判定附件，由双方批准；无法量化的项目安排共同复核程序，不擅自把任何差异宣布为正常。
+
+### CN-083 | 客户要功能验收，但没有测试方法怎么办？
+- 核查：逐项询问关键动作、调节、连接或运行功能应怎样演示，确认现场工具和人员能力；普通使用检查与实验室安全测试须明确区分。
+- 行动：制定可在现场安全重复的功能检查步骤，标注前提、结果记录和停用条件；超出现场能力的项目使用合适检测路径，不临时设计危险测试。
+
+### CN-084 | 数量验收按箱还是按套，怎样避免歧义？
+- 核查：核对报价、装箱单和客户仓库系统中的单位，确认附件、备件及组合产品是否独立计数；“一套”必须列明组成，而非依靠行业习惯。
+- 行动：提供箱号与套件构成对应表，规定拆箱点数和缺件记录方法；客户仓库确认后统一所有文件单位，避免收货时重复或漏算附件。
+
+### CN-085 | 试运行需要多长，应由什么决定？
+- 核查：确认试运行要验证安装、操作还是课程流程，核对真实使用条件和负责签字人员；不凭空指定统一天数，也不把试用当作破坏性耐久测试。
+- 行动：按待验证功能设置试运行步骤与观察周期，记录异常、处理和复查结果；范围经双方确认后执行，完成标准由具体目标而非单纯天数决定。
+
+### CN-086 | 教练培训应交付什么内容？
+- 核查：询问教练是否熟悉该类设备、需要哪种语言及如何安排班次，区分产品安全操作介绍与专业课程认证；供应商资料不能替代执业培训。
+- 行动：围绕调节、检查、日常操作和停用信号准备经批准内容，确认可提供的形式；专业教学资质由客户安排相应机构，不承诺未经授权的认证。
+
+### CN-087 | 运营团队如何接收保养任务？
+- 核查：确认现场谁执行清洁、紧固检查、润滑或耗材更换，以及是否已有维护记录系统；购买者收到说明书不等于实际维护人员已掌握步骤。
+- 行动：把厂家核实的维护要求转成岗位清单和记录表，让现场负责人演示关键步骤；明确需要专业人员的工作，不鼓励普通员工自行维修危险部件。
+
+### CN-088 | 需要留下哪些资料才算交接完整？
+- 核查：问清客户由谁保管合同、规格、安装说明、部件图、批次信息与售后入口，确认电子文件是否可被门店访问；避免资料只停留在聊天附件。
+- 行动：建立按订单和型号索引的交接目录，向客户指定人员确认接收；只包含可核实且可分享的资料，后续修订注明版本，避免旧文件继续流转。
+
+### CN-089 | 客户希望安装后再付尾款，如何明确检验节点？
+- 核查：确认安装由谁安排、可控完成日期和拟验收项目，询问是否存在第三方场地延误；付款条件改变须与现有合同及用户权限一并核对。
+- 行动：先把验收事件定义为可记录的具体动作，再由用户评估可接受的付款安排；区分货物符合性与客户工程进度，不擅自同意无限延期。
+
+### CN-090 | 如何让第一家门店的验收服务后续复制？
+- 核查：询问首店哪些条件代表未来标准，哪些只是当地现场差异，收集首店验收的异常与调整记录；不把一次顺利验收视为所有门店自动适用。
+- 行动：将通用检查项固化为模板，把现场变量留在附表；由总部与安装负责人共同批准修订版本，让后续门店按同样证据要求确认。
+
+## 十、复购、扩张与配置标准化（CN-091—CN-100）
+
+### CN-091 | 连锁客户要统一采购，先统一哪些内容？
+- 核查：收集门店分型、课程、面积和设备使用差异，确认统一的是品牌外观、核心性能还是全部型号；不因同属一连锁就强行复制完整配置。
+- 行动：建立核心标准包与门店差异模块，分别管理可替代条件；先让一个代表性门店验证，再按批准的差异规则扩展，而非一次锁死所有站点。
+
+### CN-092 | 年度采购计划应细到什么程度才有用？
+- 核查：询问季度项目、预计型号、数量范围与客户的预测可靠度，区分已签项目和机会储备；预测不是采购承诺，也不应当作可直接占用产能的订单。
+- 行动：用滚动预测表保留确定程度和更新日期，明确哪些节点才能转成正式订单；由用户确认可提供的备料或排期支持，不承诺无限库存保障。
+
+### CN-093 | 后续补单怎样保持与首批一致？
+- 核查：确认客户最需要保持的颜色、尺寸、接口、触感或外观基准，核对首批留样与版本记录；“和以前一样”必须能定位到具体订单配置。
+- 行动：建立复购基准档案与变更提醒机制，补单时核实材料、工艺和资料是否变化；存在差异先送样或说明，不默认跨批次绝对无差别。
+
+### CN-094 | 客户预计增加备件库存，如何确定范围？
+- 核查：收集装机数量、使用强度、当地维修周期和最不能停机的部件，核对真实易损件清单；不凭销售经验给所有客户统一备件比例。
+- 行动：按停机影响、获取时间和保存条件制定备件优先级，提供已确认型号与数量建议；客户批准后单独报价，标明适用版本与库存更新方法。
+
+### CN-095 | 旧型号未来停产时，客户希望怎样衔接？
+- 核查：询问客户对外观延续、配件互换和替换设备的优先级，确认在役设备资料保留情况；不能为没有确认的产品生命周期作长期供货保证。
+- 行动：约定可执行的变更通知和替代评估流程，将接口、尺寸及维护差异列入核对；收到实际变化后提供核实信息，而非先承诺永久不断供。
+
+### CN-096 | 经销商从项目制转现货销售，需要重问什么？
+- 核查：确认预期周转、仓库容量、常卖配置与本地交货承诺，区分已成交需求和备货判断；一次大项目的畅销型号未必适合持续库存。
+- 行动：由客户销售记录确定首批库存结构，按补货周期和滞销风险做小范围验证；不以单次折扣推动超量压货，将调整规则提前讲清。
+
+### CN-097 | 客户要建立当地售后点，采购阶段应预留什么？
+- 核查：了解当地团队的技术能力、工具、零件管理与服务范围，确认哪些维修必须由专业人员完成；有联系人不等于已具备授权维修能力。
+- 行动：围绕经核实的维修资料、部件识别和培训条件制定分阶段建设清单；授权、责任与收费另行批准，不先向终端宣传完整本地服务网络。
+
+### CN-098 | 多仓配送项目怎样管理需求差异？
+- 核查：索取各仓收货规则、箱唛、预约、卸货及分配数量，确认是否需要逐店套装；总部总量正确并不能避免某仓的配货和识别错误。
+- 行动：建立目的仓与订单行、箱号的分配表，安排客户逐仓确认；按实际可提供的分拣和包装服务核价，出运前冻结最终分配版本。
+
+### CN-099 | 试销成功后放量，怎样确认“成功”的定义？
+- 核查：询问试销关注实际售出、回款、退货、安装评价还是复购意向，设定观察时间和数据来源；进货量或社媒点赞不能单独代表市场接受。
+- 行动：事先约定放量门槛与需要复核的配置，按客户真实反馈调整；只对已被数据支持的品类扩大计划，不把试销目标写成必然销量承诺。
+
+### CN-100 | 扩张期间需求变化，怎样维护唯一有效版本？
+- 核查：确认谁有权更新标准配置、各地团队从哪里获取最新文件，以及哪些订单仍按旧版执行；聊天中的新要求不应自动覆盖所有在制订单。
+- 行动：建立带生效日期的配置主表与变更记录，逐单评估库存、生产和交付影响；由客户授权人批准切换范围，避免新旧版本混用造成连锁返工。

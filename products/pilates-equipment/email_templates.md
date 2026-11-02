@@ -1,5 +1,7 @@
 # BYFIT Pilates Equipment — Product-Specific Email Templates
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 ## Email Template Usage Guide
 
 - **Subject lines** follow 外土司 网红式标题 formula: curiosity + relevance + specificity

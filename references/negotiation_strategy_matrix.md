@@ -1,5 +1,7 @@
 # BYFIT 谈判策略矩阵
 
+> Legacy internal examples only. Follow current SKILL.md and client_scoring_framework.md when these notes conflict. Unknown evidence stays unknown; no automatic sending, fabricated buyer psychology, unverified company claims, promised returns, or unauthorized concessions.
+
 ## 8 买家原型 × 5 场景 = 40 策略组合
 
 ---
@@ -615,7 +617,7 @@
 **关键话术：**
 - "我们提供完整的质量保障体系：原材料检测→产线抽检→成品全检→出货前第三方验货..."
 - "首单我们建议从小批量开始，让您有机会验证我们的产品质量和交付能力..."
-- "我们接受L/C付款方式，您的资金安全有银行保障..."
+- "如双方同意采用L/C，应由银行审核具体信用证条件、单据要求与相关风险；不能承诺资金绝对安全。"
 
 **Do's:**
 - 主动列出所有风险点并逐一给出保障措施

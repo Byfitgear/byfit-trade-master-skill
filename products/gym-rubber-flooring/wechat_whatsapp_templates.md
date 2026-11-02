@@ -1,5 +1,7 @@
 # BYFIT Gym Rubber Flooring — WeChat & WhatsApp Templates
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 > All messages in English for international clients. Emoji usage appropriate for each platform (more for WhatsApp, subtler for WeChat). Keep messages concise — IM communication should be scannable.
 
 ---

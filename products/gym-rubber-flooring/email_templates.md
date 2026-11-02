@@ -1,5 +1,7 @@
 # BYFIT Gym Rubber Flooring — Email Templates
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 > **Methodology Integration:**
 > - **Email Group (报价/谈判/跟进)** — 毅冰 Email Group method: value-anchored sequence with escalation
 > - **Subject Lines** — 外土司 formula: [Client Name] + [Specific Value] + [Urgency/Curiosity]

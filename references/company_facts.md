@@ -1,51 +1,40 @@
-# BYFIT company facts and claim controls
+# BYFIT 卖方档案与声明边界
 
-Use this file as a guardrail, not as permission to make every listed statement. The user's latest instructions and current source documents override this file.
+## 用户提供的当前背景
 
-## Repository-supplied identity
+来源：Eric 于 2026-11-02 在当前任务中明确提供。状态：`用户提供，未经独立验证`。本表可作为开发定位和起草背景；不能将其写成第三方核验结果。后续用户确认及本次订单文件优先。
 
-These items are present in the repository and may be used for ordinary drafts unless the user supplies newer information:
+| 字段 | 用户提供内容 |
+|---|---|
+| 联系人 | Eric |
+| 商务邮箱 | sales@sdbyfit.com |
+| 官网 | https://byfitgear.com/；https://shandongbyfit.com/ |
+| 品牌 | BYFIT |
+| 国家 | China |
+| 产品线 | Gym Rubber Flooring；Gym Equipment；Pilates Equipment |
+| 模式 | B2B；Wholesale only |
+| 工厂背景 | Factory with 20 production lines |
+| 主要出口市场 | United States、Germany、UK、France、Italy、United Arab Emirates、Saudi Arabia、Japan、South Korea、Australia |
+| 目标买家 | 大公司采购、橡胶地垫进口商/分销商、健身房/健身中心运营者、体育用品零售商、电商零售商 |
+| 产品定位 | 品类多、质量、可定制Logo、耐用、高性价比、环保、减震、防滑 |
+| 获客渠道 | Exhibitions、Google Ads、客户推荐 |
 
-| Field | Working value | Use rule |
-|---|---|---|
-| Contact | Eric | Use when a signature or first-person identity is needed. |
-| Email | `sales@sdbyfit.com` | Use only when a signature is requested or already present. |
-| Brand | BYFIT | Use for gym flooring and gym equipment unless the user specifies another brand. |
-| Pilates brand | BYFIT PILATES | Use when the user's current materials or instructions use this name. |
-| Websites | `byfitgear.com`, `shandongbyfit.com` | Do not claim both are current without checking when the distinction matters. |
-| Product scope | Gym rubber flooring, gym equipment, Pilates equipment | Route to the relevant product knowledge file. |
-| Sales model | B2B export/wholesale | Do not infer factory ownership from this. |
+## 使用规则
 
-## Facts that require current confirmation
+- 可以基于用户声明介绍BYFIT工厂背景和B2B定位。正式尽调、验厂、合同或所有权争议时，需要与法律主体、场地及当前产品制造安排逐项核对。
+- 20条为整体声明，不是每个产品线各20条；不据此推导产能、交期或固定低MOQ。
+- 出口国家列表不是可公开的客户名单，也不是每个型号均已出口全部市场的证明。
+- 环保、减震、防滑、耐用为定位，不等于零VOC、无毒、零气味、某摩擦系数、某寿命或通过特定认证。
+- Logo定制不等于所有产品均能免费定制；费用、起订量、交期逐单确认。
+- 未提供：法律公司名称/地址、电话、银行账号、认证、检测、质保、价格、Incoterm/港口、年限、年销售额及单类产能。不得从旧模板自动补上。
+- 如本次产品由合作制造方供应，应按真实关系表述，不虚称所有权；合作方名称仅在用户明确授权时披露。
 
-Never take these from a template, example, or old knowledge file without confirmation:
+## 当前交易声明登记
 
-- Legal company name and address.
-- Whether BYFIT owns a factory, operates production lines, coordinates partner factories, or acts as a trading/export company.
-- Number of factories, suppliers, employees, production lines, years in business, or annual output.
-- Certificate ownership, certificate scope, report number, issuing body, test result, or validity date.
-- Export countries, customer names, order history, return/defect rate, warranty performance, or case-study outcome.
-- Product specification, MOQ, price, discount, lead time, loading quantity, package, payment term, Incoterm, and destination or loading port.
-- Stock, production slots, raw-material movement, freight, customs requirements, or regulatory status.
+仅在任务的私有上下文中维护，不自动写回此公开仓库：
 
-## Manufacturing relationship language
+| 声明 | 精确值与范围 | 来源/日期 | 状态 |
+|---|---|---|---|
+| 单价示例字段 | [币种/数值/单位/贸易术语/港口] | [当前报价文件] | 用户提供/已核实/待确认 |
 
-Use the most accurate description supported by the current conversation or company documents. Do not call BYFIT a factory owner or direct manufacturer unless the user has confirmed that statement for the relevant product and facility.
-
-When partner production is involved and the exact structure is not for disclosure, accurate high-level wording may include only what is true, such as:
-
-- "We coordinate production and export through our qualified manufacturing network."
-- "Our team manages specification control, production follow-up, inspection, and export coordination."
-- "This product is made by a long-term production partner under our agreed quality requirements."
-
-Do not name a partner factory unless the user authorizes it. Do not imply ownership to avoid naming the partner.
-
-## Evidence register
-
-For formal quotations, catalogs, certification packs, or trust disputes, track material claims in this form:
-
-| Claim | Exact value | Source | As of | Status |
-|---|---|---|---|---|
-| Example: current quoted price | [currency] [amount]/[unit] [Incoterm] [port] | User-provided current quotation | YYYY-MM-DD | Confirmed |
-
-Status must be one of: `Confirmed`, `Needs confirmation`, `Expired`, or `Not available`. Do not send a claim marked `Needs confirmation`, `Expired`, or `Not available` as a fact.
+用户说明、现行文件、第三方证据发生冲突时标明差异，请用户确认后再对客作确定承诺。

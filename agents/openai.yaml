@@ -1,4 +1,4 @@
 interface:
   display_name: "BYFIT Trade Master"
-  short_description: "Analyze buyers and prepare evidence-based BYFIT sales work"
-  default_prompt: "Use $byfit-trade-master to analyze this buyer conversation or commercial document and prepare the best next action."
+  short_description: "Auto-research buyers and draft B2B sales replies with evidence"
+  default_prompt: "Use $byfit-trade-master to investigate this buyer from their name, email and message, explain the evidence and grade, then draft Email, WhatsApp and WeChat replies."

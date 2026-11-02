@@ -1,5 +1,7 @@
 # BYFIT 客户画像模板（7维增强版）
 
+> Legacy internal examples only. Follow current SKILL.md and client_scoring_framework.md when these notes conflict. Unknown evidence stays unknown; no automatic sending, fabricated buyer psychology, unverified company claims, promised returns, or unauthorized concessions.
+
 ## 使用说明
 
 本模板用于系统化记录客户的所有关键信息，包括新增的社交媒体和采购行为维度。每个新客户都应填写此模板，作为后续所有沟通和决策的基础。
@@ -481,7 +483,7 @@ Email Group: 完整10步
 
 ### 填写要求
 
-1. **所有带 □ 的选项必须勾选**，不留空白
+1. **未知信息保留未知**；复选框没有证据时不勾选，不为了填满模板推断事实
 2. **无法获取的信息标注"未查"而非留空**
 3. **评分必须附关键依据**，不可只填数字
 4. **痛点必须区分显性和隐性**，不可混淆

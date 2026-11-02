@@ -1,277 +1,436 @@
-# FAQ: Client Grading 客户分级
+# 客户分级 FAQ：以证据决定下一步
 
-> 25 unique FAQ entries organized by sub-categories for BYFIT Trade Master
+本文件适用于 BYFIT 的 B2B 健身产品出口客户。分级用于安排销售资源，不代替授信、合规或合同审查；示例不构成真实客户记录。未知信息写“待核实”，不编造客户事实。
 
----
+## 目录
 
-## Sub-category: Scoring Dimension Interpretation 评分维度解读
+1. 证据、置信度与评分框架（CG-001—010）
+2. 采购意向与项目阶段（CG-011—020）
+3. 公司身份与采购角色（CG-021—030）
+4. 采购规模与增长潜力（CG-031—040）
+5. 产品适配与交付条件（CG-041—050）
+6. 沟通质量与公开信号（CG-051—060）
+7. 采购行为与信号冲突（CG-061—070）
+8. 资源优先级与风险分离（CG-071—080）
+9. 公平、校准与人工复核（CG-081—090）
+10. CRM、复评与跟进执行（CG-091—100）
 
-### Q: "How do I score a client on 'purchase potential' when I don't know their actual budget?"
-**中文**: 不知道客户实际预算时，如何对"采购潜力"维度评分？
-- **场景**: 7维度评分中采购潜力最难量化
-- **根因**: 潜力不等于当前采购量，需要从公司规模和市场地位推算
-- **调查信号**: 客户公司规模大但当前采购量小、市场处于增长期
-- **回复策略**: 用公司规模×市场增长率×品类相关性三个代理指标评分
-- **回复模板**:
-  > We score purchase potential using three proxy indicators when budget is unknown: [1] Company scale — revenue/employees/locations (0-3 points), [2] Market growth rate — is their market expanding? (0-3 points), [3] Category relevance — what % of their business aligns with BYFIT rubber flooring? (0-4 points). Total = 0-10. Example: a 50-location gym chain in a market growing at 8% with 60%+ category fit = [3+3+4] = 10/10. A 3-location studio in a flat market with 30% fit = [1+1+2] = 4/10. This proxy method is accurate within ±[2] points of actual potential.
-- **CTA**: 下载BYFIT采购潜力代理评分卡
+## 一、证据、置信度与评分框架
 
-### Q: "What does 'strategic value' mean in client scoring, and how is it different from 'purchase volume'?"
-**中文**: 客户评分中的"战略价值"是什么意思，和"采购量"有何区别？
-- **场景**: 不理解为什么小客户可能有高战略价值
-- **根因**: 战略价值衡量的是客户对BYFIT品牌的杠杆效应，不是直接收入
-- **调查信号**: 小客户但有行业影响力、标杆客户带路效应
-- **回复策略**: 战略价值=品牌背书+市场准入+品类学习价值
-- **回复模板**:
-  > Strategic value differs from purchase volume — it measures a client's leverage for BYFIT's brand and market position: [1] Brand endorsement — a well-known gym chain using BYFIT rubber flooring is worth [X] marketing mentions even if their order is small, [2] Market access — a client in a hard-to-enter market (e.g., [country]) opens doors for future business, [3] Category learning — an innovative pilates studio testing new product concepts provides R&D insights. A $50K client with high strategic value (score 8/10) may deserve more attention than a $200K client with low strategic value (score 3/10). We grade strategically important clients as [Tier S] regardless of current volume.
-- **CTA**: 获取BYFIT战略价值评分细目
+### CG-001 | 新询盘信息很少，应该立即给客户打低分吗？
+- 核查：区分客户明确否认的条件与尚未询问的条件；只收到一封询价，不能证明其没有预算、公司规模小或不具备采购权。
+- 行动：先列已知、未知及来源，给出临时跟进优先级；用一个关键问题补足判断，不把信息稀少直接换算成低价值。
 
-### Q: "How do I score 'responsiveness' fairly when some clients are in very different time zones?"
-**中文**: 客户在不同时区时，如何公平评分"响应度"？
-- **场景**: 时区差异导致响应时间不可比
-- **根因**: 响应度应衡量相对速度而非绝对速度
-- **调查信号**: 亚洲客户4小时回复vs欧洲客户24小时回复——谁更积极？
-- **回复策略**: 用"相对响应速度"——与该客户时区对应的工作小时比
-- **回复模板**:
-  > We adjust responsiveness scoring for time zones: [1] Same time zone — response within [4] business hours = 10/10, [2] ±3-6 hours — response within [8] business hours = equivalent to 4-hour same-zone, [3] ±9-12 hours — response within [24] business hours = equivalent. Formula: [hours to reply ÷ overlapping business hours] × 10. A client in [timezone] who replies in [X] hours with [Y] overlapping business hours scores: [Z]/10. This ensures Australian clients aren't penalized for being asleep when we send emails.
-- **CTA**: 下载BYFIT时区调整响应度评分表
+### CG-002 | 七维一百二十分制具体怎样保持兼容？
+- 核查：沿用采购意向25、公司实力20、采购潜力20、市场匹配20、沟通质量15、社媒活跃10、采购行为匹配10的上限，总计120分。
+- 行动：不私改维度或把付款风险塞入总分；逐维记录依据、未知项和置信度，旧表迁移时保留原始分及版本说明。
 
-### Q: "A client scores high on purchase volume but low on payment reliability. Which dimension should carry more weight in the final grade?"
-**中文**: 客户采购量评分高但付款可靠性评分低，最终分级哪个维度权重更大？
-- **场景**: 维度冲突时不知如何权衡
-- **根因**: 不同维度对业务风险和收益的影响不同，需按优先级加权
-- **调查信号**: 大客户但频繁拖欠货款、小客户但预付款从不延迟
-- **回复策略**: 付款可靠性有一票否决权——低于4分直接降级
-- **回复模板**:
-  > When dimensions conflict, we apply a weighted hierarchy: [1] Payment reliability — has a "floor" requirement: below 4/10, the client is automatically capped at Tier C regardless of other scores (bad debt risk outweighs volume), [2] Purchase potential — 30% weight (drives revenue), [3] Strategic value — 20% weight (drives brand), [4] Responsiveness — 15%, [5] Product fit — 15%, [6] Growth trajectory — 10%, [7] Relationship depth — 10%. For BYFIT rubber flooring, a $500K client with 2/10 payment reliability gets capped at Tier C with [50]% advance payment terms. A $50K client with 9/10 reliability can reach Tier B with standard 30/70 terms.
-- **CTA**: 索取BYFIT七维度权重与一票否决规则
+### CG-003 | “未知”和“零分”到底有什么区别？
+- 核查：未知表示没有足够可用证据；零分应有明确观察，如客户确认不采购相关品类，而非搜索未找到进口记录。
+- 行动：未知项标为待核实并写明验证路径。系统必须填数字时，另设缺失标记，禁止把占位零分作为客户真实表现参与排名。
 
-### Q: "How do I score 'relationship depth' for a new client I've never worked with before?"
-**中文**: 如何为从未合作过的新客户评分"关系深度"？
-- **场景**: 新客户无历史关系数据，该维度为0
-- **根因**: 关系深度不仅指合作历史，还包括沟通质量和信任建立速度
-- **调查信号**: 首次沟通就非常坦诚、主动分享公司信息、愿意视频通话
-- **回复策略**: 新客户的关系深度从"关系建立信号"评分
-- **回复模板**:
-  > For new clients, we score relationship depth from early engagement signals: [1] Communication openness — voluntarily shares company details and requirements (0-3 points), [2] Engagement investment — agrees to video call, visits booth, requests samples (0-3 points), [3] Referral source — introduced by existing client or trusted partner (0-4 points). A new client referred by an existing BYFIT partner who immediately shares specs and schedules a call = [3+3+4] = 10/10. A cold inquiry with minimal information = [0+0+0] = 0/10. As the relationship develops, this score updates dynamically.
-- **CTA**: 获取BYFIT新客户关系深度代偿评分法
+### CG-004 | 怎样报告信息覆盖度才不制造虚假精确？
+- 核查：逐维确认是否有可验证依据；同一网站资料不能自动证明预算与采购行为，转载不算独立证据。覆盖度按维度上限计算，不按维度个数计算。
+- 行动：令K为已知维度上限之和，报告覆盖率K/120并列缺口；来源可靠性另列为置信度，两者均不等于成交概率。
 
----
+### CG-005 | 高置信度是否等于客户分数高？
+- 核查：置信度评价的是证据可靠性、时效与一致性，不是客户好坏。客户明确取消项目可得到高置信度的低采购意向判断。
+- 行动：把分数和置信度分栏展示；低置信度高潜力线索先补证，高置信度低适配线索则减少定制投入，不能混为一类。
 
-## Sub-category: Tier Classification Strategy 分级策略
+### CG-006 | 客户口述、官网和第三方资料如何排序使用？
+- 核查：按待判断的事实选来源：项目预算以授权买方确认为重，公司身份以登记资料为重；官网宣传不自动证明当前采购计划。
+- 行动：每项保留来源日期与适用范围，重要冲突寻求独立复核；不要制定“某类来源永远可信”的简单排行榜。
 
-### Q: "What are the specific criteria for each client tier in BYFIT's grading system?"
-**中文**: BYFIT分级系统中每个客户等级的具体标准是什么？
-- **场景**: 需要明确的分级标准来统一团队判断
-- **根因**: 分级标准模糊会导致不同销售对同一客户评出不同等级
-- **调查信号**: 团队对客户优先级理解不一致、资源分配争议
-- **回复策略**: 按七维度加权总分+关键门槛设定四个等级
-- **回复模板**:
-  > BYFIT's tier system: [Tier S] Strategic Partners — total score 8.5+/10, annual volume $[X]+, exclusive territory eligible, dedicated account manager, priority production, co-marketing budget, [Tier A] Key Accounts — 7.0-8.4, annual volume $[Y]+, preferred pricing, quarterly business reviews, priority sample service, [Tier B] Standard Clients — 5.0-6.9, standard pricing, annual review, regular sample service, [Tier C] Transactional — below 5.0, catalog pricing, self-service support, no credit terms. Tier S and A clients represent [Z]% of revenue and receive [W]% of our service investment.
-- **CTA**: 下载BYFIT四级客户分级标准表
+### CG-007 | 半年前的客户评分还能直接使用吗？
+- 核查：比较旧评分中的预算、联系人、项目时间和产品需求是否已变化；公司注册事实与项目开工计划的有效周期并不相同。
+- 行动：保留稳定事实，单独复核易变字段并标注日期；未更新的阶段判断降为历史参考，不把旧高分当作当前紧急订单。
 
-### Q: "Should I ever give a new client a high tier rating based on potential, or only based on proven history?"
-**中文**: 应该基于潜力给新客户高级别评分，还是只基于已验证的历史？
-- **场景**: 新客户有大潜力但无交易记录
-- **根因**: 基于潜力预判可以抢占先机，但也可能浪费资源
-- **调查信号**: 客户声称大采购计划、行业背景强大、但首单很小
-- **回复策略**: 潜力加分但设"观察期"——潜力分给额外0.5-1分，观察期3个月
-- **回复模板**:
-  > We apply a "potential uplift" with an observation period: [1] New clients start at their baseline score based on verifiable data only, [2] A potential uplift of +[0.5-1.0] points is allowed if supported by: signed LOI, verified expansion plans, or referral from a Tier S client, [3] The uplift is confirmed after a [3]-month observation period with at least [X] successful transactions, [4] If the potential doesn't materialize, the score reverts. For BYFIT rubber flooring, we'd say: "Based on your [expansion plan/referral], we're starting your account at [Tier A-] — let's work together over the next [3] months to confirm this tier."
-- **CTA**: 获取BYFIT潜力加分与观察期规则
+### CG-008 | 如何避免同一个积极信号重复加分？
+- 核查：把原始证据映射到它真正支持的判断。新店公告可支持潜在需求，却不能同时直接证明预算批准、进口经验和付款能力。
+- 行动：允许同一来源支撑不同事实，但为每个加分写独立理由；汇总时检查关联性，不能因新闻被多次转发而提高总分。
 
-### Q: "How do I classify a client who orders large volumes but only once a year — are they Tier A or Tier B?"
-**中文**: 如何分级每年只下一次大单的客户——A级还是B级？
-- **场景**: 大单客户但频次低，服务资源分配不清晰
-- **根因**: 年度大单的客户价值高但互动频率低，资源分配需平衡
-- **调查信号**: 客户单次订单超$50K但一年只采购一次、其他时间基本不互动
-- **回复策略**: 综合评分看总额，但频次低降一级——年度总额达Tier A但频次低则定为A-
-- **回复模板**:
-  > We use a volume-frequency matrix: [1] High volume + high frequency = Tier S, [2] High volume + low frequency = Tier A- (A-level service during order periods, standard service otherwise), [3] Medium volume + high frequency = Tier A, [4] Low volume + low frequency = Tier C. For BYFIT pilates equipment clients ordering $[X]+ annually but only once per year, we assign Tier A- with focused service around their ordering cycle: "We know you order annually — let's schedule a planning call [2 months before your typical order date] to ensure smooth execution."
-- **CTA**: 下载BYFIT量频矩阵分级工具
+### CG-009 | 缺两个维度时能把现有分数放大到一百二十分吗？
+- 核查：未知维度不能线性补分；例如社媒不可见并不代表其他维度可放大。令已知分之和为S、已知维度上限之和为K，保留缺失状态。
+- 行动：报告S/K及总分可能区间[S,S+120-K]，禁止折算到120作为实际等级；只有覆盖率至少75%且整个区间同级才可定级，否则列候选等级。
 
-### Q: "A client insists they're a 'VIP customer' but their actual purchasing doesn't justify it. How do I handle their tier expectation?"
-**中文**: 客户坚持认为自己是"VIP客户"但实际采购量不支持，如何处理其分级期望？
-- **场景**: 客户的自我认知与实际价值不匹配
-- **根因**: 客户对标了更高等级的服务但不愿匹配相应的采购承诺
-- **调查信号**: 客户要求专属服务但采购量远低于Tier A标准
-- **回复策略**: 用"条件升级"管理期望——达到X量即升级
-- **回复模板**:
-  > We manage tier expectations with conditional upgrades: "We value your partnership and want to provide the best possible service. Our Tier A program includes [benefits] and requires an annual commitment of $[X]. Based on your current purchasing, you're in our Tier B program with [benefits]. However, when your annual volume reaches $[X], you'll automatically upgrade to Tier A with all associated benefits — including [specific perk they mentioned]. We're happy to help you plan for that growth." This turns a complaint into a growth plan.
-- **CTA**: 索取BYFIT条件升级话术模板
+### CG-010 | 一份能让销售直接行动的分级结论应包含什么？
+- 核查：检查结论能否追溯到需求、适配、阶段和证据缺口，而不是只有一个字母等级；确认评分日期及适用项目没有遗漏。
+- 行动：用“临时等级、分数状态、关键依据、风险另栏、下一步及复评触发”输出；资料不足时说明限制，不用完整报表掩盖未知。
 
-### Q: "How do I handle a situation where two sales reps grade the same client differently?"
-**中文**: 两个销售对同一客户评出不同等级，如何处理？
-- **场景**: 分级标准主观性强，不同人评分不同
-- **根因**: 缺乏统一的评分标准和校准机制
-- **调查信号**: 团队会议中客户优先级争议、资源分配不均
-- **回复策略**: 建立评分校准机制——每月校准+争议仲裁
-- **回复模板**:
-  > We prevent grading inconsistency through: [1] Standardized scoring rubric — each dimension has specific criteria and examples (0-10 scale with descriptors for each level), [2] Monthly calibration session — team grades 5 sample clients together and discusses differences, [3] Dispute resolution — when two reps grade the same client differently, the [sales manager] makes the final call using the scoring rubric. For BYFIT rubber flooring clients, we've found that after [3] calibration sessions, grading variance drops from ±[2.5] to ±[0.5] points.
-- **CTA**: 下载BYFIT评分校准SOP和标准评分表
+## 二、采购意向与项目阶段
 
----
+### CG-011 | 只问“最低价”的客户一定没有采购意向吗？
+- 核查：查看是否已有明确型号、数量、采购节点或前期沟通；一句简短询价可能来自熟悉产品的采购，也可能只是早期市场调研。
+- 行动：先给可确认的报价范围或说明缺项，再问影响价格最大的一个参数；根据补充信息升级判断，不凭措辞给客户贴标签。
 
-## Sub-category: Follow-up Cadence Formulation 跟进节奏制定
+### CG-012 | 开业日期明确是否足以判定项目很成熟？
+- 核查：确认日期来自项目负责人还是宣传计划，并查看场地、设计、预算及审批状态；开业目标并不代表订单已获批准。
+- 行动：倒排选型、样品、生产、运输和安装节点，标出尚未确认环节；优先解决关键路径，采购意向只按已落实条件评分。
 
-### Q: "How often should I follow up with a Tier S client vs. a Tier C client?"
-**中文**: S级客户和C级客户的跟进频率应该差多少？
-- **场景**: 不同级别客户需要不同的跟进频率和深度
-- **根因**: 跟进频率应与客户价值匹配，过多或过少都会影响关系
-- **调查信号**: 高价值客户抱怨联系不够、低价值客户嫌太频繁
-- **回复策略**: 按级别设定差异化跟进日历
-- **回复模板**:
-  > Follow-up cadence by tier: [Tier S] Weekly touchpoint — alternating between: call/email, value-add content, in-person/virtual meeting, quarterly business review, [Tier A] Bi-weekly touchpoint — email update + monthly call + quarterly review, [Tier B] Monthly touchpoint — email newsletter + quarterly call, [Tier C] Quarterly touchpoint — automated email drip + respond to inbound only. For BYFIT rubber flooring, we also add event-based touches: [1] Pre-order season check-in, [2] New product launch notification, [3] Industry news relevant to their market. Total time investment: Tier S = [X] hours/month, Tier A = [Y], Tier B = [Z], Tier C = [W].
-- **CTA**: 下载BYFIT四级跟进日历模板
+### CG-013 | 客户说“有预算”，如何判断预算是否可用？
+- 核查：询问预算包含产品、运费、税费还是安装，币种及审批主体是否明确；口头目标金额与已批准采购额度不能等同。
+- 行动：记录预算范围及确认状态，先做范围匹配而非逼问财务细节；未批准预算的项目列为培育，并约定审批后的复评节点。
 
-### Q: "A Tier A client hasn't responded to my last 3 emails. Should I increase or decrease follow-up frequency?"
-**中文**: A级客户连续3封邮件没回复，应该增加还是减少跟进频率？
-- **场景**: 高价值客户失联让人焦虑
-- **根因**: 无回应可能是忙碌/失去兴趣/或反感过于频繁的联系
-- **调查信号**: 客户社交媒体仍在更新、但对你邮件已读不回
-- **回复策略**: 换渠道+换内容而非增加同渠道频率
-- **回复模板**:
-  > When a Tier A client goes silent, we change the approach — not increase frequency: [1] Switch channels — if emails are unanswered, try WhatsApp/WeChat/LinkedIn message, [2] Switch content — stop sales follow-ups and send value-add content: "Thought you'd find this industry report on [topic] interesting — no action needed", [3] Switch tone — from "following up on our quote" to "just checking in, here's something useful", [4] After [X] attempts across channels with no response, move to Tier B cadence for [Y] weeks, then try one more time. For BYFIT, we've recovered [Z]% of silent clients by switching to value-add content.
-- **CTA**: 获取BYFIT客户失联复苏流程
+### CG-014 | 客户索取样品能直接算强意向吗？
+- 核查：判断样品用途、测试标准、评估人及反馈时间是否明确；免费收集样品和带验收计划的项目测试，证据强度不同。
+- 行动：询问测试目标并约定样品确认记录；根据真实评估流程提高意向判断，不因愿意付样品费就自动视为一定会下大单。
 
-### Q: "How do I create a follow-up schedule that doesn't feel pushy but stays top-of-mind?"
-**中文**: 如何制定一个不让人烦但又保持存在感的跟进计划？
-- **场景**: 跟进少了怕被遗忘，多了怕被拉黑
-- **根因**: 有效跟进的本质是"有价值的联系"而非"提醒对方存在"
-- **调查信号**: 客户取消订阅邮件、不读消息但也不拉黑
-- **回复策略**: 7:3法则——70%提供价值+30%业务推进
-- **回复模板**:
-  > We follow the 70/30 rule for follow-ups: [1] 70% value-add touchpoints — industry insights, market data, new product innovations, relevant case studies (no ask), [2] 30% business touchpoints — quote follow-ups, reorder reminders, meeting requests. For BYFIT rubber flooring clients, a monthly cadence might look like: Week 1: [value-add article on gym flooring trends], Week 2: [business: quote follow-up or reorder reminder], Week 3: [value-add: new certification update], Week 4: [business: quarterly review invitation]. Clients who receive value-first follow-ups respond [X]% more often than those receiving only sales messages.
-- **CTA**: 下载BYFIT 70/30跟进内容日历
+### CG-015 | 下载目录或索要全套资料说明什么？
+- 核查：查看客户是否点明应用、目标品类或选型困难；资料请求通常只能证明探索兴趣，不能直接证明近期采购数量。
+- 行动：发送相关部分并问其优先筛选标准；把目标定为完成首次选型，不立即投入完整定制报价，也不把浏览行为写成订单承诺。
 
-### Q: "After a trade show, how quickly should I follow up with leads of different tiers?"
-**中文**: 展会后应多快跟进不同级别的线索？
-- **场景**: 展会收集大量名片，需要优先级排序
-- **根因**: 展会记忆衰减快——48小时后客户记不清你的展位
-- **调查信号**: 展会名片堆积、一周后回复率骤降
-- **回复策略**: 24小时内S级→48小时A级→1周内B/C级
-- **回复模板**:
-  > Post-show follow-up timing by tier: [Tier S prospects] — within [24] hours: personalized email referencing specific conversation + send meeting request, [Tier A] — within [48] hours: personalized email with relevant product information, [Tier B] — within [1] week: standard follow-up with catalog, [Tier C] — within [2] weeks: add to nurture sequence. For BYFIT rubber flooring, the Tier S email includes: "Great meeting you at [booth]! You mentioned [specific need] — I've prepared a custom recommendation for [their project]. When would be a good time for a 15-minute call?" Post-show leads contacted within 48 hours have [X]% higher conversion than those contacted after 1 week.
-- **CTA**: 索取BYFIT展会跟进优先级模板
+### CG-016 | 招标项目怎样与普通询价分级区分？
+- 核查：核实招标文件、截止日期、资格门槛、评标方式及客户角色；代收报价的中间方未必有定标权，公开招标也不等于可赢。
+- 行动：先评估投标成本与资格匹配，再安排技术答疑资源；将“项目真实”和“中标机会”分开记录，不用金额大小替代可行性。
 
-### Q: "How do I maintain a follow-up rhythm with a client whose purchasing cycle is annual?"
-**中文**: 如何保持与年度采购周期客户的跟进节奏？
-- **场景**: 客户一年只买一次，平时跟进找不到话题
-- **根因**: 年度采购客户在非采购期的关注度低，但关系维护不能断
-- **调查信号**: 非采购期客户几乎不回复、采购期又突然很活跃
-- **回复策略**: 按采购周期倒推关键触点时间表
-- **回复模板**:
-  > For annual-cycle clients, we map touchpoints to their purchasing timeline: [Month -3] Pre-season check-in: "Budget planning season is approaching — shall we discuss your BYFIT rubber flooring needs for next year?", [Month -1] Proposal preparation: send updated pricing and new product options, [Month 0] Order placement: facilitate smooth ordering process, [Month +1] Post-order follow-up: delivery confirmation and satisfaction check, [Month +3] Mid-year value-add: industry report or new product preview (no sales ask). This [5]-touchpoint annual rhythm keeps BYFIT top-of-mind without being intrusive during their off-season.
-- **CTA**: 下载BYFIT年度客户五触点日历
+### CG-017 | 设计师询问地材参数，应按终端采购客户评分吗？
+- 核查：识别其是否负责指定品牌、编写技术清单或实际付款；设计阶段的影响力可能很高，但不能据此推断拥有采购预算。
+- 行动：单列项目影响角色，提供可核实参数并了解后续采购路径；不把设计咨询的慢回复当低意向，也不将其计为已锁定买家。
 
----
+### CG-018 | 老客户提出新项目，能沿用原来的高意向分吗？
+- 核查：分开核实新项目的预算、场地、数量、时限和审批；以往合作证明关系和履约历史，却不能代替新项目的采购批准。
+- 行动：保留账户层面的合作事实，新建机会层评分；用简短确认补齐新需求，避免把历史订单金额重复记入当前采购潜力。
 
-## Sub-category: Upgrade/Downgrade Triggers 升降级触发
+### CG-019 | 客户突然要求形式发票，是否意味着马上成交？
+- 核查：确认形式发票用于付款、内部审批、融资还是进口申请；文件请求是推进信号，但仍需核对规格、金额、付款主体与授权。
+- 行动：仅按已确认商业条件出具并标注用途，记录未决项；完成审批或收到符合约定的付款后再更新阶段，不把发票发送算成交。
 
-### Q: "What specific actions or events should trigger a client tier upgrade?"
-**中文**: 哪些具体行动或事件应该触发客户升级？
-- **场景**: 客户的采购行为发生变化，需要动态调整等级
-- **根因**: 客户等级不是静态的——增长或变化应及时反映在服务等级上
-- **调查信号**: 客户连续2个订单超过原等级标准、扩展到新品类
-- **回复策略**: 定义5个升级触发信号
-- **回复模板**:
-  > We trigger tier upgrades when any of these occur: [1] Annual purchase volume exceeds current tier threshold for [2] consecutive orders, [2] Client adds BYFIT product categories (e.g., adds rubber flooring to existing pilates equipment orders), [3] Client introduces BYFIT to [2]+ new clients (referral value), [4] Client signs a [multi-year] framework agreement, [5] Client's market position significantly improves (e.g., acquired a competitor). When triggered: "Congratulations — you've qualified for our [new tier] program! Here are your new benefits: [list]. We're excited to deepen our partnership."
-- **CTA**: 下载BYFIT五维升级触发信号卡
+### CG-020 | 客户暂停项目但继续咨询，应该降到无价值吗？
+- 核查：确认暂停原因、重新启动条件以及是否保留预算；场地许可延迟和永久取消的意义不同，持续咨询也不能证明短期采购。
+- 行动：降低近期跟进频率但保留长期适配评级，设置真实触发点；给予必要技术支持，不以不断追问制造客户必须回复的压力。
 
-### Q: "When should I downgrade a client, and how do I communicate it without damaging the relationship?"
-**中文**: 何时应该给客户降级，如何传达而不损害关系？
-- **场景**: 客户采购量下滑或付款不及时，需要调整服务等级
-- **根因**: 降级处理不当会直接导致客户流失
-- **调查信号**: 客户连续6个月未下单、付款延迟超过30天
-- **回复策略**: 降级不降服务而是调整频率，用"暂停"代替"降级"
-- **回复模板**:
-  > We handle downgrades diplomatically: [1] Never use the word "downgrade" — instead, "adjust service level" or "pause enhanced benefits", [2] Trigger: [6] months of no orders, or [2] consecutive late payments, or [3] cancelled orders, [3] Communication: "We're adjusting our engagement model to better match your current activity level. Your BYFIT account remains active with full access to [standard services]. When your purchasing picks up, we'll reinstate [enhanced benefits] immediately — no requalification needed." [4] Internal flag: downgrade triggers a 90-day re-engagement campaign before the client is moved to a lower tier permanently.
-- **CTA**: 获取BYFIT温和降级沟通模板
+## 三、公司身份与采购角色
 
-### Q: "A client's purchasing dropped because their market had a downturn, not because they switched suppliers. Should I still downgrade them?"
-**中文**: 客户因市场下行导致采购下降而非切换供应商，应该降级吗？
-- **场景**: 外部因素导致的采购量下降，不是客户意愿问题
-- **根因**: 市场周期性下行是暂时的，降级会加速客户流失
-- **调查信号**: 客户明确表示"market is slow right now"、仍在经营无关闭迹象
-- **回复策略**: 设"市场缓冲期"——不降级但暂停高级服务，待市场恢复后恢复
-- **回复模板**:
-  > Market-driven purchasing declines get special treatment: [1] We apply a "market buffer" — maintain current tier for [6] months with reduced service frequency rather than full downgrade, [2] Offer flexible ordering — smaller MOQ, partial shipments, extended payment terms to help them through the downturn, [3] Proactive support — share market recovery insights and help them prepare for the upturn. For BYFIT rubber flooring: "We understand the [market] slowdown isn't a reflection of our partnership. We're maintaining your [Tier A] status and offering flexible terms to help you navigate this period. When the market recovers, you'll be well-positioned with BYFIT."
-- **CTA**: 索取BYFIT市场缓冲期管理规则
+### CG-021 | 公司注册查询没有结果，能认定客户不存在吗？
+- 核查：检查法定名、商号、语言拼写、注册地区和查询范围；某些系统不公开全部信息，未命中与注销、冒用身份不是同一结论。
+- 行动：请求合理的企业资料或官方链接并交叉核实；标为身份待验证，涉及收款、授信或敏感资料时暂停相应步骤，不直接指控欺诈。
 
-### Q: "A previously Tier C client just placed a large order. Should I immediately upgrade them or wait to see if it's a one-time event?"
-**中文**: 之前C级客户突然下了大单，应该立即升级还是等看是否一次性？
-- **场景**: 意外大单可能改变客户等级但可持续性存疑
-- **根因**: 一次性大单不等于结构性变化，过早升级浪费资源
-- **调查信号**: 大单与特定项目相关、客户未提及长期采购计划
-- **回复策略**: 给"临时升级"观察期——连续2单达标才正式升级
-- **回复模板**:
-  > We handle unexpected large orders with a "provisional upgrade": [1] Deliver Tier A service for this order (impress them with the experience), [2] Internally classify as "Tier B+ (observation)" — not yet full Tier A, [3] After [2] consecutive orders at Tier A volume within [6] months, upgrade formally, [4] If the next order reverts to previous volume, classify as a project-based client. For BYFIT pilates equipment: "Thank you for this substantial order — you've experienced our premium service level. We'd love to make this the standard for our partnership. Let's discuss your ongoing needs to see if our Tier A program is the right fit."
-- **CTA**: 下载BYFIT临时升级观察期规则
+### CG-022 | 客户用免费邮箱，应该扣公司实力分吗？
+- 核查：比对联系人身份、公司电话、采购文件和持续沟通内容；小企业或现场采购使用免费邮箱并不自动代表公司不真实。
+- 行动：把邮箱类型作为核验线索而非独立惩罚；通过公开联系方式确认授权，保持销售接待，同时对付款及账户变更执行同样的验证。
 
-### Q: "How do I handle a client who threatens to switch suppliers unless I give them Tier S benefits at Tier B volume?"
-**中文**: 客户威胁说除非给S级待遇否则切换供应商，但他们的采购量只是B级，怎么办？
-- **场景**: 客户用切换供应商做要挟索取更高级别服务
-- **根因**: 要挟式谈判说明客户认可你的价值但想用压力获取更多
-- **调查信号**: 客户说"I can get better terms elsewhere"、但没实际切换
-- **回复策略**: 不被威胁驱动——确认对方真实需求，用条件性方案回应
-- **回复模板**:
-  > Threats to switch are usually negotiations, not intentions. We respond with conditional generosity: "We want you to have the best possible experience with BYFIT. Tier S benefits are available to clients with an annual commitment of $[X]. If you can commit to that volume, all Tier S benefits are yours immediately — including [specific benefit they want]. If the commitment isn't feasible right now, we can offer [specific Tier B benefit enhancement] as a goodwill gesture while we work toward the next tier together." This validates their desire for premium service while maintaining tier integrity.
-- **CTA**: 获取BYFIT威胁式谈判应对策略
+### CG-023 | 对方自称老板，如何判断其决策权？
+- 核查：询问谁确认技术、预算及采购合同，并查看其能否说明审批流程；职位名称和社交页面头衔不能独立证明项目授权。
+- 行动：以流程问题确认角色，不要求对方证明个人地位；区分影响人、审批人和签约主体，下一步邀请必要角色参与关键确认。
 
----
+### CG-024 | 大型连锁品牌询价，是否自动列为最高等级？
+- 核查：辨别总部、加盟店、区域运营方和代理采购；品牌门店总数并不等于当前联系人的可支配采购范围。
+- 行动：按实际项目与采购权限评估机会，账户规模仅作背景；在投入专门方案前确认覆盖门店、采购主体及统一采购是否真实存在。
 
-## Sub-category: Time Allocation Strategy 时间分配策略
+### CG-025 | 新成立的工作室是否天然低价值？
+- 核查：关注场地进度、资金安排、创办团队经验和具体选型，而非只看注册年限；新企业可能有明确订单，也可能仍在验证概念。
+- 行动：用项目证据判断短期机会，风险采用适当付款和验收安排处理；不因年龄短直接否决，也不把创业者经历当作企业财务保证。
 
-### Q: "How should I distribute my selling time across clients of different tiers?"
-**中文**: 应该如何在不同级别客户之间分配销售时间？
-- **场景**: 有限的工作时间要覆盖所有客户，需合理分配
-- **根因**: 时间是外贸人最稀缺的资源，分配不当直接损失收入
-- **调查信号**: 忙了一周但没产出、时间花在低价值客户上
-- **回复策略**: 60/25/10/5法则——S级60%/A级25%/B级10%/C级5%
-- **回复模板**:
-  > We allocate selling time by tier using the 60/25/10/5 rule: [Tier S] 60% of proactive selling time — weekly touchpoints, quarterly reviews, co-planning sessions, [Tier A] 25% — bi-weekly touchpoints, monthly reviews, [Tier B] 10% — monthly touchpoints, respond to inbound, [Tier C] 5% — automated nurture, respond to inbound only. For BYFIT rubber flooring, this means: a rep with 40 selling hours/week spends [24] hours on Tier S, [10] hours on Tier A, [4] hours on Tier B, and [2] hours on Tier C. This allocation generates [X]% of revenue from [Y]% of time invested.
-- **CTA**: 下载BYFIT时间分配60/25/10/5工作表
+### CG-026 | 中间贸易商不愿透露终端客户，还能评估吗？
+- 核查：确认其自身采购身份、责任范围、技术要求和订单决策流程；终端名称可能受保密约束，不披露不自动说明询盘虚假。
+- 行动：先用匿名项目参数评估适配与规模，必要时商议保密边界；没有合理依据不追索其客户名单，也不把潜在终端算作直接客户。
 
-### Q: "I'm spending too much time on Tier C clients because they're the most demanding. How do I rebalance?"
-**中文**: 我在C级客户上花太多时间因为他们最挑剔，如何重新平衡？
-- **场景**: 低价值客户占用了不成比例的时间
-- **根因**: 苛刻的客户容易被听到，安静的高价值客户反而被忽视
-- **调查信号**: C级客户每天发消息、S级客户一个月没联系
-- **回复策略**: 对C级客户设边界+为S级客户主动安排时间
-- **回复模板**:
-  > Demanding Tier C clients get structured boundaries: [1] Set response expectations — "Our standard response time is [24] business hours", [2] Direct to self-service — "Our FAQ and product guide cover most common questions: [link]", [3] Batch responses — handle all Tier C inquiries in a dedicated [1-hour] daily block. Simultaneously, proactively schedule Tier S time: calendar-block [2] hours/week for Tier S proactive outreach. For BYFIT, we've found that setting boundaries with Tier C clients actually improves their respect for the relationship — they learn that your time is valuable and adjust their expectations.
-- **CTA**: 索取BYFIT时间边界设定话术
+### CG-027 | 同一公司多人来询价，会不会是多个独立机会？
+- 核查：对比项目名称、地址、规格、数量和时间；采购、工程与财务可能分别联络，同一项目不能因联系人不同重复计算潜力。
+- 行动：在CRM关联公司与机会，保留各角色的不同需求；先确认共同项目和主联系人，再统一报价版本，避免内部互相压价或矛盾承诺。
 
-### Q: "How do I justify spending more time on fewer clients to my manager who measures activity volume?"
-**中文**: 如何向以活动量考核的上级解释花更多时间在更少客户上？
-- **场景**: KPI体系鼓励联系更多客户而非深度服务少数客户
-- **根因**: 数量型KPI与质量型客户管理存在结构性冲突
-- **调查信号**: 月报要求"contacted X clients"、但深度客户产出更高
-- **回复策略**: 用收入/时间比证明深度服务的ROI
-- **回复模板**:
-  > We justify time allocation with ROI data: [1] Track revenue per client hour — Tier S: $[X]/hour, Tier A: $[Y]/hour, Tier B: $[Z]/hour, Tier C: $[W]/hour, [2] Show that [5] Tier S clients generate [X]% of revenue vs. [50] Tier C clients generating [Y]%, [3] Demonstrate that increasing Tier S client count by [1] has the same revenue impact as acquiring [N] Tier C clients. For BYFIT rubber flooring, the data shows: investing [10] more hours/month in Tier S accounts yields $[Z]K additional revenue, vs. $[W]K from spreading those hours across Tier C. Quality over quantity — the numbers prove it.
-- **CTA**: 获取BYFIT客户时间ROI计算模板
+### CG-028 | 官网显示很多门店，但所有权不清楚怎么办？
+- 核查：区分自营、加盟、授权及已关闭门店，查看门店列表更新时间；展示网络规模并不能证明总部能集中采购全部门店。
+- 行动：只记录已确认的采购覆盖范围；请客户说明本次及后续项目数量，用可执行范围估算潜力，不按官网门店数直接乘单店用量。
 
----
+### CG-029 | 客户坚持只通过代理沟通，应怎样分级？
+- 核查：了解代理是否具备技术澄清、报价接收与合同传递授权，是否有清晰信息回路；不直接接触终端并不等于关系质量差。
+- 行动：尊重渠道，建立问题清单和确认机制；把决策可达性作为机会推进因素，不绕过代理私联，也不因缺少终端联系方式自动降级。
 
-## Sub-category: Batch Grading Method 批量分级方法
+### CG-030 | 公司网址、签名与合同主体不同，如何判断？
+- 核查：核对集团、贸易品牌、子公司和实际签约方之间的关系，注意是否只是正常组织结构；任何不一致都需要解释但不先定性。
+- 行动：请对方用正式文件确认采购及付款主体，涉及高风险节点交相关负责人复核；在身份澄清前不提供授信或发送敏感商业资料。
 
-### Q: "I have 200 contacts from a trade show. How do I grade them all efficiently without spending a week on it?"
-**中文**: 展会收了200张名片，如何高效地全部评分而不花一周时间？
-- **场景**: 大量线索需要快速分级
-- **根因**: 逐一深度调查不现实，需要快速筛选+分层深入
-- **调查信号**: 名片堆积、跟进延迟、不知从谁开始
-- **回复策略**: 三轮筛选——10秒初筛→3分钟快评→深度调查仅Top 20
-- **回复模板**:
-  > We process 200 leads in [4] hours using a three-round filter: [Round 1] 10-second scan — is this a fitness industry contact? (yes → next round; no → Tier C auto-assign), [Round 2] 3-minute quick score — check: company size (LinkedIn), product relevance (website), country fit (target market?), [Round 3] Deep investigation — only the top [20] leads by Round 2 score get full background research and personalized outreach. For BYFIT rubber flooring, Round 1 typically eliminates [40]% (wrong industry), Round 2 grades remaining into tentative tiers, Round 3 confirms top prospects. We start outreach to Round 3 prospects within 48 hours while Round 1-2 prospects receive automated follow-up.
-- **CTA**: 下载BYFIT展会200名片三轮筛选SOP
+## 四、采购规模与增长潜力
 
-### Q: "How do I batch-grade my existing client database that has never been formally tiered?"
-**中文**: 如何对从未正式分级的现有客户数据库进行批量分级？
-- **场景**: 老客户没有系统化分级，需要补课
-- **根因**: 历史客户数据不结构化，导致服务标准不一致
-- **调查信号**: 不同销售对相同客户给不同折扣、资源分配靠感觉
-- **回复策略**: 用CRM数据批量评分——订单额+频次+付款记录自动计算
-- **回复模板**:
-  > We retroactively grade existing clients using CRM data: [1] Export last 12 months of data: company name, total order value, order frequency, payment days average, product categories, [2] Auto-calculate: purchase potential = total order value, payment reliability = average payment days, product fit = % of BYFIT core products ordered, [3] Quick manual score for the remaining 3 dimensions (responsiveness, strategic value, growth trajectory), [4] Apply tier thresholds. This takes approximately [2] minutes per client for [80]% automated dimensions, plus [5] minutes per client for manual dimensions on Tier A/S candidates only. A 100-client database can be graded in [1] day.
-- **CTA**: 索取BYFIT客户批量分级Excel工具
+### CG-031 | 只有场地面积，怎样估算地材采购潜力？
+- 核查：明确总建筑面积与需铺设区域的差别，核实不同功能区、既有地面及损耗方案；健身房面积不能全部视为橡胶地材需求。
+- 行动：索取分区尺寸或图纸，按已确认区域给范围估算并写假设；未确认损耗率、包装单位前，不提供看似精确的平方米或箱数。
+
+### CG-032 | 客户没有年度预算，能用公司营收推采购额吗？
+- 核查：营收可能来自不相关业务，与地材或器械采购没有固定比例；第三方营收估算还需确认口径、年份及公司实体。
+- 行动：优先询问项目数量、补货节奏和单次采购范围；只把营收作为背景，无法建立需求依据时将采购潜力标未知而非套百分比。
+
+### CG-033 | 海关记录金额很大，是否代表健身品类采购大？
+- 核查：确认记录主体、品类描述、时间窗口和金额覆盖；混合货柜、代理进口或宽泛品类编码可能包含大量非健身产品。
+- 行动：只把能对应相关商品的记录用于潜力判断，无法拆分时写明上限或不确定性；不要把企业全部进口额直接当作BYFIT可争取份额。
+
+### CG-034 | 客户说未来会开很多店，怎样评估增长潜力？
+- 核查：区分愿景、签约场地、获批投资和已启动工程；社交公告或口头扩张计划不能证明全部门店将在近期采购。
+- 行动：将确定项目与远期管线分开列示，设置里程碑复核；近期优先级按当前可执行需求安排，不为尚未落实的规模提前承诺专属资源。
+
+### CG-035 | 单次大项目与稳定补货客户应怎样比较？
+- 核查：分别查看订单时点、复购证据、服务成本、资金占用与毛利条件；不能因为频率低就机械降一级，也不能只比较合同总额。
+- 行动：分列近期机会价值和持续账户价值，再按团队目标排资源；大项目安排节点管理，补货客户建立预测与库存沟通，各自匹配服务。
+
+### CG-036 | 少量试单是不是采购潜力低的确定证据？
+- 核查：了解试单是市场验证、供应商认证还是最终全部需求，查看通过测试后的真实采购路径；试单数量不能直接外推全年订单。
+- 行动：按当前订单安排服务，另记录有条件后续潜力与触发标准；既不惩罚正常试采购，也不为未获确认的“大单以后来”过度让步。
+
+### CG-037 | 经销商SKU很多，怎样判断与BYFIT相关的规模？
+- 核查：查看相关品类的实际在售产品、库存更新、渠道覆盖及采购权；目录庞大可能来自代发或聚合展示，并非所有SKU都有销量。
+- 行动：聚焦客户拟引入的地材、器械或普拉提产品，问清首批与补货计划；用对应品类证据评估，不按目录页数或品类总数评分。
+
+### CG-038 | 年采购额应采用客户说的数字还是历史订单？
+- 核查：先统一“年度、币种、相关品类、已成交还是预测”的口径；客户计划可能覆盖多个供应商，历史订单则可能遗漏未合作部分。
+- 行动：分栏保留已实现规模与预测规模，注明来源及条件；不选择较大数字抬高等级，预算更新或项目落地后再调整潜力判断。
+
+### CG-039 | 设备数量不明，能按健身房会员数推算吗？
+- 核查：会员数不等于同时使用人数，设备配置还取决于课程、面积、客群和运营模式；缺少布局时不存在可靠的统一换算系数。
+- 行动：询问功能区、训练人数和已有设备，必要时请求配置清单；只提出待验证的配置场景，不能把估算件数记录为客户确认需求。
+
+### CG-040 | 季节性采购客户的潜力应怎样记录？
+- 核查：对照真实订单窗口、招标季、项目交付及客户库存周期；短期沉默可能是正常淡季，但行业季节印象不能替代客户数据。
+- 行动：按完整采购周期看需求，不只看最近一个月；在预计选型前复核计划，将资源投入集中到真实窗口，并保留预测偏差供下次修正。
+
+## 五、产品适配与交付条件
+
+### CG-041 | 客户需要的证书尚未确认，怎样评分市场匹配？
+- 核查：明确要求适用于哪种产品、用途和项目，并检查报告持有人、型号及有效性；类似产品证书不能自动覆盖本次需求。
+- 行动：将合规适配标为待核实，优先安排文件审核；未确认前不判定完全匹配或承诺可供货，发现关键缺口时说明限制并找真实替代方案。
+
+### CG-042 | 客户目标价低于当前报价，是否立即判为不匹配？
+- 核查：统一规格、数量、贸易术语、包装和包含项目；目标价与FOB或到岸总预算混用时，表面差距不代表产品定位冲突。
+- 行动：先做同口径比较，再评估经授权的范围或条件调整；若确认无法满足才降低适配判断，不凭一次压价把客户归为无效线索。
+
+### CG-043 | 客户要BYFIT没有的型号，应完全放弃吗？
+- 核查：判断型号背后的必要功能、尺寸和兼容要求，确认是否有已核实的等效产品；外观相似不能证明功能或安全性能相同。
+- 行动：说明不能直接供应的部分，只提供真实可用替代并列差异；客户必须原型号时结束该机会，保留其他品类适配而不强行推销。
+
+### CG-044 | 产品合适但交期赶不上，客户如何分级？
+- 核查：核对最晚到货、生产、验货、运输和安装节点，确认是否允许分批；不能以客户很急推断可以缩短未经确认的生产周期。
+- 行动：把产品适配与本次时间可行性分开记录，优先验证关键路径；明确无法保证的日期，提出真实可用选项，必要时暂停本次机会。
+
+### CG-045 | 客户要求定制，如何判断值得投入打样？
+- 核查：检查需求是否形成可测试规格、开发费用归属、预计数量和批准流程；“独家设计”本身不证明长期订单或开发回报。
+- 行动：先完成技术可行性和成本审批，再按阶段安排资源；把尚未确认的研发条件列为前置门槛，不为抬高客户等级而默认免费开发。
+
+### CG-046 | 运输方式不经济，应降低客户采购潜力吗？
+- 核查：区分客户真实用量与物流导致的交易困难，核实目的地、体积重量、拼箱及可用渠道；运费高不代表客户没有需求。
+- 行动：保留需求规模，降低本次落地可行性或改变跟进方案；只讨论已验证的合运、包装或采购节奏，不虚构低价运费促成等级提升。
+
+### CG-047 | 进口经验不足的终端健身房算不合格客户吗？
+- 核查：了解客户是否有货代、报关支持和收货条件，区分不熟悉流程与无法履行进口责任；首次进口不是失信或低价值证据。
+- 行动：列清各方责任并建议其向当地专业方核实费用与要求；根据支持成本安排服务，不擅自承诺包清关、免税或门到门全包。
+
+### CG-048 | 客户只要最低成本，能建议降低关键性能吗？
+- 核查：确认用途、承载、使用强度及必须遵守的安全条件；不能把影响安全或适用性的材料变化当普通降价选项。
+- 行动：只比较合适且可交付的配置，清楚说明性能边界；关键要求不能满足时判定该方案不适配，不用潜在大单为不合适配置背书。
+
+### CG-049 | 同一客户多个产品线需求，是否统一给一个适配分？
+- 核查：地材、力量器械和普拉提设备的规格、交期、证书与服务要求不同；其中一项成熟不代表其余需求也可满足。
+- 行动：在账户下分产品线记录适配与机会，再给有说明的汇总结论；不让高适配小项目掩盖主要项目缺口，跟进资源按各自阶段配置。
+
+### CG-050 | 售后覆盖不足会影响分级吗？
+- 核查：明确安装、备件、维修响应和培训由谁承担，核实BYFIT实际能提供的支持；客户期待本地上门服务与远程支持不可等同。
+- 行动：先确认服务缺口能否通过真实合作安排解决，再调整适配判断；不为保住高等级客户承诺未授权的保修范围或本地服务网络。
+
+## 六、沟通质量与公开信号
+
+### CG-051 | 客户三天才回复，是否说明意向弱？
+- 核查：核对工作日、时区、节假日和双方约定的反馈周期，并看回复是否推动实质决策；慢回复可能来自内部评审而非冷淡。
+- 行动：按有意义互动评估沟通质量，不能只用小时数排名；询问合适跟进时间，记录延迟原因与下一节点，避免无依据扣分。
+
+### CG-052 | 客户英语不流利，怎样保持评分公平？
+- 核查：关注规格确认、问题响应和信息完整性，而非语法、口音或邮件修辞；语言困难并不能证明专业能力或履约能力不足。
+- 行动：使用短句、图示与编号确认关键参数，必要时征求翻译支持；将误解风险单列并复核，不把语言熟练度当作客户价值指标。
+
+### CG-053 | 客户只用WhatsApp，不愿邮件沟通怎么办？
+- 核查：确认其渠道习惯及正式文件接收方式，查看身份是否已合理验证；即时通信偏好不直接说明公司不正规或采购不认真。
+- 行动：在偏好渠道澄清需求，关键规格与商业条件形成可留存确认；若内部流程要求邮件则说明原因，不因渠道选择机械扣分。
+
+### CG-054 | 客户没有社交媒体，社媒维度能直接记零吗？
+- 核查：区分未公开、平台不常用、搜索受限与确实没有相关活动；线上缺席无法证明企业停止经营，更不能反推信用不良。
+- 行动：将可见度不足标为未知，改用注册、项目和直接沟通证据；七维框架保留该维度但说明覆盖缺口，不以缺少社媒自动降级。
+
+### CG-055 | 社媒粉丝多是否代表采购实力强？
+- 核查：查看账号归属、互动真实性、受众相关性及商业模式；健身内容影响力与经营门店、预算或进口采购规模不是同一事实。
+- 行动：仅把经核实的活跃情况用于社媒判断；若客户拟做代理，再询问销售渠道和采购计划，不把粉丝数换算为预计订单金额。
+
+### CG-056 | 招聘采购经理能证明客户正在换供应商吗？
+- 核查：确认招聘时间、岗位职责、工作地点和是否仍开放；补岗、组织调整或储备招聘均可能与新产品采购无关。
+- 行动：把招聘当作值得验证的线索，用相关问题了解需求；只有客户或可靠资料确认供应计划后，才更新采购意向及行为匹配判断。
+
+### CG-057 | 客户积极点赞但不回答报价，怎样理解？
+- 核查：区分低成本社交互动与商业决策动作，查看是否确认规格、反馈预算或安排评估；点赞不能作为正式采购承诺。
+- 行动：保持沟通友好，但用一个具体决策问题推进；分开记录社媒活跃和机会阶段，不因为互动频繁就挤占已进入选型客户的资源。
+
+### CG-058 | 发现负面评论，能直接降低公司实力吗？
+- 核查：核实评论所指实体、时间、问题类型及处理结果，区分服务体验、产品争议和真实付款违约；匿名单条指控不可当结论。
+- 行动：记录待核实的相关风险并寻找可靠补充资料；只在证据充分且与交易有关时调整判断，不转发未经证实的指控给其他客户。
+
+### CG-059 | 自动回复或邮件已读能计入有效响应吗？
+- 核查：识别休假通知、系统回执与人工答复；打开追踪可能受隐私保护或邮件安全扫描影响，不足以证明买方实际阅读。
+- 行动：有效互动只记录能增加项目信息或推动决策的回复；自动回执用于调整时间，不据此提高意向分，也不用“我看你已读”催促。
+
+### CG-060 | 客户回答很简短，如何判断沟通质量？
+- 核查：看短回复是否准确回答关键问题并形成确认；“500 sqm, black, June”可能比长篇客套更有用，长度不是质量标准。
+- 行动：以信息可执行性和确认准确度评分；如关键项遗漏，拆成容易回答的问题，不因语言风格简洁、身份或文化差异给主观低分。
+
+## 七、采购行为与信号冲突
+
+### CG-061 | 找不到进口记录，就能判定客户没有进口经验吗？
+- 核查：确认数据库覆盖时间、地区、运输方式和公司名称，考虑通过代理或关联企业进口的情形；未命中只代表该数据源没有记录。
+- 行动：采购行为维度标注证据缺口，询问其进口安排或参考流程；客户明确从未进口时才记录该事实，但不自动判为无法合作。
+
+### CG-062 | 客户有相关进口记录，为什么仍可能不适合开发？
+- 核查：核对记录的新旧、规格、供应方式及采购主体；历史相关交易只说明曾经采购，不证明当前存在需求、切换意愿或可接受价格。
+- 行动：用记录提出有针对性的业务问题，分别验证当前机会与产品适配；不要仅凭海关记录直接给最高等级或假定原供应商出了问题。
+
+### CG-063 | 官网说做健身业务，询盘却要无关商品怎么办？
+- 核查：确认是否扩展品类、关联公司采购、代理询价或误投邮件；公开定位与当前询盘不一致时，先核实而非自动认定假客户。
+- 行动：问清本次采购主体与用途，只评估BYFIT实际能供应的范围；不相关需求不计入相关潜力，也不为保持线索数量强行推荐健身产品。
+
+### CG-064 | 客户说急需，但一直不给规格，哪个信号更重要？
+- 核查：确认其急的是预算估算、投标截止还是实际到货，并检查是否有技术人员尚未参与；“urgent”本身不能替代可执行需求。
+- 行动：指出完成下一步所需的最少参数，给简易选择表；暂列急待澄清而非成熟机会，在规格落实后重新安排报价和交付资源。
+
+### CG-065 | 客户承诺大单，却连付费样品也不愿考虑，如何判断？
+- 核查：了解样品政策、测试必要性、对方流程与运费责任；拒绝样品费可能是预算规则，也可能反映其验证投入意愿有限。
+- 行动：提供现有且经授权的替代验证方式，记录其实际行动而非口头规模；未有明确采购路径前，不为未来大单额外给予未经批准的利益。
+
+### CG-066 | 不同联系人提供的采购数量互相矛盾怎么办？
+- 核查：比对是否分别代表首批、全年、不同场地或不同预算版本；不要将最大数字当真，也不要以联系人职位高低直接决定版本。
+- 行动：发出带日期的统一确认表，请授权人确认当前范围；冲突未解前保留多个情景，暂停精确潜力评分及依赖数量的价格承诺。
+
+### CG-067 | 客户声称已有供应商，但持续询价，是什么机会？
+- 核查：了解其寻找备选、补充品类、改善交期还是正式招标，确认是否存在供应商准入程序；不能推断对方一定不满意现有供应商。
+- 行动：按真实目的设下一步，备选供应商项目可先完成资料审核；不攻击竞争方，也不把一次询价直接记录为供应商切换信号。
+
+### CG-068 | 第三方信息显示扩张，客户却说暂不采购，应相信谁？
+- 核查：确认报道日期、项目范围及客户是否负责该项目；公开扩张可能已采购完成，或与当前联系人的业务无关。
+- 行动：以当前明确反馈安排跟进，同时保留可验证背景；礼貌确认未来采购窗口，不拿新闻与买方争辩，也不强行维持高近期意向分。
+
+### CG-069 | 客户多次换规格，是认真选型还是无效消耗？
+- 核查：观察修改是否源于技术评估、布局变化或审批反馈，是否逐步收敛；单看修改次数无法区分正常选型与缺少决策基础。
+- 行动：建立需求版本与变更原因，帮助固定必须项和可选项；若始终没有目标或批准人，转入澄清阶段并限制额外定制投入。
+
+### CG-070 | 客户曾取消订单，新项目应自动降级吗？
+- 核查：核实取消原因、当时责任、费用结算和本次项目差异；外部项目停止与恶意违约不能混同，历史事件也不应被永久标签化。
+- 行动：将相关风险转为具体前置条件，如确认范围或开发费审批；按新证据评估当前意向，保留准确历史而不反复惩罚同一事件。
+
+## 八、资源优先级与风险分离
+
+### CG-071 | 成交可能性高是否意味着可以提供账期？
+- 核查：成交意向、信用与收款安全属于不同判断；客户很想购买并不能证明其现金流、付款记录或履约能力足以支持赊销。
+- 行动：分开输出销售优先级和信用审核状态；账期、信用额度及担保由授权流程决定，不用七维总分替代授信，也不擅自承诺付款条件。
+
+### CG-072 | 采购量大但付款风险高，应怎样跟进？
+- 核查：先明确风险证据是逾期历史、主体不明还是仅仅资料缺失，再判断是否有合规可行的风险控制；金额大不能抵消重大风险。
+- 行动：可保留商业机会优先级，但在付款、生产与发货节点设置审批门槛；不能解决关键风险时暂停交易，而非以降价换取订单。
+
+### CG-073 | 低分客户是否都应该停止回复？
+- 核查：识别低分来自适配不足、阶段早、已确认无需求还是证据缺失；这些情形需要不同处理，不能用单一阈值一刀切。
+- 行动：保留基本专业回应，按原因选择澄清、培育、转介或礼貌结束；将有限深度服务分配给可推进机会，不把客户等级写入对外回复。
+
+### CG-074 | 高分客户要求大量免费方案，资源应无限投入吗？
+- 核查：查看方案用途、决策路径、下一步承诺和实际工作量；高潜力不等于开发工作必然转化，也不代表免费设计已获授权。
+- 行动：把交付拆成有明确验收和边界的小阶段，超范围工作先确认费用或审批；使用推进证据持续复评，不被初始高分锁住投入。
+
+### CG-075 | 相同分数的两位客户，先跟谁？
+- 核查：比较已确认的下一决策时间、可解决的阻碍、交付可行性及证据覆盖，而非凭邮件语气或公司名气决定顺序。
+- 行动：优先处理有真实时限且下一步可推进的事项；另一客户安排明确回访，记录排序理由，避免把临时资源选择误写为价值差异。
+
+### CG-076 | 客户有真实项目但毛利很低，还应列高优先级吗？
+- 核查：确认报价成本、服务工作量、售后责任和授权利润要求；七维潜力高不代表这笔交易符合经济条件，预期复购也不应凭空补偿亏损。
+- 行动：将机会吸引力与客户评分并列，提交真实成本情景供审批；未获批准不靠未来订单承诺压低价格，也不偷偷改动评分规则。
+
+### CG-077 | 战略价值很高的客户，可以额外加分吗？
+- 核查：先定义战略价值的可验证内容，如进入已有准入渠道，而非“有名气”；七维120分中没有独立战略价值维度，不能随意加分突破上限。
+- 行动：把战略因素作为单独的资源审批说明，列成功条件与投入上限；保留原评分可比性，不用模糊战略理由绕过价格或信用政策。
+
+### CG-078 | 客户涉及制裁或敏感合规提示，如何分级？
+- 核查：核实提示涉及的法定实体、交易、目的地和适用规则，不凭国籍或相似名称定性；销售评分不能解决法律可交易性。
+- 行动：暂停受影响的报价承诺或履约步骤，交授权合规人员及适当官方资料核验；不提供规避路径，也不把合规阻断简单归为普通低分。
+
+### CG-079 | 现有客户突然要求修改收款账户，评分有用吗？
+- 核查：账户变更可能涉及冒用身份或业务邮件风险，历史高等级不能证明本次指令真实；先检查请求渠道及原有授权程序。
+- 行动：通过预先核实的独立联系方式复核并走财务审批，验证前不执行变更；CRM记录事件和处理状态，不因熟悉客户就跳过控制。
+
+### CG-080 | 客户评分能写成“八成概率成交”吗？
+- 核查：检查是否有足够历史样本、明确成交定义、时间窗口与验证结果；120分是排序工具，未经校准不能直接转成百分比概率。
+- 行动：使用“优先跟进、待补证、培育”等可解释结论；若展示预测概率，必须注明模型、样本限制和校准时间，避免伪精确承诺。
+
+## 九、公平、校准与人工复核
+
+### CG-081 | 不同销售对同一客户打分差很多，怎样解决？
+- 核查：先比较双方使用的证据、时间版本及对未知项的处理，而非平均分数；分歧可能源于信息不同，也可能源于评分锚点不一致。
+- 行动：用相同材料独立复评，逐维讨论差异并记录结论；形成可复用判例，规则变动保留版本，不通过职位高低决定事实判断。
+
+### CG-082 | 如何检查评分是否偏爱知名品牌和大公司？
+- 核查：抽取同阶段、同适配的小企业与大企业案例，比较无关品牌印象是否影响意向、沟通等维度；公司实力不应污染全部评分。
+- 行动：复评时遮去品牌等非必要信息，要求每个维度引用独立依据；发现系统偏差后修订锚点，不用单笔大客户成交证明评分始终公平。
+
+### CG-083 | 是否可以依据国家或地区直接降低客户分数？
+- 核查：把真实交易条件与人口身份分开；运费、合规及支付可行性需要具体证据，国籍、族群、宗教或地区刻板印象不是客户价值依据。
+- 行动：只在相关业务维度记录已核实的具体限制，并采用一致标准；信用审查走独立流程，不将地域推断包装成客观风险评分。
+
+### CG-084 | 评分阈值怎样验证是否真的有用？
+- 核查：比较同一版本下不同分组的后续有效推进与成交表现，同时检查样本量、周期和跟进投入差异；高分组被优待可能影响结果。
+- 行动：用历史回溯和小范围试行校准阈值，记录假阳性与漏失客户；证据不足时维持临时规则，不宣称某分数线保证成交。
+
+### CG-085 | 只有成交客户数据，能训练可靠的分级规则吗？
+- 核查：检查是否遗漏未回复、流失、暂停和被主动放弃的线索；只看成功案例会把共同特征错当成成交原因，并放大幸存者偏差。
+- 行动：建立包含全部线索及统一结局定义的数据集，保留缺失原因；样本有限时使用可解释人工规则，不输出未经检验的精确权重。
+
+### CG-086 | 销售认为客户值得破例，能人工调整资源优先级吗？
+- 核查：要求说明新增事实、未计入的业务理由与投入边界，区分资源安排和计算评级；人工批准不能抹去证据不足、原分或合规门槛。
+- 行动：可另记批准的资源优先级、批准人、理由和复评日期，但计算等级仍须满足CG-009；否则保持暂定或未分级，后续用真实结果复核例外安排。
+
+### CG-087 | AI自动评分后，人工还要检查哪些地方？
+- 核查：抽查公司实体匹配、来源日期、引用是否支持结论、未知是否误记零，以及总分是否超过各维度上限；流畅描述不等于可靠判断。
+- 行动：关键客户和风险例外必须人工复核，纠正后保留修改记录；AI只处理任务必要资料，不将私人客户内容写入公开技能仓库。
+
+### CG-088 | 评分规则更新后，旧客户需要全部重打吗？
+- 核查：识别更新是否改变维度、锚点、缺失处理或阈值；仅修正措辞与改变计算方法的影响不同，新旧分数不可默认直接比较。
+- 行动：优先重评活跃机会，保留历史版本与迁移说明；批量重算前抽样核对，不能覆盖旧记录后再用分数变化解释客户行为变化。
+
+### CG-089 | 客户明确纠正了画像信息，如何处理？
+- 核查：定位被纠正的事实及原始来源，检查是否影响关联公司、规模或角色判断；客户更正应被核验，而不是因与既有画像冲突就忽略。
+- 行动：及时更新事实及派生评分，标明更正日期和依据；需要删除或限制使用的信息按适用流程处理，不把错误内容继续复制到新报告。
+
+### CG-090 | 怎样避免“先打低分、少跟进、再证实低分”的循环？
+- 核查：比较不同等级实际获得的响应速度、样品机会和有效触达，低转化可能源于资源分配而非客户本身；观察结果不自动等于因果。
+- 行动：给待补证线索最低一致服务，并抽样复核被降级机会；用可控试行评估改进，不因早期缺资料永久阻断其进入正常评估的机会。
+
+## 十、CRM、复评与跟进执行
+
+### CG-091 | CRM最少记录哪些内容才方便复核？
+- 核查：检查是否能区分公司、联系人与具体机会，并追溯来源、日期、评分版本、未知项和下一动作；单个“客户A级”字段不够。
+- 行动：设置事实、评分、信用状态和行动四类字段，关键证据可定位但不过量保存；指定负责人及复评节点，避免多人各持不同结论。
+
+### CG-092 | 展会两百张名片如何分批评估？
+- 核查：先整理现场记录、采购品类、明确项目及约定动作；名片职位或展位人流不足以支撑完整评分，重复公司应先合并识别。
+- 行动：先处理已承诺的报价与会面，再给其余线索做轻量澄清；仅对有实质需求者补完整评分，不批量编造预算和公司规模填满表格。
+
+### CG-093 | 客户从样品通过到大货讨论，什么时候重新评分？
+- 核查：确认样品通过的具体范围，以及大货数量、批准人、合同和交付条件是否新增；样品合格不代表价格、付款或全部技术项已确认。
+- 行动：在关键阶段变更时更新受影响维度，保留旧版本；下一步集中处理大货未决项，不把所有维度一次性自动调到最高分。
+
+### CG-094 | 客户久未互动，多久应该降级？
+- 核查：对照约定时间、采购周期、项目状态及已尝试的有效触达，不能用统一天数判断所有客户；长期项目和补货项目节奏不同。
+- 行动：先更新机会活跃状态，再根据新证据调整意向；设定合理回访或暂停节点，不因沉默自动改写公司实力、历史规模等稳定事实。
+
+### CG-095 | 怎样给T1级客户制定可执行的跟进计划？
+- 核查：找到阻碍当前决策的具体问题、负责角色及双方承诺时间，而非因为等级高就增加发送频率；过多信息可能妨碍审批。
+- 行动：安排一个明确交付物与一个低负担确认动作，注明负责人和日期；每次触达要带来新价值，客户要求暂停时尊重其节奏。
+
+### CG-096 | 低优先级但适配良好的客户如何培育？
+- 核查：确认其暂不采购的原因与未来触发条件，并了解是否愿意接收相关资料；没有近期预算不等于需要高频营销。
+- 行动：只分享与其用途相关的已核实资料，按约定节奏回访；保留重新评估入口，拒收或不相关时停止，不以培育名义不断群发催单。
+
+### CG-097 | 团队交接时，如何防止重复询问客户？
+- 核查：交接记录应区分客户已确认、销售推断、未决事项与对外承诺，检查报价和需求版本；聊天历史长不代表关键信息已整理。
+- 行动：新负责人先阅读机会摘要，再只询问真正缺失的内容；对评分调整附原因，不把内部等级、风险猜测或私人备注转发给买方。
+
+### CG-098 | 客户成交或流失后，分级记录还要保留什么？
+- 核查：记录明确结果、时间、金额口径及买方可证实的原因，区分竞争失败、项目取消和无法联系；销售个人猜测不能当确定流失原因。
+- 行动：保留当时评分快照用于校准，账户状态与单次机会结果分开；只按必要保留期限保存资料，不把客户级案例复制到公开FAQ。
+
+### CG-099 | 用户只要求写一封回复，是否必须先输出完整分级？
+- 核查：判断任务是否真的需要评分，以及现有信息能否支持回复；销售判断可以帮助选语气，但不意味着每次都要展示120分报告。
+- 行动：直接提供符合最新来信的可发送回复，仅补充关键未知或风险；用户要求评估或资源排序时再展开分级，避免让流程取代实际需求。
+
+### CG-100 | 公开技能库怎样保留经验而不留下客户记忆？
+- 核查：检查案例是否包含真实姓名、邮箱、订单、谈判底价、内部标签或可重新识别的组合信息；隐去公司名并不必然完成匿名化。
+- 行动：只保留通用判断规则和虚构示例，真实客户证据留在获授权的业务系统；更新FAQ前做隐私复查，不把公开仓库当客户CRM使用。

@@ -1,440 +1,536 @@
-# BYFIT Gym Equipment — Product-Specific FAQs
-
-> Last updated: 2026-06 | Version 1.0
-> Contact: Eric | sales@sdbyfit.com
-> Websites: https://byfitgear.com | https://shandongbyfit.com
-
----
-
-## Category 1: Product Specs & Materials (8 entries)
-
-### Q: "What steel gauge and tubing size do you use for your commercial strength equipment?"
-**中文**: 你们商用力量器械用的钢材厚度和管材规格是多少？
-- **场景**: 客户在对比不同供应商的用料规格，关注器械的耐用性和承重能力
-- **根因**: 客户可能之前买过薄管材产品出现框架变形问题，现在严格审查钢材规格
-- **调查信号**: 客户反复追问"wall thickness""tubing size"或提到"gauge"；主动与其他品牌对比
-- **回复策略**: 直接给出精确参数并对比行业标准，用数据证明超出EN 957标准
-- **回复模板**:
-  > Our main frames use Q235 cold-rolled steel with 50×100×3 mm and 60×120×3 mm oval tubing — the 3 mm wall thickness exceeds the EN 957 commercial standard (which requires minimum 2.5 mm). Support frames use 40×80×2.5 mm tubing. We also perform a 500 kg static load test on all plate-loaded frames with zero permanent deformation. I can send you our test report for [model name] if you'd like to review the data.
-- **CTA**: "Shall I send the load test report and a steel thickness comparison photo with a caliper?"
-
----
-
-### Q: "What type of bearings do your pulleys use? How long do they last?"
-**中文**: 你们滑轮用的是什么轴承？使用寿命多长？
-- **场景**: 客户关心器械维护成本和长期使用体验，特别是滑轮系统的顺滑度
-- **根因**: 客户可能经历过滑轮卡顿或轴承损坏导致的高维修成本
-- **调查信号**: 客户提到"maintenance frequency""bearing noise""cable smoothness"或问"sealed or open bearings"
-- **回复策略**: 强调密封轴承的免维护特性，用循环测试数据证明寿命
-- **回复模板**:
-  > Our pulleys use fiberglass-reinforced nylon housings (φ100 mm) with sealed precision bearings inside — this means zero maintenance, no lubrication needed, and no dust ingress. The cable-pulley system has been tested to 2 million cycles in our lab with no detectable wear or play. For a typical commercial gym running 12 hours/day, that translates to 8–10 years of smooth operation.
-- **CTA**: "Would you like a video showing our cable smoothness test on the [cable crossover / functional trainer]?"
-
----
-
-### Q: "What is the weight capacity of your power racks and Smith machines?"
-**中文**: 你们的力量架和史密斯机最大承重是多少？
-- **场景**: 客户经营硬核健身房或CrossFit场馆，需要高承重设备
-- **根因**: 客户的客户群体包括力量举选手或高水平训练者，对安全性和承重要求极高
-- **调查信号**: 客户提到"powerlifter""heavy squats""safety rating"或询问"tested to what weight"
-- **回复策略**: 给出具体承重数字和安全系数，强调安全设计细节
-- **回复模板**:
-  > Our power rack (BY-FT04) is rated for 500 kg dynamic load and tested to 800 kg static load with a 2.5× safety factor. The Smith machine (BY-PL03) carries a 300 kg capacity with linear bearings for smooth bar travel. Both feature 3 mm thick main frames, reinforced J-hooks with UHMW plastic inserts to protect bar knurling, and adjustable safety catches rated for dropped loads. I can share our SGS-certified load test documentation for your review.
-- **CTA**: "Want me to send the SGS load test certificate and a video of our 800 kg static test on the power rack?"
-
----
-
-### Q: "What cable specification do you use? I've had cables snap on other machines."
-**中文**: 你们用的什么规格的钢缆？我之前的设备钢缆断过。
-- **场景**: 客户有钢缆断裂的不愉快经历，对钢缆质量和安全性特别敏感
-- **根因**: 钢缆断裂通常是因为使用了低规格镀锌钢绳或滑轮设计导致过度弯折
-- **调查信号**: 客户直接说"cable broke""snapped""frayed"或问"breaking strength""safety factor"
-- **回复策略**: 用4倍安全系数和200万次循环测试数据打消顾虑
-- **回复模板**:
-  > I completely understand your concern — cable failure is a serious safety issue. BYFIT uses 6 mm 7×19 galvanized steel cables with a breaking strength of 1,800 lb (approx. 815 kg), giving you a 4× safety factor under normal use (max stack load 100 kg = 220 lb). Our pulley design ensures minimum cable bend radius to prevent fatigue. We also test cables to 2 million cycles. Each machine ships with a spare cable as standard. If you've had failures before, it was likely due to undersized cables (many suppliers use 5 mm or 1,200 lb cables) — ours are significantly over-specced.
-- **CTA**: "I'll include a cable specification comparison chart in your product deck — shall I send it today?"
-
----
-
-### Q: "What foam density and upholstery material do you use on your pads?"
-**中文**: 你们坐垫用的什么密度海绵和包面材料？
-- **场景**: 客户关注长期使用后坐垫塌陷或皮面开裂的问题
-- **根因**: 低价供应商常用低密度海绵（30 kg/m³以下）导致1-2年内坐垫变形
-- **调查信号**: 客户提到"pad sagging""upholstery cracking""foam compression"或询问"high-density foam"
-- **回复策略**: 用具体密度数据和耐磨测试结果证明品质
-- **回复模板**:
-  > We use 45 kg/m³ high-density PU foam (30–50 mm thickness depending on the application) — this is 30–50% denser than typical commercial-grade foam used by competitors. The upholstery is 1.2 mm PVC leather with anti-bacterial and anti-mildew treatment, double-stitched with nylon thread and reinforced at stress points. The upholstery passed SGS abrasion testing at 50,000 Martindale cycles. In practical terms, our pads retain their shape after 500,000+ compression cycles, which means years of daily commercial use without sagging.
-- **CTA**: "I can send you a side-by-side foam compression comparison photo — BYFIT vs. standard commercial foam. Interested?"
-
----
-
-### Q: "Do your treadmills use AC or DC motors? What's the continuous horsepower?"
-**中文**: 你们的跑步机用交流还是直流电机？持续马力是多少？
-- **场景**: 客户采购商用跑步机，需要确认电机能否承受长时间连续运转
-- **根因**: DC电机在商用环境下容易过热，客户需要AC电机确保稳定性
-- **调查信号**: 客户问"continuous duty""CHP vs HP""AC motor"或提到"motor overheating"
-- **回复策略**: 明确AC电机型号和持续功率，对比DC电机的劣势
-- **回复模板**:
-  > All BYFIT commercial treadmills use AC (alternating current) motors — specifically, BY-TM01 features a 4.0 HP AC motor and BY-TM02 has a 5.0 HP AC motor. AC motors are the standard for commercial environments because they handle continuous 12+ hour operation without overheating, unlike DC motors which are better suited for light commercial or home use. Our treadmills also feature auto-lubrication systems and industrial-grade inverters for speed consistency under varying loads. Maximum user weight capacity is 180 kg (BY-TM01) / 200 kg (BY-TM02).
-- **CTA**: "Would you like the full motor specification sheet and our thermal performance test data?"
-
----
-
-### Q: "Are your dumbbells and weight plates calibrated for accuracy?"
-**中文**: 你们的哑铃和杠铃片重量准确吗？有校准吗？
-- **场景**: 客户经营专业力量训练场馆，对重量精度有要求
-- **根因**: 劣质铸铁产品重量偏差可能达到±5-10%，影响训练效果和客户体验
-- **调查信号**: 客户问"weight tolerance""calibrated""accuracy"或提到"plates don't match stated weight"
-- **回复策略**: 给出具体公差范围，说明检测流程
-- **回复模板**:
-  > Yes — our weight plates and dumbbells are precision-machined with a weight tolerance of ±1% for rubber-coated products and ±2% for cast-iron products. Every batch goes through statistical quality control sampling (AQL 2.5) with digital scale verification. Our Olympic bars (20 kg) are calibrated to ±200g. For competitive powerlifting applications, we also offer competition-calibrated plates at ±0.5% tolerance (special order, MOQ 200 kg per size). We can include weight verification certificates if your market requires it.
-- **CTA**: "Should I include weight calibration certificates in your quotation package?"
-
----
-
-### Q: "What surface treatment process do you use? How does it hold up in humid environments?"
-**中文**: 你们的表面处理工艺是什么？在潮湿环境下防锈效果怎样？
-- **场景**: 客户位于沿海或热带地区（中东、东南亚），担心器械生锈
-- **根因**: 潮湿环境+汗液腐蚀是健身房器械生锈的主要原因，喷涂工艺直接决定防锈效果
-- **调查信号**: 客户提到"rust""corrosion""coastal area""humid climate"或询问"salt spray test"
-- **回复策略**: 详细说明完整前处理+喷涂流程，提供盐雾测试数据
-- **回复模板**:
-  > Our surface treatment is a 4-step process: (1) shot blasting to remove mill scale, (2) chemical degreasing, (3) phosphating for corrosion-resistant base layer, (4) electrostatic powder coating at 60–80 μm thickness, cured at 200°C for 20 minutes. This process has passed the 500-hour neutral salt spray test (NSS), which simulates years of exposure in humid/coastal environments. For especially corrosive environments (like outdoor gyms or tropical beach clubs), we also offer an optional double-coating process with anti-corrosion primer for an additional $8–15 per unit.
-- **CTA**: "Shall I include our salt spray test certificate and rust-proofing options in your product package?"
-
----
-
-## Category 2: Assembly & Installation (5 entries)
-
-### Q: "Do you provide installation service? How do we assemble the machines?"
-**中文**: 你们提供安装服务吗？器械怎么组装？
-- **场景**: 客户是首次采购商用器械，没有专业安装团队
-- **根因**: 客户担心安装不当影响使用安全和保修
-- **调查信号**: 客户问"installation included""assembly guide""technician"或提到"we don't have an installer"
-- **回复策略**: 说明远程支持方案+安装指南，必要时提供上门安装服务
-- **回复模板**:
-  > For standard orders, we provide comprehensive assembly support including: (1) detailed step-by-step instruction manuals with exploded-view diagrams, (2) QR codes on each manual linking to installation videos for every model, (3) remote video-call assistance from our technical team during your first assembly. For large orders (full container or 20+ units), we can arrange an on-site technician for installation supervision at [customer]'s cost (flights + accommodation + $150/day). Most pin-loaded machines can be assembled by 2 people in 30–45 minutes using standard tools (Allen keys and wrenches included in the package).
-- **CTA**: "Want me to send you a sample installation video for our [model] so you can evaluate the difficulty level?"
-
----
-
-### Q: "What tools are needed for assembly? Do they come with the machine?"
-**中文**: 组装需要什么工具？随机附带吗？
-- **场景**: 客户在规划到货后的安装准备工作
-- **根因**: 客户想确认是否需要额外采购专用工具
-- **调查信号**: 客户问"tools included""special tools""what do we need to prepare"
-- **回复策略**: 说明标配工具包+可能需要的额外工具
-- **回复模板**:
-  > Each machine ships with a dedicated tool kit including Allen keys (4, 5, 6, 8 mm), an adjustable wrench, and a cable tensioning tool where applicable. For most models, the included tools are sufficient for complete assembly. For multi-stations, we recommend having a cordless drill (for faster bolt tightening), a rubber mallet (for guide rod alignment), and a tape measure (for spacing verification) — these are common workshop tools, not specialized equipment. We also include spare bolts, washers, and a tube of Loctite for vibration-prone connections.
-- **CTA**: "I'll include the full tool list for each model in your pre-shipment documentation package."
-
----
-
-### Q: "How much floor space do I need for a [power rack / cable crossover / multi-station]?"
-**中文**: 安装力量架/龙门架/综合训练器需要多少地面空间？
-- **场景**: 客户在规划健身房布局，需要精确的占地尺寸
-- **根因**: 客户场地面积有限，需要确保设备能放得下且留出安全操作空间
-- **调查信号**: 客户提到"floor plan""space planning""how much room"或要求"dimensions with working space"
-- **回复策略**: 给出设备尺寸+推荐操作空间+提供布局设计服务
-- **回复模板**:
-  > Here are the footprint dimensions plus recommended working clearance for our key models:
-  > - Power Rack (BY-FT04): 175×145 cm footprint → recommend 250×200 cm with barbell and bench
-  > - Cable Crossover (BY-FT01): 335×110 cm footprint → recommend 400×200 cm for full cable travel
-  > - 4-Station Multi-Gym (BY-MS01): 370×310 cm footprint → recommend 450×380 cm
-  > - Smith Machine (BY-PL03): 175×145 cm footprint → recommend 250×200 cm
-  >
-  > We also offer free gym layout design — just send us your floor plan and we'll create a 2D layout + 3D rendering showing optimal equipment placement with aisle clearances.
-- **CTA**: "Send me your floor plan and I'll have our layout team design the optimal equipment arrangement — free of charge."
-
----
-
-### Q: "Can the machines be disassembled for moving? We may relocate our gym."
-**中文**: 设备可以拆卸搬迁吗？我们可能要换场地。
-- **场景**: 客户在租赁场地经营，可能需要搬迁
-- **根因**: 商用器械重且大，搬迁成本和可行性是采购考虑因素
-- **调查信号**: 客户提到"relocate""move""temporary location"或问"can it be taken apart"
-- **回复策略**: 说明可拆卸设计+搬迁注意事项
-- **回复模板**:
-  > Yes, all BYFIT machines are bolt-together construction (not welded assemblies), which means they can be fully disassembled and reassembled. The main frame sections connect via high-tensile bolts (Grade 10.9), and our instruction manuals include both assembly and disassembly sequences. Key considerations for relocation: (1) label all bolts and parts during disassembly (we provide a part numbering diagram), (2) weight stack plates should be packed separately to avoid damage, (3) cables should be coiled carefully to avoid kinking. For multi-stations, we recommend our technician supervise the first disassembly/reassembly — after that, your team can handle it independently.
-- **CTA**: "Want me to include our relocation guide with detailed disassembly instructions in your documentation?"
-
----
-
-### Q: "Do your cardio machines require professional electrical setup?"
-**中文**: 你们的有氧设备需要专业电工安装吗？
-- **场景**: 客户采购跑步机等有氧设备，关心电力要求
-- **根因**: 商用跑步机功率大，可能需要特殊电路，客户担心额外安装成本
-- **调查信号**: 客户问"voltage""power requirement""dedicated circuit"或提到"electrical installation"
-- **回复策略**: 说明电压选项和电力需求，强调即插即用的便利性
-- **回复模板**:
-  > Our commercial treadmills (BY-TM01/TM02) operate on 220V/50Hz or 110V/60Hz (please specify at order). For 220V models, a standard 16A socket is sufficient. For 110V models, we recommend a dedicated 20A circuit per treadmill. No special electrical work is needed beyond a standard commercial outlet — just plug and play. Ellipticals, spin bikes, and rowing machines are self-powered (battery + kinetic energy) or use standard plugs. All cardio machines include built-in surge protection and emergency stop systems. We also provide electrical specification sheets for your facilities team to verify compatibility.
-- **CTA**: "Should I send the full electrical specification sheet for your facilities team to review before ordering?"
-
----
-
-## Category 3: Certifications & Compliance (5 entries)
-
-### Q: "What certifications do your gym equipment products hold?"
-**中文**: 你们的健身器材产品有哪些认证？
-- **场景**: 客户在做供应商资质审核，需要确认合规性
-- **根因**: 不同市场有不同的强制认证要求，缺少认证可能导致清关问题或法律风险
-- **调查信号**: 客户要求"certificate list""compliance documentation"或指定"CE for EU""ETL for US"
-- **回复策略**: 列出已有认证+可按需获取的认证+说明覆盖范围
-- **回复模板**:
-  > BYFIT currently holds the following certifications:
-  > - **ISO 9001:2015** — Quality Management System (factory-wide)
-  > - **ISO 14001:2015** — Environmental Management System
-  > - **CE marking** — Compliant with EU Machinery Directive 2006/42/EC and EN 957 (stationary training equipment)
-  > - **SGS tested** — Product-level testing including load testing, stability, and material verification
-  > - **REACH compliant** — All upholstery and coatings meet EU REACH regulations
-  >
-  > For market-specific requirements: TÜV/GS (Germany), PSE (Japan), KC (South Korea), ETL/UL (USA for cardio), SASO (Saudi Arabia) — we can obtain these upon request with the cost shared per agreement. Lead time for additional certifications: 4–8 weeks.
-- **CTA**: "Which certifications does your market require? I'll confirm our current coverage and plan for any gaps."
-
----
-
-### Q: "Does your equipment meet the EN 957 standard for commercial use?"
-**中文**: 你们的设备符合EN 957商用标准吗？
-- **场景**: 欧洲客户或其进口商要求确认符合欧盟健身器材安全标准
-- **根因**: EN 957是欧盟健身器材的强制安全标准，分为S（家用）和A/B/C（商用）等级
-- **调查信号**: 客户指定"EN 957""Class A/B/C""commercial grade standard"或问"EU compliance"
-- **回复策略**: 明确声明符合EN 957商用等级，并说明具体超出项
-- **回复模板**:
-  > Yes, all BYFIT strength equipment is designed to meet and exceed EN 957 (Class A/B — commercial/studio use). Specifically: our 3 mm main frame tubing exceeds the minimum 2.5 mm requirement; our 500 kg static load test exceeds the standard's stability and strength requirements; our weight stack safety systems include magnetic selector pins with lanyards and finger guards. Our CE declaration of conformity specifically references EN 957 compliance. I can provide the CE DoC and third-party test reports for your compliance file.
-- **CTA**: "Shall I send the EN 957 compliance documentation and CE Declaration of Conformity for your review?"
-
----
-
-### Q: "Do you have ASTM certification for the US market?"
-**中文**: 你们有美国市场的ASTM认证吗？
-- **场景**: 美国客户询问产品是否符合美国健身器材标准
-- **根因**: ASTM F2276（有氧）和ASTM F3101（力量）是美国行业标准，部分保险公司要求
-- **调查信号**: 客户提到"ASTM""US market compliance""product liability"或问"insurance requirements"
-- **回复策略**: 说明可按需获取ASTM测试报告，提供替代方案
-- **回复模板**:
-  > Our products are designed to ASTM F3101 (strength equipment) and ASTM F2276 (cardio equipment) specifications, and we can provide third-party test reports upon request. We currently have SGS test reports that map to ASTM requirements for key parameters (load testing, stability, pinch point analysis). For US market entry, many of our clients also obtain ETL/UL listing for cardio products — we can arrange this with Intertek or UL, typically adding 3–4 weeks to lead time. The testing cost (~$2,000–3,000 per model) can be shared or refunded at volume commitments.
-- **CTA**: "Want me to get a quote for ASTM testing on your specific model selection? We can split the cost."
-
----
-
-### Q: "Are your products REACH-compliant? We need this for EU import."
-**中文**: 你们的产品符合REACH吗？我们进口到欧盟需要这个。
-- **场景**: 欧盟客户或进口商在确认化学物质合规性
-- **根因**: REACH法规对健身器材中的化学物质（特别是PVC包面、涂料中的有害物质）有严格限制
-- **调查信号**: 客户指定"REACH""SVHC""chemical compliance"或要求"material safety data"
-- **回复策略**: 直接确认合规+提供支持文件
-- **回复模板**:
-  > Yes, all BYFIT products are REACH-compliant. Our PVC upholstery has been tested for SVHC (Substances of Very High Concern) and does not contain any of the 235+ substances on the current REACH candidate list. Our powder coating is lead-free, cadmium-free, and chromium-VI-free. We maintain REACH compliance documentation including material declarations from our coating and upholstery suppliers, and we can provide SVHC test reports from SGS upon request. This documentation is typically required by EU customs and your liability insurer.
-- **CTA**: "I'll include the REACH SVHC test report in your compliance documentation package — need anything else for your importer?"
-
----
-
-### Q: "Do you comply with Saudi SASO or UAE ESMA requirements?"
-**中文**: 你们符合沙特SASO或阿联酋ESMA的要求吗？
-- **场景**: 中东客户在确认市场准入合规性
-- **根因**: 中东市场对有氧设备有特定的安全认证要求，清关时需要提供
-- **调查信号**: 客户提到"SASO""ESMA""GCC conformity"或问"Middle East certification"
-- **回复策略**: 说明当前状态+获取路径+时间周期
-- **回复模板**:
-  > For the Saudi market: SASO certification is required for cardio equipment. We can obtain SASO through our certification partner — the process takes 4–6 weeks and costs approximately $1,500–2,500 per model. For strength equipment, SASO is generally not required, but we recommend SABER registration for smooth customs clearance. For UAE: ESMA registration is recommended (not strictly mandatory) for cardio products. We have experience with both processes and can handle the paperwork on your behalf. Several of our Middle East clients have imported successfully with our CE + ISO certifications as the base, plus SASO/ESMA as add-ons.
-- **CTA**: "Which specific models are you planning to import? I'll map out the exact certification requirements and timeline for your market."
-
----
-
-## Category 4: Comparison & Differentiation (6 entries)
-
-### Q: "How does BYFIT compare to Life Fitness or Technogym?"
-**中文**: BYFIT和Life Fitness、泰诺健比怎么样？
-- **场景**: 客户在高端品牌和中端品牌之间犹豫，想要性价比分析
-- **根因**: 客户认可高端品牌品质但预算有限，需要一个质量接近但价格更优的替代方案
-- **调查信号**: 客户提到"Life Fitness""Technogym""premium brands"或问"why should I choose you over"
-- **回复策略**: 不贬低竞品，客观定位差异，强调BYFIT在性价比上的优势
-- **回复模板**:
-  > Life Fitness and Technogym are excellent Tier 1 brands — if your budget supports $3,000–6,000 per strength unit and you need the brand prestige for member attraction, they're the right choice. BYFIT occupies a different position: we offer Tier 2+ quality at Tier 3 pricing. Our 3 mm steel, 45 kg/m³ foam, and 1,800 lb cables match or exceed many premium-brand specs, but at 40–60% lower FOB pricing because you're buying direct from the factory with no brand premium, no distributor markup, and no marketing surcharge. Many of our clients are gyms that want commercial-grade durability without the luxury price tag — especially independent gyms, boutique studios, and budget chains where equipment ROI matters more than brand name on the frame.
-- **CTA**: "Want me to send a detailed spec comparison sheet: BYFIT vs. Life Fitness vs. Technogym on key parameters?"
-
----
-
-### Q: "How do you compare to Hammer Strength plate-loaded machines?"
-**中文**: 你们的挂片式器械和Hammer Strength比怎么样？
-- **场景**: 客户经营力量训练为主的健身房，Hammer Strength是该领域的标杆
-- **根因**: Hammer Strength的弧线运动轨迹（ISO-lateral）是其核心卖点，客户想知道BYFIT是否有类似技术
-- **调查信号**: 客户提到"plate-loaded""ISO-lateral""independent arm movement"或问"converging/diverging"
-- **回复策略**: 承认Hammer Strength的品牌地位，强调BYFIT的功能近似+价格优势
-- **回复模板**:
-  > Hammer Strength is the gold standard for plate-loaded equipment, particularly their ISO-lateral independent arm movement. BYFIT's plate-loaded line offers converging and diverging motion paths on key models (chest press, shoulder press, lat pulldown) that provide similar independent arm mechanics. Where we differ: (1) Our frames use the same 3 mm steel and similar biomechanical angles at roughly 50–65% of the FOB price, (2) We include standard features that Hammer charges extra for (rubber floor protectors, weight storage horns, custom color), (3) Our lead time is 20–25 days vs. 8–12 weeks for Hammer. If your members aren't brand-loyal and you need to fill a 10–20 unit plate-loaded zone, BYFIT gives you the same training experience at a fraction of the cost.
-- **CTA**: "I can send side-by-side biomechanical comparison photos of our plate-loaded chest press vs. Hammer Strength — want to see the movement path?"
-
----
-
-### Q: "Why should I choose BYFIT over Rogue Fitness?"
-**中文**: 为什么选BYFIT而不选Rogue？
-- **场景**: 美国市场的CrossFit场馆或力量训练馆在比较这两个品牌
-- **根因**: Rogue是美国本土品牌，有品牌认同感和快速物流优势，客户需要一个有说服力的理由选择中国工厂
-- **调查信号**: 客户提到"Rogue""CrossFit""US-made"或问"why not buy American"
-- **回复策略**: 承认Rogue在power rack领域的优势，聚焦BYFIT在完整产品线和定制化上的差异
-- **回复模板**:
-  > Rogue makes excellent power racks and is the go-to for CrossFit affiliates — no argument there. Where BYFIT adds value: (1) **Full product range** — Rogue doesn't make pin-loaded machines, multi-stations, or cardio; BYFIT is your one-stop solution for the entire gym, (2) **Customization** — Rogue offers limited color options; BYFIT offers any RAL color, custom upholstery, logo embroidery, and full OEM branding, (3) **Container savings** — Filling a 40HQ with BYFIT's full range (racks + machines + cardio + free weights) saves 15–25% vs. buying racks from Rogue and machines from 3 other suppliers, (4) **Price** — Our power racks start at $280 FOB vs. Rogue's $1,500+ retail. If you're outfitting a complete gym, BYFIT's breadth and pricing make the economics compelling.
-- **CTA**: "Tell me about your gym setup — I'll put together a full package comparison: BYFIT complete gym vs. Rogue + other brands mixed."
-
----
-
-### Q: "We've been buying from [Brand A in Shanghai / Brand B in Zhejiang]. Why switch?"
-**中文**: 我们一直从上海/浙江的品牌采购，为什么要换？
-- **场景**: 客户有现有供应商，对切换有顾虑
-- **根因**: 切换供应商有风险（质量不确定性、交期风险），客户需要一个强有力的切换理由
-- **调查信号**: 客户提到现有供应商名字，或说"we're happy with our current supplier""no reason to change"
-- **回复策略**: 不攻击竞品，用规格对比+增值服务证明切换价值
-- **回复模板**:
-  > I'm glad you have a reliable supplier — consistency matters. That said, many of our current clients switched to BYFIT for specific reasons: (1) **Material upgrade** — check if your current supplier uses 3 mm main frames; many Shandong/Zhejiang brands use 2.5 mm to save cost, (2) **20 production lines** — we can handle larger orders and parallel custom runs without delaying standard orders, (3) **Full gym solution** — if you're sourcing cardio, strength, and free weights from 3 different factories, consolidating with BYFIT saves container costs and simplifies logistics, (4) **Free gym layout service** — we provide 2D/3D floor plans that most competitors charge for. I'm not asking you to switch everything — just try a trial order of [5–10 units] and compare quality side by side. The products will speak for themselves.
-- **CTA**: "How about a small trial order of 5 units? I'll match your current pricing so there's zero financial risk in testing."
-
----
-
-### Q: "Your prices are similar to [competitor]. What makes BYFIT different?"
-**中文**: 你们的价格和XX差不多，BYFIT有什么不同？
-- **场景**: 客户在做同类价格对比，需要区分价值主张
-- **根因**: 价格不是唯一决策因素，客户在寻找差异化价值点
-- **调查信号**: 客户提到具体竞品名字和价格，或说"same price level""what's the difference"
-- **回复策略**: 从规格、服务、产能三方面差异化
-- **回复模板**:
-  > When prices are similar, the differences are in the details. Here's what sets BYFIT apart at the same price point: (1) **Heavier-duty specs** — 3 mm main frames standard (some competitors charge extra), 45 kg/m³ foam (vs. 30–35 kg/m³ common at this price), (2) **Included extras** — spare cables, rubber floor protectors, and custom color are standard, not add-ons, (3) **Production capacity** — 20 lines means we won't push your delivery date when another client's big order comes in, (4) **After-sales** — 5-year frame warranty vs. typical 2–3 years; video technical support with 4-hour response during business hours, (5) **Gym layout service** — free 2D/3D floor plan design with every order. I'd suggest comparing the actual product specs item by item — I'll send you our detailed spec sheet so you can do a direct comparison.
-- **CTA**: "Send me your current supplier's spec sheet — I'll do a line-by-line comparison and highlight where BYFIT delivers more value."
-
----
-
-### Q: "Can you match the quality of premium brands at your price point?"
-**中文**: 你们的价格能做到高端品牌的品质吗？
-- **场景**: 客户对"低价高质"的声明持怀疑态度
-- **根因**: 客户认为价格=质量，难以相信中端价格可以接近高端品质
-- **调查信号**: 客户说"too good to be true""how can you offer this price""what corners are you cutting"
-- **回复策略**: 解释成本结构差异而非品质差异，用透明定价逻辑消除疑虑
-- **回复模板**:
-  > Fair question — let me explain the cost structure. Premium brands' retail prices include: (1) 30–50% distributor/dealer margin, (2) 15–25% marketing and brand licensing costs, (3) 10–15% R&D amortization across a smaller production volume. BYFIT's FOB price is essentially the factory gate cost + modest margin. We achieve comparable material specs because: (1) Shandong is China's largest steel processing hub — our raw material cost is 10–15% lower than Shanghai/Zhejiang factories, (2) 20 production lines give us economies of scale, (3) We don't carry brand premium or marketing overhead. You're not paying less for lower quality — you're paying less because you're buying direct from the factory. I encourage you to order a sample unit and have it independently tested.
-- **CTA**: "Want to order one sample unit for independent testing? If it doesn't meet your quality standard, I'll refund the sample cost."
-
----
-
-## Category 5: Customization & OEM (4 entries)
-
-### Q: "Can we customize the frame color and upholstery to match our gym brand?"
-**中文**: 可以定制框架颜色和包面来匹配我们的健身房品牌吗？
-- **场景**: 客户有品牌视觉系统，希望器械颜色与品牌VI统一
-- **根因**: 品牌一致性是连锁健身房的核心诉求，定制颜色能提升品牌辨识度
-- **调查信号**: 客户提到"brand color""logo""matching""visual identity"或发送品牌色卡
-- **回复策略**: 确认定制能力+最小起订量+交期影响
-- **回复模板**:
-  > Absolutely — full customization is one of BYFIT's core strengths. For frame color, we can match any RAL color or Pantone reference. For upholstery, we offer 30+ fabric options including custom color, texture, and even logo embroidery or embossing on pads. The MOQ for custom color is just 10 units per model (vs. 50+ at many competitors). Custom color adds 5 business days to lead time (25–30 days total). There's no extra charge for standard RAL colors; for custom Pantone matching, there's a one-time color development fee of $50–80 per color (waived at 100+ unit cumulative order). I'll need your color codes or a physical swatch to ensure accurate matching.
-- **CTA**: "Send me your brand guidelines or color codes — I'll prepare a mockup rendering showing your machines in your brand colors."
-
----
-
-### Q: "Can we put our own logo and branding on the machines?"
-**中文**: 可以在器械上印我们自己的logo和品牌吗？
-- **场景**: 客户想做自有品牌或经销商品牌
-- **根因**: 品牌定制是经销商和连锁健身房的核心需求，影响终端售价和品牌形象
-- **调查信号**: 客户提到"private label""our brand""OEM""logo on machine"或问"white label"
-- **回复策略**: 详细说明品牌定制选项和工艺
-- **回复模板**:
-  > Yes — we offer full OEM/ODM branding services. Options include:
-  > - **Silkscreen printing** on frame — MOQ 10 units, best for flat surfaces
-  > - **Laser engraving** on metal components — MOQ 10 units, permanent and premium look
-  > - **Embossed/debossed logo** on upholstery pads — MOQ 20 units per pad design
-  > - **Custom weight stack covers** with your brand — MOQ 10 units
-  > - **Custom user manuals** with your branding and contact info — you provide artwork
-  > - **Custom packaging** — neutral brown box (free) or branded color box (MOQ 50 units, +$2–5/unit)
-  >
-  > Many of our distributor clients run their own brand exclusively — BYFIT branding is never visible unless you want it. Just send your logo files (AI/EPS format preferred) and we'll provide a digital mockup for approval before production.
-- **CTA**: "Send me your logo file — I'll have our design team create a branded mockup of your chosen model within 24 hours."
-
----
-
-### Q: "Can you design a completely new machine based on our concept?"
-**中文**: 你们能根据我们的概念设计全新器械吗？
-- **场景**: 客户有独特的产品想法或特定训练需求，市面上没有完全匹配的产品
-- **根因**: 客户想打造差异化产品，或者其市场有特殊的训练习惯
-- **调查信号**: 客户提到"custom design""unique product""our own concept"或发送草图/设计图
-- **回复策略**: 确认ODM能力，说明流程、时间和成本
-- **回复模板**:
-  > Yes — BYFIT offers full ODM (Original Design Manufacturing) service. Our process: (1) You provide a concept, sketch, or reference — we sign an NDA first, (2) Our engineering team creates 3D models and renders for your approval (7–10 days), (3) Prototype production (15–20 days), (4) You review and request modifications, (5) Final production after sign-off. Tooling cost for a new model is $3,000–8,000 depending on complexity, which is fully refundable at 500-unit cumulative order. We also provide structural analysis (FEA simulation), biomechanical optimization, and load testing as part of the ODM package. Our 20 production lines can accommodate dedicated ODM runs without disrupting standard orders.
-- **CTA**: "If you have a concept or sketch, send it over — I'll have our engineers assess feasibility and provide a timeline + cost estimate within 3 days."
-
----
-
-### Q: "Do you offer custom packaging with our branding?"
-**中文**: 你们提供带我们品牌的定制包装吗？
-- **场景**: 客户是经销商，包装是品牌形象的重要组成部分
-- **根因**: 定制包装提升品牌专业度，也是终端客户开箱体验的关键
-- **调查信号**: 客户提到"packaging""branded box""unboxing experience"或问"neutral packaging"
-- **回复策略**: 说明包装选项和起订量
-- **回复模板**:
-  > We offer three packaging options: (1) **Standard neutral packaging** — brown kraft box with foam insert and corner protectors, no BYFIT branding, no extra cost, (2) **Semi-custom** — neutral outer box with your branded sticker label on the outside, MOQ 20 units, no extra cost (you provide label artwork), (3) **Full custom color box** — your brand design printed on corrugated box, custom insert, MOQ 50 units per model, +$2–5/unit depending on box size and print colors. For free weights, we also offer custom head cards and display pallets. All packaging uses recyclable materials. Production time for custom boxes: 7–10 days (can overlap with product production).
-- **CTA**: "Do you have existing packaging artwork, or do you need our design team to help create it? I can provide die-cut templates for your designer."
-
----
-
-## Category 6: Pricing & Ordering (5 entries)
-
-### Q: "What is your minimum order quantity? Can we start with a small trial order?"
-**中文**: 你们的最低起订量是多少？可以先下小批量试单吗？
-- **场景**: 新客户想先测试品质再下大单
-- **根因**: 客户对供应商还不了解，不想一次性投入太多资金
-- **调查信号**: 客户问"MOQ""trial order""sample order"或说"we want to test first"
-- **回复策略**: 说明标准MOQ但展示灵活性，鼓励试单
-- **回复模板**:
-  > Our standard MOQ is 5–10 units per model depending on the product category (10 for pin-loaded, 5 for plate-loaded/cardio, 3 for multi-stations). However, for new clients, we're flexible — we can accept a trial order of as few as 2–3 units per model with a small-order surcharge of 8–12%. The trial order surcharge is fully refundable as credit toward your next standard-order purchase. For free weights, MOQs are weight-based (e.g., 100 pairs dumbbells, 200 kg per plate size). We also offer a sample unit at the single-unit price + shipping — and the sample cost is refundable at your first 100-unit cumulative order.
-- **CTA**: "Tell me which models you'd like to trial — I'll prepare a trial-order quotation with no commitment required."
-
----
-
-### Q: "What are your payment terms?"
-**中文**: 你们的付款条件是什么？
-- **场景**: 客户在确认交易条款，评估资金压力
-- **根因**: 不同规模客户对付款条件的要求不同，需要匹配合适的方案
-- **调查信号**: 客户问"payment terms""T/T""L/C""deposit"或提到"cash flow"
-- **回复策略**: 给出标准条款+大单灵活方案
-- **回复模板**:
-  > Our standard payment terms: **30% T/T deposit + 70% balance before shipment**. For orders over $50,000, we accept **L/C at sight**. For established clients with 3+ successful orders, we can offer: (1) 30% deposit + 70% against copy of B/L (releases shipment upon proof of sailing), or (2) Net 30 days for repeat orders with credit approval (subject to bank reference and trade history). We also accept payment via Alibaba Trade Assurance for added buyer protection. All prices are quoted FOB Qingdao in USD. We can quote CIF or DDP if you prefer — just provide your destination port or address.
-- **CTA**: "What payment method works best for you? I can adjust the quotation terms accordingly."
-
----
-
-### Q: "What is your sample policy? Can we order one unit to test quality?"
-**中文**: 你们的样品政策是什么？可以订购一台测试品质吗？
-- **场景**: 客户想先看实物再决定大宗采购
-- **根因**: 健身器材是重资产采购，客户需要亲眼确认品质才能放心
-- **调查信号**: 客户问"sample""one unit""test quality"或说"need to see it first"
-- **回复策略**: 鼓励样品单，强调样品费可退
-- **回复模板**:
-  > Yes, we encourage sample orders — seeing and touching the product is the best way to evaluate quality. Sample policy: (1) Single unit available at the standard FOB price + shipping cost to your door, (2) Sample production time: 10–15 business days (faster than standard lead time), (3) **Sample cost is 100% refundable** as credit against your first order of 100+ units, (4) For large equipment (multi-stations, treadmills), we can also arrange a factory visit so you can test the products in person — we'll arrange hotel and airport pickup from Qingdao. Alternatively, we can send you a detailed video walkthrough of any model showing all angles, cable action, pad quality, and frame details.
-- **CTA**: "Which model would you like to sample? I'll quote the sample price including shipping to your location."
-
----
-
-### Q: "How long is your lead time? Can you expedite for urgent orders?"
-**中文**: 你们的交货期多长？加急订单可以更快吗？
-- **场景**: 客户有新店开业时间节点，需要尽快到货
-- **根因**: 健身房开业日期通常是固定的，器械延误直接影响开业和现金流
-- **调查信号**: 客户提到"grand opening""deadline""urgent"或问"can you deliver by [date]"
-- **回复策略**: 给出标准交期+加急方案+诚实评估可行性
-- **回复模板**:
-  > Standard lead time is 20–25 business days for standard products. For urgent orders: (1) **Expedited production** at +10% surcharge can reduce to 15–18 business days, (2) **Partial shipment** — we can ship in-stock or finished items first and follow with the rest, (3) **Priority line allocation** — for 20-line factories, we can dedicate a line to your order. Best practice: place your order 45–60 days before your needed delivery date to account for production + shipping (sea freight: 15–25 days to most ports). If you tell me your target delivery date, I'll work backwards and tell you honestly whether it's achievable — I'd rather be upfront than promise and miss.
-- **CTA**: "When do you need the equipment on-site? I'll confirm feasibility and create a production + shipping timeline for you."
-
----
-
-### Q: "Do you offer discounts for large orders or repeat business?"
-**中文**: 大单或返单有折扣吗？
-- **场景**: 客户在谈判价格，寻找批量优惠
-- **根因**: B2B采购中阶梯定价是常规做法，客户期望量大从优
-- **调查信号**: 客户提到"volume discount""loyalty pricing""bulk order"或说"if we order more"
-- **回复策略**: 给出清晰的阶梯折扣体系
-- **回复模板**:
-  > Yes, we offer tiered pricing based on annual volume commitment:
-  > - **Standard**: Listed FOB price (orders under $50K/year)
-  > - **Silver tier**: 5% discount (annual commitment $50K–$100K)
-  > - **Gold tier**: 8% discount (annual commitment $100K–$300K)
-  > - **Platinum tier**: 12% discount (annual commitment $300K+)
-  >
-  > Additional discounts: (1) Full container orders: 3–5% extra off, (2) Complete gym package (20+ units mixed): special bundle pricing, (3) Repeat orders within 6 months: 3% loyalty discount on top of tier pricing. We also offer 6-month price lock for contracted distributors — protecting you from steel price fluctuations.
-- **CTA**: "What's your estimated annual purchasing volume? I'll quote you at the appropriate tier level with price-lock terms."
+# 健身器材产品 FAQ｜100 问
+
+本文件是询盘核查与回复框架，不是已验证的 BYFIT 型号规格表。型号、额定载荷、检测、价格、可定制范围、交期及售后承诺均须由当前有效资料确认。额定使用载荷不等于极限或破坏载荷，静态测试也不能自动证明动态安全。装配、电气、锚固及重物搬运由相应合格人员按型号文件执行；不得写入客户身份或私有交易记录。
+
+## 目录
+
+1. [选型与空间规划（GE-001—010）](#一选型与空间规划)
+2. [结构、材料与载荷（GE-011—020）](#二结构材料与载荷)
+3. [动作路径与人体适配（GE-021—030）](#三动作路径与人体适配)
+4. [钢索、滑轮与配重（GE-031—040）](#四钢索滑轮与配重)
+5. [有氧与电气核验（GE-041—050）](#五有氧与电气核验)
+6. [自由重量器材（GE-051—060）](#六自由重量器材)
+7. [力量架、附件与储存（GE-061—070）](#七力量架附件与储存)
+8. [安装、调试与使用管理（GE-071—080）](#八安装调试与使用管理)
+9. [文件、检测与定制（GE-081—090）](#九文件检测与定制)
+10. [维护、包装与订单验收（GE-091—100）](#十维护包装与订单验收)
+
+## 一、选型与空间规划
+
+### GE-001 | 配置整馆时，能否先给一套通用设备清单？
+
+- 核查：先确认面积、训练人群、同时使用人数、力量与有氧比例及预算边界，设备数量取决于实际功能而非空房面积；还要了解现有设备。
+- 行动：按训练需求列必需、可选和待确认项目，再用当前可供型号核对空间与成本；未收到需求前可给规划框架，不虚构固定套餐、配置价格或适用于所有场馆的组合。
+
+### GE-002 | 设备占地尺寸和所需训练空间为什么不同？
+
+- 核查：外廓尺寸通常不含使用者动作、拉索行程、杠铃装卸、调节及检修空间，活动部件在不同位置的边界也可能变化。
+- 行动：索取型号尺寸图和完整动作范围，让项目方在平面图中复核通道与相邻设备干涉；不能仅凭静态长宽判断能安装，也不提供未经现场确认的统一安全间距。
+
+### GE-003 | 最大使用者体重能代表器械总承载能力吗？
+
+- 核查：最大使用者体重、可加训练重量、座垫支撑载荷和整机允许载荷可能分别定义，不能互换；需查看具体型号铭牌及手册的口径。
+- 行动：把客户体重范围与训练方式逐项对应到允许值，向供应方确认未定义项目；不把用户体重上限加到训练重量后自行计算新限值，也不以测试极限替代额定使用条件。
+
+### GE-004 | 家用、工作室和商业健身房器械可以混着推荐吗？
+
+- 核查：核对型号声明的用途、使用强度、监管或监督条件及相应测试范围，商业级宣传词本身不能证明设计满足长时间多人使用。
+- 行动：让客户说明日常开放方式及人员管理，再选择有对应资料的型号；不凭钢管较粗就定义商用，也不把某种使用等级或精度等级随意解释为所有商业场景均适用。
+
+### GE-005 | 小型健身房应该优先单功能还是综合训练器？
+
+- 核查：比较训练目标、同时使用人数、换站时间、动作限制和维护停机影响，综合机节省设备数量不必然节省完整动作空间。
+- 行动：在平面图上按实际动作与使用高峰比较两种方案，核对可供型号的独立训练位和调节方式；不只按功能名称数量推销，也不承诺一台综合机可以替代全部单站体验。
+
+### GE-006 | 插片式和挂片式力量器械怎样选？
+
+- 核查：插片式关注最小增量、调节便利及防护，挂片式还需核对杠铃片兼容、装卸空间和配重储存；两者阻力路径可能不同。
+- 行动：结合使用者经验、监督条件及现有片径选择，并把配重片是否随货列清；不把标称同重量当作同等手感，也不默认挂片式报价已经包含训练片和锁扣。
+
+### GE-007 | 多站训练器写五个功能，就能五人同时使用吗？
+
+- 核查：功能数量不等于独立训练位，应核对配重组、钢索共享、动作路径及允许同时使用的组合；相邻训练位可能发生干涉。
+- 行动：要求供应方提供同时使用示意和限制，按高峰人数核算配置；没有型号证据时不能承诺多人独立训练，演示视频也应覆盖所宣称的组合而非轮流展示功能。
+
+### GE-008 | 龙门架和双可调滑轮训练器有什么实际差别？
+
+- 核查：比较立柱间距、滑轮调节范围、钢索有效行程、传动比及配重是否独立，不只看外形和站名；这些因素影响动作及负重感受。
+- 行动：让客户列主要动作及使用者身高范围，要求型号尺寸和动作示意后匹配；不因都有两个拉手就视为替代品，也不把相同配重总量说成相同的手端阻力。
+
+### GE-009 | 地下室或低层高房间，哪些尺寸最容易漏看？
+
+- 核查：除整机最高点，还要核对上拉、举重、登踏时的人体高度，跑步机升坡高度及顶部检修空间；灯具、梁和风管也影响使用。
+- 行动：请客户提供最低净高、障碍物位置和计划动作，在图纸中核对全部活动边界；不能只确认设备能竖起来就答应适用，也不建议现场切短立柱或限缩必要防护。
+
+### GE-010 | 室内商用设备能否放在半露天或泳池旁？
+
+- 核查：确认型号的室内外适用范围、腐蚀防护及电气防护说明，潮湿、盐分和直接雨水条件不同；喷粉外观不代表整机耐候。
+- 行动：提供遮蔽、温湿度和水源条件，由供应方及项目专业人员评估；未获书面认可时不承诺户外适用，也不以额外套罩或定期擦干替代产品本身的环境限制。
+
+## 二、结构、材料与载荷
+
+### GE-011 | 主架写钢材，是否还需要明确具体材质？
+
+- 核查：核对承重部件的材料牌号、规格及可追溯资料，主架、导杆、轴和紧固件可能采用不同材料；不能从整机重量反推钢材等级。
+- 行动：客户有工程要求时索取对应部件清单和材料证明，确认资料与在售版本一致；没有证据不称高强度特种钢，也不把不锈钢外饰件的材质扩展到整个承重框架。
+
+### GE-012 | 钢管壁厚相同，器械强度就一样吗？
+
+- 核查：还需比较截面尺寸、材料、跨度、受力路径、开孔和连接结构，壁厚只是其中一项；涂层厚度与金属壁厚须分开测量。
+- 行动：按型号图纸与结构测试核对性能，约定壁厚检测部位及公差；不凭单一毫米数字保证更安全，也不把外廓更粗或整机更重直接当作额定载荷更高的证据。
+
+### GE-013 | 焊缝看起来整齐，就能证明结构可靠了吗？
+
+- 核查：焊缝外观只反映部分质量，还要核对位置、设计要求、工艺和相应检验记录；打磨平滑或覆盖涂层不等于不存在内部缺陷。
+- 行动：让供应方提供承重连接的检验依据，并按批准标准检查外观与必要测试；不凭照片承诺所有焊缝满焊或零缺陷，也不指导客户自行补焊承重件后继续使用。
+
+### GE-014 | 螺栓等级越高，是否就可以替换原配螺栓？
+
+- 核查：紧固连接还受直径、长度、配套螺母、垫圈、预紧及连接设计影响，单看等级无法确认适配；不同部位可能有不同要求。
+- 行动：按型号零件号和装配文件采购替换件，由合格人员确认安装；不建议用更高等级或更长螺栓自行升级，也不在没有工艺资料时提供通用拧紧扭矩。
+
+### GE-015 | 测试承受八百公斤，能否宣传额定载荷八百公斤？
+
+- 核查：分清额定使用载荷、静态证明载荷、动态或疲劳试验及破坏载荷，核对测试部位、方向和持续条件；测试峰值不等于允许使用值。
+- 行动：只按经批准的型号文件标示额定载荷，另说明报告支持的试验范围；不自行计算安全系数或从极限值反推售价宣传，也不鼓励客户用超载试验验证质量。
+
+### GE-016 | 用户体重与杠铃重量相加，是否就是整机总载荷？
+
+- 核查：不同构件的受力位置和方向不同，器械可能分别限制使用者、训练片和储片重量，不能把一个部位的承载值分配到其他部位。
+- 行动：索取载荷定义图，逐项确认卧推、深蹲或储片时的使用条件；文件未定义组合时请供应方书面说明，不用简单相加或平均分摊推导新的整机额定能力。
+
+### GE-017 | 力量架静态承重报告能证明安全杆可接住落下的杠铃吗？
+
+- 核查：静置与坠落冲击的受力不同，应核对安全杆、安装孔位、跨度及对应动态试验，主架静载报告不能自动覆盖附件。
+- 行动：要求提供该安全系统的额定用途及验证范围，向客户明确允许动作和限制；不得把静态载荷换算为任意落高下的可接重量，也不建议现场进行有人员参与的落杆测试。
+
+### GE-018 | 训练凳标称承重，是指使用者还是人加杠铃？
+
+- 核查：确认标称值的定义、靠背角度、受力位置和适用模式，平凳、上斜及坐姿可能有不同限制；图片上的数字不能代替手册。
+- 行动：把客户计划的体重与训练重量交供应方核对，取得明确的组合载荷说明；未定义时不做推算，也不把靠背调节件或脚轮的承载能力与整凳额定值混为一谈。
+
+### GE-019 | 史密斯机的杆重和起始阻力为什么可能不同？
+
+- 核查：区分杆组件实际质量、配重平衡后的起始阻力及导轨摩擦，轨道角度和测量方法也会影响手感；标称杆重不能直接代表训练阻力。
+- 行动：索取具体型号的起始阻力口径及测试条件，并向买方说明与自由杠铃不同；不把平衡结构称为零重量，也不通过拆除配重或安全部件来满足客户的临时手感要求。
+
+### GE-020 | 盐雾测试几百小时是否代表沿海使用几年不生锈？
+
+- 核查：核对测试方法、样件、涂层体系和评价结果，实验室小时数不能直接换算实际寿命；汗液、划伤及未涂覆连接部位也影响腐蚀。
+- 行动：按项目环境核对型号适用范围并明确清洁和检查要求，必要时确认可供防护方案；不承诺永久防锈，也不把某块涂层试片的报告扩展为整机户外耐腐蚀保证。
+
+## 三、动作路径与人体适配
+
+### GE-021 | 判断单站器械动作是否合适，只看座椅高度够不够吗？
+
+- 核查：还需核对人体关节与器械转轴关系、支撑位置、起始姿势及动作路径，单一座高范围不足以证明不同使用者都能适配。
+- 行动：请客户给出使用者身高范围和主要动作，核对型号调节图并安排受监督试用；不以能坐上去就判断动作合理，也不承诺适合所有体型或替代专业训练指导。
+
+### GE-022 | 座椅调节档位越多，适配范围就一定越广吗？
+
+- 核查：核对调节起止位置、每档间距、插销锁止及负重状态下的操作限制，档位数量本身不能说明最矮或最高使用者是否合适。
+- 行动：以实际尺寸表和目标人群试用确认，检查调节标识和锁定反馈；不只比较档数宣传更好，也不建议使用者在承受训练负荷时移动未经允许的座椅或靠背。
+
+### GE-023 | 客户要求动作幅度更大，可以取消限位吗？
+
+- 核查：先核对该型号允许的行程调节及限位功能，限位可能与关节位置、钢索余量或部件干涉有关；更大行程并不自动代表更有效训练。
+- 行动：让供应方评估合法的调节或替代型号，由教练指导适当动作范围；不建议拆除限位、打孔改装或延长钢索，也不承诺超过设计行程后仍保持原载荷与检测有效。
+
+### GE-024 | 挂片式器械标称一百公斤，为什么全程感觉不一样？
+
+- 核查：阻力受力臂、转轴、片位和运动角度影响，挂片质量不等于手端或脚端恒定阻力；空杆及摩擦也可能参与起始负荷。
+- 行动：索取动作路径、加载方式与适用重量说明，必要时安排实际试用；不要把挂片重量直接描述为肌肉承受的恒定公斤数，也不未经测量声称阻力曲线符合某种医学效果。
+
+### GE-025 | 两侧独立运动的推胸机，是否代表两边阻力完全相同？
+
+- 核查：确认左右是否独立配重、独立杠杆或共享传动，同时核对摩擦、调节和制造差异；外观对称不能证明每个位置的阻力一致。
+- 行动：要求型号说明及可比较的验收方法，客户重视单侧训练时安排两侧试用；不把独立运动宣传成绝对等阻，也不自行增加单侧配重来掩盖异常阻力差异。
+
+### GE-026 | 配重块五十公斤，拉手端就有五十公斤阻力吗？
+
+- 核查：核对滑轮传动比、可用行程和铭牌重量定义，配重质量与手端阻力可能不同，摩擦也影响实测；不同拉口可能采用不同传动路径。
+- 行动：索取具体训练位的传动示意和标注口径，报价分清总配重与使用阻力；不能只按配重片数字比较两台机器，也不把理论比值当作所有行程下的精确实测值。
+
+### GE-027 | 握把粗细和握距能否按客户喜好随便更改？
+
+- 核查：握把尺寸、角度、表面和位置会影响动作、手部适配与部件干涉，改动也可能改变原结构或测试范围；需看型号图纸。
+- 行动：先说明客户的目标动作及人群，由供应方确认可选握把或工程评估方案；不承诺任意改尺寸后性能不变，也不建议现场焊接延长握把或使用来源不明的替代件。
+
+### GE-028 | 坐垫只比较海绵密度就能判断耐用和舒适吗？
+
+- 核查：还要核对泡棉类型、厚度、硬度、回弹、底板及包面耐受性，密度数值不是舒适度或寿命的单一指标；不同部位要求不同。
+- 行动：索取实际材料说明及压缩、包面等适用证据，结合坐姿样品评估；不虚构统一商用密度门槛，也不把某种耐磨测试结果直接换算为几年不塌陷或不破皮。
+
+### GE-029 | 轮椅使用者或行动受限者可以用普通器械吗？
+
+- 核查：核对转移空间、座椅可移性、调节触达、进出路线和监督条件，普通可调座椅不能证明具备无障碍适配；需对应具体人群。
+- 行动：请项目方与具备经验的专业人员确认需求，再核对实际型号与现场样板；没有相应设计及证据时不称无障碍专用，也不提供未经评估的搬扶或转移操作指导。
+
+### GE-030 | 客户说用于康复训练，是否能直接推荐普通力量器械？
+
+- 核查：先区分一般健身、机构辅助训练与医疗康复用途，核对最低阻力、调节精度及型号声明；普通健身用途资料不能证明医疗适用性。
+- 行动：由客户的合格临床或康复专业人员提出要求，再确认可供型号及限制；不诊断伤情、不制定治疗负荷，也不把低重量或动作平顺描述成医疗认证与疗效保证。
+
+## 四、钢索、滑轮与配重
+
+### GE-031 | 钢索直径越粗，是否就越不容易断？
+
+- 核查：需区分裸绳直径和包塑外径，核对钢索结构、端接、弯曲条件及疲劳证据；直径不能独立说明成套钢索的允许工作载荷。
+- 行动：要求供应方提供对应组件规格及更换件号，按整机设计确认适配；不凭粗细比较安全等级，也不把钢丝绳破断拉力直接当作机器可长期使用的训练载荷。
+
+### GE-032 | 铝滑轮一定比塑料滑轮好吗？
+
+- 核查：比较材料、槽形、直径、轴承、钢索匹配和使用条件，滑轮材质只是设计变量；不合适的槽形或轴承也会影响磨损与顺畅。
+- 行动：按具体型号的传动系统和测试资料评价，并索取可更换组件信息；不将某种材料一概称为商用标准，也不建议用户自行换成外径相近但未获认可的滑轮。
+
+### GE-033 | 钢索安装路线可以由安装师傅凭经验调整吗？
+
+- 核查：核对型号专属走线图、滑轮位置、防脱结构和端接，路线会影响传动比、行程及受力；相似设备的装配经验不能代替图纸。
+- 行动：要求合格安装人员依正式文件装配并记录调试，发现图物不符立即向供应方确认；不建议绕过滑轮或改变端点，也不提供临时改线后继续训练的方案。
+
+### GE-034 | 钢索略松或配重块无法完全落下，能否直接拧紧？
+
+- 核查：先确认装配、路线、调节端及型号允许的张力状态，过松或过紧可能由不同原因造成；配重悬空不能只归因于钢索长度。
+- 行动：暂停相关训练位，由合格人员按该型号调试文件检查并联系供应方；不向未受训用户提供通用张紧圈数，也不靠剪短钢索或强行压下配重块解决问题。
+
+### GE-035 | 配重总量包括顶片、导杆或附加小配重吗？
+
+- 核查：查看配重清单与铭牌，明确总量包含的片数、顶片和可选增量，导杆等结构重量不应被随意计入训练配重；标号也可能不是公斤。
+- 行动：在报价和验收表写明单组实际配置、最小增量及标注单位，需要时核对抽称记录；不把两个独立配重组简单合称为单侧可用阻力，也不默认附加小片随货。
+
+### GE-036 | 配重插销只要能插进去就算合格吗？
+
+- 核查：核对插销直径、有效啮合、锁定方式及与配重孔的匹配，外观插入不一定达到设计锁止；自制或不匹配插销可能改变安全条件。
+- 行动：按型号确认原配件及完整插入要求，调试中检查标识和锁定反馈；异常时停用并更换批准部件，不建议用普通螺栓代替，也不在配重运动或悬空时换档。
+
+### GE-037 | 配重导杆顺滑程度靠什么确认？
+
+- 核查：检查导杆、衬套、垂直度、配重间隙及装配状态，顺滑感受还受负重与行程影响；空载轻拉不能证明全范围运行正常。
+- 行动：由合格人员按调试文件检查完整行程和不同允许负荷，记录卡滞位置交供应方分析；不自行打磨导杆、扩大衬套孔或使用未经批准的润滑剂掩盖问题。
+
+### GE-038 | 钢索机运行有异响，能否认定是轴承坏了？
+
+- 核查：声音可能来自钢索摩擦、护罩干涉、配重接触、紧固件或轴承，需记录发生动作、负荷和位置；仅听短视频无法确认故障。
+- 行动：出现卡滞或异常磨损时先停用，由维护人员按型号排查并向供应方提供记录；不未经检查就承诺更换轴承，也不建议边训练边观察裸露的传动部件。
+
+### GE-039 | 不同品牌的拉手、登山扣和连接链能通用吗？
+
+- 核查：核对接口尺寸、锁闭方式、允许工作载荷、受力方向及磨损情况，能挂上不代表在全行程下适配；附件也需与整机用途匹配。
+- 行动：优先使用型号认可的附件，替代件需由供应方确认并列入配置；不使用来源不明的普通挂钩，也不把连接件标示的极限拉力当作可随意增加训练负荷的依据。
+
+### GE-040 | 备用钢索能否按总长度预先多买几条通用款？
+
+- 核查：钢索除了长度，还有绳结构、包塑外径、端接、调节件及适用走线，不同训练位可能完全不同；长度接近不能证明可以互换。
+- 行动：按型号版本、训练位和零件号建立备件清单，确认可供性与存放要求；不承诺每机标配备用钢索，也不建议现场用钢丝绳卡或自制端头拼出替代训练钢索。
+
+## 五、有氧与电气核验
+
+### GE-041 | 商用跑步机必须使用交流电机吗？
+
+- 核查：核对具体电机与控制系统的额定功率、工作制、散热和整机适用强度，交流或直流的名称不能单独决定耐用性与商用适配。
+- 行动：让客户说明使用高峰、持续负载及环境，索取型号资料和对应验证；不宣称所有交流电机都可全天不间断运行，也不把直流系统一概描述为不适合商业使用。
+
+### GE-042 | 峰值马力、持续马力和输入功率能直接比较吗？
+
+- 核查：确认功率是电机输出、设备输入还是短时峰值，并核对单位、额定条件和工作制；峰值宣传数字不能与另一台额定持续输出直接排序。
+- 行动：取得电机铭牌及整机电气规格，把同口径指标列在对比表；资料未说明时标注待确认，不将电流乘电压的简单结果直接当作机械输出马力或训练性能保证。
+
+### GE-043 | 报价只写二百二十伏，电气配置是否就清楚了？
+
+- 核查：还需确认频率、相数、额定输入、插头、保护接地及型号版本；目的地习惯电压不能替代现场供电核查，铭牌须与交付配置一致。
+- 行动：请客户设施团队提供供电条件，让供应方确认匹配版本并在订单锁定；不默认改插头即可适配，也不在未知电路条件下保证设备到货插上就能安全运行。
+
+### GE-044 | 多台跑步机能否共用一条普通插座回路？
+
+- 核查：需要核对每台设备额定与启动需求、同时使用情况及现场配电保护，插座外观相同不能证明回路容量足够；设备数量也影响规划。
+- 行动：将型号电气规格交当地合格电工设计和核验回路，按手册确认接地与保护；不提供通用断路器或线径数字，不建议使用排插、延长线或临时分线代替批准的供电方案。
+
+### GE-045 | 电压不同，客户能用旅行转换插头解决吗？
+
+- 核查：转换插头可能只改变接口形状，不一定改变电压、频率或满足设备负载和接地要求；还要确认设备电源及控制系统是否允许目标供电。
+- 行动：由供应方与合格电工确认匹配版本或批准的供电方案，购买前锁定铭牌配置；不指导用户改接内部线路，也不保证外置变压器可解决所有频率与安全兼容问题。
+
+### GE-046 | 跑带越宽越长，跑步机就一定越适合高个用户吗？
+
+- 核查：核对有效跑步区域而非整机尺寸，同时看扶手、侧踏板、速度范围、最大使用者体重与实际步态；尺寸只是适配因素之一。
+- 行动：让客户按目标使用者身高及训练方式确认需求，条件允许时安排受监督试用；不凭跑带尺寸保证所有步幅和速度均适合，也不把家用轻走演示当作高强度跑步验证。
+
+### GE-047 | 最高速度和坡度应怎样验证，避免只看屏幕数字？
+
+- 核查：确认标称坡度是百分比还是角度，速度是否在规定负载条件下验证，并核对控制精度及限制；显示设定值不等于实际测量值。
+- 行动：使用型号认可的验收方法，由合格人员记录可用范围与结果；不让用户站在运行跑带上做临时测量，也不把无载短时达到的最高值宣传为所有用户条件下持续可用。
+
+### GE-048 | 跑步机有红色按钮就代表紧急停止系统完整吗？
+
+- 核查：确认紧急停止、拉绳或安全钥匙的具体设计、功能和复位逻辑，外观红色按钮不能证明整套保护符合型号要求；还须核对手册和测试记录。
+- 行动：交付调试时由合格人员按文件验证并培训使用者，故障或缺件时停用；不指导短接、屏蔽安全开关，也不承诺紧急停止能在任何情况下避免所有跌倒风险。
+
+### GE-049 | 带联网屏幕的有氧设备，需要先确认哪些软件问题？
+
+- 核查：确认联网方式、支持应用、语言、订阅、更新、账号及数据处理范围，展示页面不等于所有功能在目的地可用；离线能力也需核对。
+- 行动：按具体版本演示关键功能并确认客户网络政策，费用与授权单列；不承诺永久免费应用或无限期更新，也不将摄像、账号或健康数据功能默认开启为客户接受项。
+
+### GE-050 | 单车、划船机和椭圆机都可以说自发电免插电吗？
+
+- 核查：区分磁阻、风阻、水阻等阻力结构与显示屏供电方式，阻力不依赖市电不代表屏幕、联网或调节功能完全不需电源。
+- 行动：核对具体型号的电池、适配器或自发电配置以及低速时功能限制，在报价明确；不按品类统一承诺免电，也不默认水箱维护、耗材或充电配件全部包含在供货中。
+
+## 六、自由重量器材
+
+### GE-051 | 橡胶、TPU 和 PU 包胶哑铃只是外观不同吗？
+
+- 核查：确认包覆材料真实名称、工艺、内芯和连接结构，手感相似不代表耐磨、气味、清洁或耐温表现相同；不可只根据光泽判断材料。
+- 行动：按实际配方样品和相关资料比较，明确买方对气味、外观及使用环境的要求；没有证据不称某种材质无味或永不脱胶，也不把不同聚合物名称混用报价。
+
+### GE-052 | 哑铃头与握杆怎样连接，会影响采购吗？
+
+- 核查：核对固定结构、握杆材质与连接质量检验，外包胶完整不能证明内部连接可靠；不同重量可能采用不同连接设计或尺寸。
+- 行动：要求对应结构说明及允许使用方式，将松动、转动或裂纹列入验收与停用标准；不承诺所有哑铃可随意摔落，也不建议客户自行焊接、加胶或拧紧不明连接后继续使用。
+
+### GE-053 | 一对哑铃都标二十公斤，就可以不检查配对误差吗？
+
+- 核查：确认单只质量公差、成对允许差和称量方法，标称值不等于实测一致；包装重量、附带锁扣与握杆是否计入也应明确。
+- 行动：按双方认可的秤与抽样规则记录实际净重，需要配对时单列要求；不虚构全系列统一精度，也不把普通训练哑铃称为校准器材，除非有对应规格和证据。
+
+### GE-054 | 杠铃片标奥杆孔，就能适配所有奥杆吗？
+
+- 核查：核对片孔实际直径、公差、衬套结构与杆套筒尺寸，不同生产版本可能存在差异；名称相同不能保证装卸间隙和锁扣兼容。
+- 行动：让客户提供现用杆或片的实际规格，使用实样验证后确认采购；不只凭孔径名义值保证通配，也不建议打磨套筒、扩大片孔或敲击强装来解决不匹配。
+
+### GE-055 | 所有包胶杠铃片都能像举重缓冲片一样反复落地吗？
+
+- 核查：区分包胶铸铁片与缓冲片，核对结构、最小适用重量、落地方式及对应测试；外层有橡胶不代表具备反复落杠的设计条件。
+- 行动：按训练用途选择经过确认的片型和配套地面，明确落重限制；不把一次落地视频当作全规格保证，也不允许把单侧装片或不当底板造成的风险归为正常使用。
+
+### GE-056 | 杠铃杆抗拉强度越高，额定承重就越大吗？
+
+- 核查：材料抗拉强度、屈服性能、杆体几何、套筒结构及载荷条件属于不同信息，强度数值不能直接换算整杆额定使用载荷。
+- 行动：核对目标训练用途、型号额定载荷和相应验证范围，必要时确认允许落杠方式；不从材料强度推算可加载公斤数，也不将静态试验值用作动态举重安全保证。
+
+### GE-057 | 轴承杆和铜套杆哪种更适合采购？
+
+- 核查：核对旋转结构、套筒间隙、维护要求和目标动作，旋转速度并非唯一指标；举重、力量举及一般训练对手感和用途的要求不同。
+- 行动：让买方说明主要训练方式，再用对应型号试样与资料比较；不把轴承数量当作质量排名，也不在没有型号许可时推荐拆开套筒或自行更换不同结构的旋转部件。
+
+### GE-058 | 杠铃套筒长度和锁扣为什么会影响可用配重？
+
+- 核查：片厚、套筒有效装片长度及锁扣占用空间共同限制装片数量，器材额定载荷并不保证任意片型都能装到该重量；还需核对锁定兼容性。
+- 行动：按客户计划片型排出每侧装片组合并保留批准的锁扣空间，确认后报价；不建议超出套筒或省略锁扣，也不以整杆额定载荷替代实际可用装片核查。
+
+### GE-059 | 客户要比赛级校准片，应怎样确认不是普通高精度片？
+
+- 核查：明确赛事或训练组织要求、重量精度、尺寸、标识和认可范围，普通称重记录不等于比赛批准；不同重量规格也可能有不同要求。
+- 行动：取得买方具体规则后核对型号文件与证据，缺项说明待确认或不可保证；不把可定制颜色、较小公差或校准孔外观直接宣传为获得某组织认证的比赛器材。
+
+### GE-060 | 壶铃采购为什么不能只报重量和颜色？
+
+- 核查：还应核对壶身尺寸、握把净空、直径、表面、底部平整度及结构类型，相同标称重量可能有不同握持与摆动体验。
+- 行动：按目标动作和人群确认尺寸图及实样，重量公差和表面缺陷标准写入订单；不把训练型与竞赛型直接互换，也不建议使用带裂纹、毛刺或松动连接的产品。
+
+## 七、力量架、附件与储存
+
+### GE-061 | 力量架足够重，是不是就不用锚固？
+
+- 核查：核对型号稳定性条件、允许动作、附件及是否要求锚固，整机自重不能替代抗倾覆设计；引体、拉力和外伸附件会改变受力。
+- 行动：依据厂家文件，由项目专业方确认基层和锚固方案后安装；不凭体积或重量承诺免固定，也不向未受训人员推荐通用膨胀螺栓、钻孔深度或现场抗倾覆试验。
+
+### GE-062 | 力量架放在厚软地垫上，是否更稳更安全？
+
+- 核查：厚软层可能改变底脚接触、调平和锚固条件，需同时核对设备及地板安装要求；缓冲性能与器械稳定性并非同一指标。
+- 行动：把底脚、地板截面及固定条件交供应方和安装专业方审核，按批准方案施工；不建议随意叠垫或把锚栓只固定在橡胶层，也不以站上去不晃作为完整稳定性验收。
+
+### GE-063 | 力量架能放进房间，就表示杠铃训练空间足够吗？
+
+- 核查：核对杠铃全长、装片操作、深蹲进出、训练凳摆放及安全杆位置，架体外廓不包含全部运动和救援边界；侧墙也影响装卸。
+- 行动：按客户实际杆长和动作在平面图复核，并考虑相邻设备与通道；不只用架宽回答占地，也不通过省略安全附件或堵塞通道来让设备勉强适配狭小空间。
+
+### GE-064 | 立柱孔距和管径一样，J 钩就能跨品牌通用吗？
+
+- 核查：还需核对孔径、销长、立柱实际截面、公差、卡持方式与受力设计，名义尺寸一致不代表附件锁止及额定载荷一致。
+- 行动：要求设备与附件双方确认兼容，并核对型号及版本后采购；不建议扩孔、加垫片或磨销强装，也不将第三方附件的标称承重自动视为整套架体的额定能力。
+
+### GE-065 | 安全带、安全杆和外伸保护臂可以按喜好互换吗？
+
+- 核查：不同保护结构的受力、安装位置及允许使用方式不同，保护臂外伸还会影响架体稳定；需核对附件与主架的成套验证。
+- 行动：依据动作和器械批准配置选择，明确额定范围、调节和检查要求；不把所有保护附件统称同等安全，也不承诺某一部件能够在任意重量、落高和站位下保护使用者。
+
+### GE-066 | 深蹲架加地雷架、双杠或拉力附件，需要重新核查什么？
+
+- 核查：外加附件可能增加横向力、外伸力矩和同时使用冲突，需确认主架兼容、稳定性及原允许用途；安装孔能对上不是充分依据。
+- 行动：索取型号批准的附件清单和组合使用限制，必要时重新评估布局与固定；不随意叠加不同来源附件，也不假设主架已有报告自动覆盖所有后装配置。
+
+### GE-067 | 史密斯机与自由深蹲架能否按同一种训练体验推荐？
+
+- 核查：史密斯机的轨迹、轨道角度、平衡及限位与自由杠铃不同，应核对客户动作需求及组合机的独立功能；外形相近不能说明可互替。
+- 行动：展示具体型号动作范围和起始阻力，让客户确认训练目的再选择；不把固定轨迹称为对所有人天然更安全，也不建议解除导轨或安全止挡来模仿自由杠铃。
+
+### GE-068 | 哑铃架的总承重可以平均分到每层吗？
+
+- 核查：核对每层、每个托位及整架额定能力和放置规则，层间结构与重心可能不同；总承重不能自行平均，也不能忽略单只重量和尺寸。
+- 行动：按计划哑铃套装列出摆放图，要求供应方确认适配及稳定条件；不超出单托限制，不把顶部当临时置物台，也不因总重量未超限就允许任意集中堆放。
+
+### GE-069 | 壁挂式杠铃架或储片架可以直接装在任何墙面吗？
+
+- 核查：墙体材料、厚度、结构及固定点承载需要专业确认，产品额定值可能以特定安装条件为前提；装饰墙和实体结构不能混为一谈。
+- 行动：提供型号尺寸、载荷及安装条件，由合格人员确认基层与固定方案；不远程指定万能锚栓，也不把附件标称承重当作现有墙面已具备同等承载能力的证明。
+
+### GE-070 | 组合储物架同时放壶铃、杠铃片和球，是否只看总重量？
+
+- 核查：还需核对层板形式、防滚挡边、物品尺寸、取放高度和重心，球类及壶铃的接触方式不同；重量未超限也可能发生滚落或倾覆。
+- 行动：按实际器材清单确认每层用途和稳定条件，验收防滑、防滚及标识；不把开放层板当成所有器材的通用托盘，也不允许用户攀爬或把储物架作为训练支撑。
+
+## 八、安装、调试与使用管理
+
+### GE-071 | 确认设备能进门之前，需要哪些运输尺寸？
+
+- 核查：分别核对包装外尺寸、最重单件及允许拆分后的搬运尺寸，整机外廓不能代表入场需求；电梯载重、转弯和楼梯也会形成限制。
+- 行动：请客户提供路线尺寸和现场照片，由供应方及专业搬运方确认方案再发货；不承诺所有设备都可完全拆散，也不指导用户拆承重焊接件或带电部件以勉强通过门洞。
+
+### GE-072 | 楼上安装一批器械，怎样核对地面承载？
+
+- 核查：收集整机净重、配重、使用者及底脚位置，区分平均自重、集中载荷和训练动态作用；总重量除以房间面积不能证明楼面安全。
+- 行动：将真实设备布局与使用条件交结构专业方核定，确认批准后采购和安装；不提供未经项目计算的楼层承载结论，也不以加厚橡胶垫代替结构评估或增加楼板额定能力。
+
+### GE-073 | 客户没有安装团队，可以只看视频自行组装吗？
+
+- 核查：确认具体型号的装配复杂度、重件、防护、电气及锚固要求，视频只能辅助正式文件；普通力量机与电动有氧设备所需人员不同。
+- 行动：提供已确认可用的手册及支持范围，建议由具备相应能力的人员完成并验收；不承诺两人固定时间内装完，也不把远程指导包装成已包含的现场专业安装服务。
+
+### GE-074 | 装配时把所有螺栓拧到最紧，是否就可靠了？
+
+- 核查：核对型号规定的紧固顺序、扭矩、锁止及可重复使用要求，过紧和欠紧都可能产生问题；不同连接部位不能共用随意数值。
+- 行动：由合格安装人员使用适当工具按文件执行并记录关键连接，资料缺失时向供应方确认；不建议冲击工具一拧到底，也不自行添加胶剂或替换垫圈改变原设计连接。
+
+### GE-075 | 配重片和大框架到货后可以人工抬装吗？
+
+- 核查：核对单件质量、重心、夹点、提升位置及装配支撑要求，人多并不自动代表可安全搬运；还需确认现场工具和作业空间。
+- 行动：由专业搬运与安装人员规划工具、隔离和顺序，按型号文件处理重件；不提供未经评估的多人抬举、临时绳吊或支垫办法，也不允许未固定框架在装配中承受训练负荷。
+
+### GE-076 | 装好能动就可以立即开放训练吗？
+
+- 核查：需核对紧固、调节锁止、护罩、完整行程、稳定性及适用的电气和紧急停止功能，动作能完成不代表调试验收已经通过。
+- 行动：按型号检查表由合格人员完成调试和记录，缺陷关闭后再交付培训；不以一次空载演示代替验收，也不让会员用重载试练来帮助发现潜在装配问题。
+
+### GE-077 | 护罩碍事或影响拍摄，可否暂时拆掉使用？
+
+- 核查：护罩可能用于防夹、防接触传动或限制危险区域，不能只根据外观判断可拆；需核对该型号使用状态下的完整防护要求。
+- 行动：缺失、松动或干涉时先停用并由维护人员处理，拍摄展示也应保持安全配置；不指导绕过联锁或裸露配重运行，也不把后期补回护罩当作允许暂时无防护训练的理由。
+
+### GE-078 | 设备上的警示标签能否为美观全部去掉？
+
+- 核查：核对型号铭牌、载荷、调节、夹点和使用限制标识，部分信息与追溯及安全管理直接相关；贴牌需求不意味着可以删除原必要信息。
+- 行动：定制外观时保留或按批准图稿重新布置必要标签，并确认客户可理解的语言；不建议遮盖额定值或序列号，也不把宣传海报当作机器旁使用说明的完全替代。
+
+### GE-079 | 交付培训应覆盖什么，而不只是演示几个动作？
+
+- 核查：依据型号手册核对调节、锁止、上下机、负荷选择、紧急停止及禁止事项，同时区分使用者培训与维修培训；动作展示不等于完整交接。
+- 行动：由合格人员完成适用培训并留存交接清单，场馆制定监督和异常停用流程；不提供超出设备文件的训练处方，也不承诺接受一次培训后任何人员都可维修电气或传动系统。
+
+### GE-080 | 场馆搬迁时，设备可以按原路径拆装复原吗？
+
+- 核查：确认型号允许拆分的模块、一次性紧固件、钢索和重新锚固要求，新场地的基层、电力及通道也须重新核对；原安装合格不自动延续。
+- 行动：由专业团队按文件标记、包装和重新调试，备好确认的替换件后再迁移；不承诺所有设备可完全拆散，也不让客户拖拽带配重整机或带电移动来节约搬迁时间。
+
+## 九、文件、检测与定制
+
+### GE-081 | 客户指定器材标准时，怎样确认型号是否覆盖？
+
+- 核查：核对标准名称、版本、器材类别、用途与测试范围，不同力量、有氧和储存产品不一定适用同一部分；旧名称也不能直接代表当前要求。
+- 行动：向买方或其专业审核方取得书面要求，再映射具体型号及现有报告；不把标准编号当作通用认证，也不擅自把使用类别、精度等级或测试项目解释成全球市场准入保证。
+
+### GE-082 | 检测报告上有相似型号，可以直接发给客户吗？
+
+- 核查：对照样品照片、型号、关键配置、载荷、版本和报告限制，外形相似不能证明覆盖；必要时通过出具机构官方渠道核验真实性与适用范围。
+- 行动：制作报价型号与文件对应表，差异项向供应方或机构确认后再使用；不能替换报告封面或隐藏不一致页，未核实的资料明确标为参考，不把它说成当前产品已通过。
+
+### GE-083 | 工厂管理体系证书能证明每台器械安全合格吗？
+
+- 核查：管理体系证书、产品试验、出厂检验和市场准入文件的对象不同，应分别核对持证主体、地点、有效范围及具体型号。
+- 行动：按客户审核清单提供真实可用资料并标注各自用途，缺少产品证据时另行确认；不把工厂证书当作整机载荷认证，也不宣称一家检测机构的名称本身代表全部型号全面获证。
+
+### GE-084 | 有 CE 或电气测试文件，就能保证所有目的地清关吗？
+
+- 核查：先核对目的地、进口主体、产品分类、供电版本和所需文件，标志、声明与测试报告的角色不同；任一文件都不能替代全部进口义务。
+- 行动：由进口方及适当专业机构确认当前要求，再核对具体型号的覆盖和缺口；不承诺全球免检或必然清关，也不虚构某市场证书、办理费用、周期或已有出口记录。
+
+### GE-085 | 包面、涂层和握把的化学要求如何核查？
+
+- 核查：把客户物质要求映射到实际包面、泡棉、涂层和塑胶件，核对报告样品、项目、检出限及日期；一个材料报告不能自动覆盖整机所有部件。
+- 行动：索取对应材料声明与可追溯成品证据，未覆盖项由专业方评估补测；不把未检出改成完全不含，也不宣称某次筛查代表永久符合所有市场不断变化的化学要求。
+
+### GE-086 | 客户要本地语言说明书和标签，能直接承诺吗？
+
+- 核查：先确认目标语言、所需内容及谁负责专业审校，安全说明、铭牌与软件界面可能是不同交付物；普通翻译不能代替型号技术核对。
+- 行动：由供应方确认可供版本及费用，图稿和说明经买方批准后锁定，保留原型号与追溯信息；不虚构现有多语言手册，也不为缩短标签而删掉关键载荷或操作限制。
+
+### GE-087 | 贴牌定制是否只需要客户发一个标志文件？
+
+- 核查：除图稿，还要确认授权、位置、尺寸、工艺、耐久要求及必要标签保留，喷涂、刺绣和贴纸交付不同；先查型号是否支持。
+- 行动：取得供应方可供方案及样品或效果图，让客户批准实际工艺和颜色；不承诺任意数量免费贴牌，也不遮盖制造及追溯信息，涉及他人标志时要求客户确认使用权。
+
+### GE-088 | 客户想把机架加高、加宽或增加配重，能按普通定制处理吗？
+
+- 核查：几何和载荷变更可能影响稳定、行程、钢索、应力与原检测范围，不属于只换颜色的外观变化；需明确技术变更内容。
+- 行动：交供应方工程评估并确认图纸、验证、费用和交期，取得批准后才承诺供货；不保证原报告与额定值自动延续，也不建议客户收货后自行焊接扩展或加装配重。
+
+### GE-089 | 同一个型号不同年份生产，备件为什么可能不互换？
+
+- 核查：查看图纸、物料清单和版本号，钢索端接、孔位、控制板或插头可能升级；型号名称相同不等于每个零件保持不变。
+- 行动：订单锁定关键配置与版本，售后用序列号、照片和零件号确认再采购；不凭旧目录保证互换，也不擅自换用新版本控制器或承重件而省略兼容与安全核验。
+
+### GE-090 | 客户要出货前验货，应怎样把要求写具体？
+
+- 核查：区分外观、尺寸、配置、功能、文件与专门型式试验，普通验货不能替代结构或电气安全测试；需要明确批次与抽样方式。
+- 行动：双方批准型号检查表、判定标准和缺陷处理流程，必要时委托合格机构执行专业项目；不随意承诺全数第三方认证，也不把一台样机视频称为整批已完成所有安全验证。
+
+## 十、维护、包装与订单验收
+
+### GE-091 | 首单应采购哪些备件，是否越多越好？
+
+- 核查：按设备清单、使用强度及停机影响区分易耗件、关键安全件和长期结构件，核对零件号、供货周期及实际可供性；并非所有设备共用配件。
+- 行动：请供应方给出型号专属建议并由客户批准数量、价格和存放条件；不虚构随机赠送范围或永久备件供应，也不把过多不匹配配件当作可靠售后能力的证明。
+
+### GE-092 | 商用器械维护是否可以统一规定每月检查一次？
+
+- 核查：检查周期应依据型号手册、使用强度、环境和部件风险，日常目视、周期紧固及专业检修不同；一个固定频次不能覆盖所有故障。
+- 行动：按设备与部件建立检查记录，异常时立即停用而非等到下次维护；不以定期保养承诺永不失效，也不把使用者可做的清洁检查扩展为可维修电气或承重部件。
+
+### GE-093 | 钢索、导杆和跑带能使用同一种润滑油吗？
+
+- 核查：各部件的材料、密封和摩擦要求不同，某些部位可能不允许加油；跑带润滑也取决于具体结构和型号文件，不能只凭手感判断。
+- 行动：取得厂家指定或认可的润滑品与维护程序，由合格人员实施并清除污染风险；不推荐万能喷剂遍喷整机，也不指导拆开电机或向刹车、握把及踩踏表面涂油。
+
+### GE-094 | 钢索包塑开裂或出现断丝，还能先用几天吗？
+
+- 核查：记录损伤位置、钢索端接、滑轮和使用状态，包塑破损与内部疲劳都需重视，不能只看是否还能拉动；同时核对受影响训练位。
+- 行动：立即停止该训练位使用并标识隔离，由维护人员按型号标准检查和更换批准组件；不建议胶带缠补、剪除断丝或降低重量继续用，也不承诺看到断丝前就绝不会失效。
+
+### GE-095 | 有氧机显示故障码，可以远程让客户拆开检查吗？
+
+- 核查：先确认型号版本、故障码、发生条件、供电及外部可见现象，代码含义须以对应手册为准；相同字符在不同控制系统中可能不同。
+- 行动：按用户手册允许的范围记录信息并联系合格维护人员，电气内部检查由专业人员处理；不指导带电开盖、短接保护或反复强制复位，也不凭代码直接承诺免费换电机。
+
+### GE-096 | 设备质保和售后支持，应在下单前确认哪些边界？
+
+- 核查：区分整机、结构、电气及易耗件范围，确认起算时间、故障判定、运费、人工和责任条件；质保期并不等于设计寿命或免维护。
+- 行动：以当前书面条款确认可提供的支持与索赔资料，特殊要求取得授权再写入订单；不沿用旧模板虚构统一年限、全球上门或无条件赔付，也不以远程建议替代必要的专业维修。
+
+### GE-097 | 木箱越结实就代表设备包装越安全吗？
+
+- 核查：还需核对内部固定、易损屏幕及护罩保护、配重和主体分装、重心与起吊标识，外箱强度不能代替内部约束及防潮方案。
+- 行动：要求具体型号包装图、箱数及每箱毛重，重件由专业物流方确认装卸；不承诺所有设备均用同一种包装，也不让客户按外箱猜测起吊点或拆开不稳定的重物固定件。
+
+### GE-098 | 混装整馆设备怎样防止到货缺件和型号混淆？
+
+- 核查：按设备序列号或箱号对应主机、配重、附件、紧固件及文件，明确一机多箱与共用包装关系；设备总台数不能替代逐箱清单。
+- 行动：装运前核对配置表、箱唛和装箱单，收货时保留开箱及数量记录，异常先隔离相关部件；不把外箱数量一致视为配件齐全，也不为赶安装混用来源不明的紧固件。
+
+### GE-099 | 试用发现异响、晃动或配置不符，验收该怎样处理？
+
+- 核查：对照批准配置、序列号、安装调试记录和检查标准，区分缺件、装配、运输及产品原因；一次试用现象还不能直接确定责任。
+- 行动：停止存在安全疑虑的设备，保存照片、视频与检查数据并提交供应方复核，按约定关闭问题后放行；不要求客户继续重载测试，也不未经授权承诺退款、补货或责任结论。
+
+### GE-100 | 采购合同如何防止临时换型号或减配？
+
+- 核查：把型号版本、关键尺寸、额定用途、配重、附件、电气配置、包装及文件写成批准清单，图片与文字有冲突时需先澄清优先口径。
+- 行动：约定替代或变更必须重新批准，量产与出货资料逐项核对；不以外形相似、功能名称相同或供应紧张默认买方接受替换，也不把未确认的试验、服务和赠品写成既有承诺。

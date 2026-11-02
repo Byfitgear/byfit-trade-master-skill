@@ -1,5 +1,7 @@
 # Trade Show Follow-Up Templates
 
+> Legacy internal examples only. Follow current SKILL.md and client_scoring_framework.md when these notes conflict. Unknown evidence stays unknown; no automatic sending, fabricated buyer psychology, unverified company claims, promised returns, or unauthorized concessions.
+
 > **Method**: 外土司 5-email sequence — 每封邮件增加新价值，绝不说"just following up"
 > **Timing Rule**: 第一封当天晚上发出（4-6小时内），后续每封间隔递增
 > **Brand**: BYFIT | **Products**: Gym Rubber Flooring, Gym Equipment, Pilates Equipment | **FOB**: Qingdao

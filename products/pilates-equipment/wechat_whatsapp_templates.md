@@ -1,5 +1,7 @@
 # BYFIT Pilates Equipment — WeChat & WhatsApp Templates
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 ## Part 1: WhatsApp Quick Replies (5 Scenarios)
 
 ---

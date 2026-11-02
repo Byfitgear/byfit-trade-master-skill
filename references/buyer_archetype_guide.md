@@ -1,5 +1,7 @@
 # BYFIT 买家原型深度指南
 
+> Legacy internal examples only. Follow current SKILL.md and client_scoring_framework.md when these notes conflict. Unknown evidence stays unknown; no automatic sending, fabricated buyer psychology, unverified company claims, promised returns, or unauthorized concessions.
+
 ## 八大买家原型详解
 
 每个原型包含：定义、识别信号、沟通策略、预设痛点、推荐Email Group、BYFIT专属策略、实战场景。
