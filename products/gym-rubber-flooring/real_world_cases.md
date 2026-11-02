@@ -1,5 +1,7 @@
 # BYFIT Gym Rubber Flooring — Real-World Case Studies
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 > All case studies are anonymized to protect client confidentiality. Company names, specific locations, and identifying details have been changed. The business situations, solutions, and outcomes are representative of BYFIT's actual project experience.
 
 ---

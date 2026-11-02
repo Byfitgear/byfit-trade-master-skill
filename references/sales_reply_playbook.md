@@ -2,12 +2,15 @@
 
 Read this file for quotations, objections, negotiation, trust repair, order closing, or follow-up strategy. It supplements the core drafting standard in `SKILL.md`.
 
+Mandatory BYFIT rule: follow [discovery before quotation](discovery_before_quotation.md). Never quote in the first substantive reply to a new buyer/project, even if a price is requested and approved pricing exists. No price ranges, discounts, priced catalogues or cross-channel workarounds. Later quotations require confirmed buyer needs and actual pain/objective, seller-confirmed selection and an authorized matching offer. Document revision alone does not authorize sending a quote.
+
 ## Stage map
 
 | Stage | Immediate objective | Useful CTA |
 |---|---|---|
-| New inquiry | Confirm only the missing facts needed for a relevant answer | Ask for quantity, specification, use, or destination port |
-| Quote preparation | Present exact scope and reduce comparison ambiguity | Confirm specification or choose a real option |
+| New inquiry | Deliver verified non-price value and diagnose the actual need | Ask 2–3 unanswered questions about use, pain/objective or acceptance; do not repeat supplied specs |
+| Discovery | Confirm application, performance priorities, project scope, decision basis and actual pain/objective | Resolve only remaining material gaps; do not invent a pain point |
+| Quote preparation | After the first reply and a passing quote-gate, map the approved offer to confirmed needs | Confirm a real configuration or decision, not a generic price list |
 | Price objection | Diagnose the comparison and protect value | Ask for target, competing specification, or workable reciprocal term |
 | Quote viewed, no reply | Make responding easy and add one new reason | Ask whether price, specification, or timing is the blocker |
 | Trial order | Reduce perceived risk and lock details | Confirm model, quantity, sample, inspection, or PI |
@@ -18,6 +21,8 @@ Read this file for quotations, objections, negotiation, trust repair, order clos
 ## Commercial fact sheet
 
 Before drafting any quotation or price reply, normalize:
+
+Run `python3 scripts/trade_tools.py quote-gate <private-input.json>` first. `ready_to_quote` is a field/rule check, not independent evidence verification or permission to send. First replies remain non-price even when all other fields are ready.
 
 | Field | Example format |
 |---|---|

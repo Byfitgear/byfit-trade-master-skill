@@ -1,285 +1,536 @@
-# FAQ: Social Media Investigation 社交媒体调查
+# 社交媒体调查 FAQ
 
-> 25 unique FAQ entries organized by sub-categories for BYFIT Trade Master
+仅调查公开职业与企业信息；记录来源链接、发布日期、访问日期及置信度。账号热度不等于采购能力，未找到不代表不存在；不能承诺找全隐藏账号，不调查私人、家庭或敏感信息。客户特定资料不得写入公开仓库。
 
----
+## 目录
 
-## Sub-category: LinkedIn Deep Investigation LinkedIn深度调查
+1. 官方账号发现与实体匹配（SM-001—010）
+2. 平台特征与区域渠道（SM-011—020）
+3. 跨平台一致性（SM-021—030）
+4. 活跃度与时间线（SM-031—040）
+5. 公开职业角色与联系路径（SM-041—050）
+6. 扩张与需求信号（SM-051—060）
+7. 产品、渠道与品牌定位（SM-061—070）
+8. 互动、评价与歧义（SM-071—080）
+9. 证据获取与报告质量（SM-081—090）
+10. 仿冒、隐私与调查边界（SM-091—100）
 
-### Q: "How do I use LinkedIn to verify if a company is a legitimate fitness equipment buyer?"
-**中文**: 如何用LinkedIn验证一家公司是否是合法的健身器材买家？
-- **场景**: 收到询盘后想通过LinkedIn快速判断公司真实性
-- **根因**: LinkedIn是最透明的B2B社交平台，员工信息和公司页面是公司存在的最强旁证
-- **调查信号**: 公司有LinkedIn页面但员工数<5人、无产品展示、无动态更新
-- **回复策略**: 查员工数+职位分布+公司动态三维度判断
-- **回复模板**:
-  > We verify prospects on LinkedIn through three checks: [1] Employee count — a legitimate fitness equipment company typically has [X]+ employees with roles like "purchasing manager" or "product sourcing", [2] Company page activity — regular posts about new products or trade shows indicate an active business, [3] Employee tenure — long-tenured staff suggest company stability. For BYFIT rubber flooring inquiries, companies with [Y]+ employees in purchasing roles qualify for priority response. Your LinkedIn profile shows a strong team — we've prioritized your inquiry.
-- **CTA**: 下载BYFIT LinkedIn三维度验证清单
+## 一、官方账号发现与实体匹配
 
-### Q: "I found the purchasing manager on LinkedIn. How do I analyze their profile to understand their buying behavior?"
-**中文**: 在LinkedIn上找到了采购经理，如何分析其资料来了解采购行为？
-- **场景**: 想在联系前预判对方的需求和偏好
-- **根因**: 采购经理的职业背景决定了其关注点——技术出身重品质，销售出身重价格
-- **调查信号**: 对方在LinkedIn上发布/点赞的内容方向
-- **回复策略**: 从职业轨迹+互动内容+技能认证推断采购倾向
-- **回复模板**:
-  > We analyze purchasing managers' LinkedIn profiles for: [1] Career background — former quality engineers prioritize specs and certifications; former sales managers focus on price-to-margin, [2] Recent activity — posts about sustainability suggest they'll value BYFIT rubber flooring's recycled content, posts about cost-cutting mean price sensitivity, [3] Skills endorsed — "supplier management" vs. "product development" tells us their role in the decision chain. We tailor our opening accordingly: "I noticed your focus on [quality/sustainability/efficiency] — BYFIT's [feature] aligns with this priority."
-- **CTA**: 获取BYFIT采购经理画像分析模板
+### SM-001 | 从哪里开始寻找客户的官方社交账号？
 
-### Q: "The purchasing manager hasn't posted anything in 2 years on LinkedIn. Are they still in the role?"
-**中文**: 采购经理2年没在LinkedIn发过内容，他还在这个岗位吗？
-- **场景**: 想联系但不确定对方是否还在该岗位
-- **根因**: LinkedIn不活跃不代表不在岗，但可能意味着对方不重视这个渠道
-- **调查信号**: 职位信息未更新、最近职业变动无记录、头像可能过时
-- **回复策略**: 交叉验证——查公司官网+最近展会参展名单+邮件自动签名
-- **回复模板**:
-  > LinkedIn inactivity doesn't mean they've left — many purchasing professionals maintain profiles but rarely post. We verify current employment by: [1] checking the company website's team page, [2] searching for their name in recent trade show attendee lists (e.g., [trade show] [year]), and [3] sending a connection request with a note: "Hi [Name], I'd like to connect regarding BYFIT gym rubber flooring for [Company]." A response confirms they're active. If no response in [X] days, we find an alternative contact.
-- **CTA**: 使用BYFIT采购经理在职验证三步法
+- 核查：先记录官网页脚、联系页及新闻页直接指向的账号，再检查账号是否反向链接同一企业域名；域名跳转和第三方链接需分别记录。
+- 行动：以双向链接作为首批候选依据，整理平台、账号网址及匹配理由；只有搜索命中的主页先标为待确认，不能直接写成官方账号。
 
-### Q: "How do I map a prospect company's decision-making chain using LinkedIn?"
-**中文**: 如何用LinkedIn画出潜在客户的决策链？
-- **场景**: 只联系到采购员，需要找到真正的决策者
-- **根因**: 采购员可能只是执行者，真正的决策者是其上级或跨部门领导
-- **调查信号**: 采购员总说"let me check with my boss"、审批流程超长
-- **回复策略**: 从采购经理出发，向上找直属上级+横向找技术影响者
-- **回复模板**:
-  > To map the decision chain on LinkedIn: [1] Start from the purchasing contact → view their profile for "reports to" or similar-level colleagues, [2] Search "[company name] + director/VP/manager" to find leadership, [3] Identify technical influencers (e.g., "fitness equipment specialist" or "product manager") who evaluate quality. For BYFIT pilates equipment, we engage all three levels: send specs to technical staff, value proposition to the purchasing manager, and ROI/brand story to the VP. Your organization shows [X] people in relevant roles — we'll ensure our proposal addresses each stakeholder's priorities.
-- **CTA**: 下载BYFIT LinkedIn决策链映射SOP
+### SM-002 | 搜到多个同名健身公司，怎样避免认错？
 
-### Q: "A prospect's CEO follows our company page on LinkedIn. Should I reach out directly?"
-**中文**: 潜在客户的CEO关注了我们公司的LinkedIn主页，应该直接联系吗？
-- **场景**: 高层关注说明公司对产品有兴趣，但越级联系可能冒犯采购团队
-- **根因**: CEO关注是强购买信号，但需谨慎处理以维护采购团队关系
-- **调查信号**: CEO同时点赞了多条产品动态、公司近期有扩张新闻
-- **回复策略**: 让采购团队知道CEO的关注，提升你在其内部的优先级
-- **回复模板**:
-  > A CEO following your company page is a strong signal — they're aware of BYFIT and likely discussed you internally. Rather than bypassing the purchasing team, we leverage this: "Hi [Purchasing Contact], I noticed [CEO Name] recently connected with our company page — it seems there's interest in BYFIT rubber flooring at the leadership level. I'd love to support your evaluation process with a comprehensive comparison package." This elevates your priority without causing friction. We can also offer to schedule a brief call with your team to present our capabilities.
-- **CTA**: 获取BYFIT高层关注转化策略
+- 核查：比较公开营业地址、企业域名、产品类别、标志和联系电话区号；同名但经营地区不同的公司应作为独立实体保留。
+- 行动：至少用两个独立的业务识别点完成匹配，再开展内容分析；无法区分时列出候选与缺口，向客户索取其官方主页链接。
 
----
+### SM-003 | 品牌名称与注册公司名称不同，账号属于谁？
 
-## Sub-category: Facebook Business Page Facebook企业主页
+- 核查：查看官网法律声明、品牌介绍、公开商标或集团公告是否说明运营关系；账号简介使用品牌名本身不能证明其法律主体。
+- 行动：建立“品牌—运营主体—账号”的关系表，注明每条关系的证据；商务沟通用品牌称呼，合同与信用判断仍核对实际交易主体。
 
-### Q: "What can I learn from a prospect's Facebook business page that I can't find on their website?"
-**中文**: 从潜在客户的Facebook企业主页能看到什么网站上看不到的信息？
-- **场景**: 网站信息有限，需要更多线索判断客户质量
-- **根因**: Facebook展示的是公司的日常运营和文化，比网站更真实
-- **调查信号**: 网站很正式但Facebook很随意（或相反）、有员工活动照片
-- **回复策略**: 重点关注客户互动、员工规模线索、展会活动
-- **回复模板**:
-  > A Facebook business page reveals what websites often hide: [1] Real company culture and scale — employee event photos show actual team size vs. claimed numbers, [2] Customer engagement — response rate and review quality indicate how they treat their own clients, [3] Recent activity — trade show check-ins and product launches show business momentum. For BYFIT gym equipment prospects, we look for: posts about new gym openings (buying signal), customer testimonials (brand strength), and team size in photos (scale verification).
-- **CTA**: 下载BYFIT Facebook情报提取清单
+### SM-004 | 总部账号和各地区账号应怎样归类？
 
-### Q: "Their Facebook page has mostly negative reviews. Does this mean they're a bad client or a good opportunity?"
-**中文**: 他们的Facebook页面大多是差评，这说明客户不好还是机会好？
-- **场景**: 客户自身有声誉问题，不确定是否应该合作
-- **根因**: 差评可能是产品问题（客户有品质需求）或服务问题（客户有改善动力）
-- **调查信号**: 差评集中在产品质量/交期/售后中的某一类
-- **回复策略**: 区分差评类型——品质差评=客户有品质需求=机会，服务差评=客户可能不诚信=风险
-- **回复模板**:
-  > Negative reviews require interpretation: [1] Complaints about product quality (e.g., "flooring cracked after 3 months") = this client values quality and may switch to BYFIT rubber flooring for better durability — this is an opportunity. [2] Complaints about delivery delays = supply chain pain point we can solve. [3] Complaints about refund/service = potential red flag — they may be difficult to work with. We'd approach with: "We noticed your customers mention [specific issue] — our BYFIT flooring addresses this with [specific feature], backed by a [X]-year warranty."
-- **CTA**: 使用BYFIT差评分析决策树
+- 核查：寻找总部官网的区域目录、总账号对分账号的介绍及分账号联系方式，区分直营地区、授权经销商和加盟门店的公开表述。
+- 行动：按“总部、区域运营、独立渠道”分组，不把全部粉丝或网点累加到同一买家；采购权归属另行确认，不能由账号层级推定。
 
-### Q: "How do I use Facebook to find out if a prospect is expanding or downsizing?"
-**中文**: 如何用Facebook判断潜在客户在扩张还是收缩？
-- **场景**: 需要判断客户的未来采购潜力
-- **根因**: 扩张期的客户采购需求增长，是最佳切入时机
-- **调查信号**: 近期发布招聘广告、新店开业帖子、搬迁动态
-- **回复策略**: 追踪扩张信号——招聘+新址+设备需求
-- **回复模板**:
-  > Facebook expansion signals for fitness companies include: [1] Hiring posts — "We're looking for gym managers in [city]" = new locations opening, [2] Construction/renovation photos — "New studio coming soon!" = equipment purchasing imminent, [3] "Grand opening" events = just launched, may need follow-up orders. For BYFIT pilates equipment, we track these signals and time our outreach: "Congratulations on your new [location]! We specialize in outfitting pilates studios with premium equipment — can we send a starter kit for your grand opening?"
-- **CTA**: 获取BYFIT Facebook扩张信号监测指南
+### SM-005 | 客户改名后，旧账号还能作为当前证据吗？
 
-### Q: "The prospect's Facebook page hasn't been updated in over a year. Is the company still active?"
-**中文**: 潜在客户的Facebook主页超过1年未更新，公司还在运营吗？
-- **场景**: 社交媒体沉默引发对客户存续状态的疑虑
-- **根因**: Facebook不活跃不等于公司不运营，但需要确认
-- **调查信号**: Facebook最后更新日期距今超过12个月、网站仍在线
-- **回复策略**: 交叉验证——网站更新+Google搜索新闻+直接联系
-- **回复模板**:
-  > A dormant Facebook page doesn't necessarily mean a dormant business — many B2B companies shift focus to LinkedIn or stop social media marketing. We verify by: [1] checking if their website has been updated recently (blog posts, new products), [2] searching for recent news mentions, and [3] checking Google Maps for their business status (open/closed/permanently closed). For BYFIT gym rubber flooring, we proceed with caution — send a standard catalog and pricing, but don't invest heavily in customization until we confirm they're operational.
-- **CTA**: 使用BYFIT社交媒体沉默客户验证法
+- 核查：查找更名公告、官网旧新名称对应、账号历史名称及旧链接跳转；同时记录更名日期与旧帖发布时间，防止时间错配。
+- 行动：保留名称沿革而不重复计为两家企业；旧内容只说明当时状态，当前业务范围和联系方式以更名后的可靠公开证据复核。
 
----
+### SM-006 | 一个公司运营多个品牌，能否合并研究？
 
-## Sub-category: Instagram Brand/Product Instagram品牌/产品
+- 核查：核对集团品牌清单、品牌官网及账号归属说明，比较是否面向不同渠道、价位或客户群，而非仅看相同办公地址。
+- 行动：公司层保留共同背景，品牌层分别分析内容与需求；开发信选择与BYFIT拟供品类匹配的品牌，不把另一品牌的定位直接套用。
 
-### Q: "How do I use Instagram to understand what products a fitness company actually sells vs. what they claim on their website?"
-**中文**: 如何用Instagram了解健身公司实际卖什么产品vs网站声称的产品？
-- **场景**: 客户网站产品线很广但实际主力产品不明
-- **根因**: Instagram展示的是市场验证过的产品——经常被拍的产品才是真正热销的
-- **调查信号**: 网站有50个产品但Instagram只展示5个、用户标签集中在特定产品
-- **回复策略**: 统计发帖频率最高的产品类别和用户UGC内容
-- **回复模板**:
-  > Instagram reveals true product focus: [1] Most-posted product categories = core business (e.g., if [X]% of their posts feature pilates reformers, that's their best-seller), [2] User-generated content (UGC) — photos tagged by their customers show what end-users actually buy and love, [3] Story highlights about specific product lines indicate active marketing investment. For BYFIT pilates equipment, if a prospect's Instagram is 60%+ pilates content, we lead with our reformer line; if it's mostly general gym content, we open with rubber flooring.
-- **CTA**: 获取BYFIT Instagram产品焦点分析法
+### SM-007 | 官网没有社交链接，是不是没有社交账号？
 
-### Q: "Their Instagram shows products that look like they're sourced from China. How can I tell which factory?"
-**中文**: 他们的Instagram展示的产品看起来是中国产的，如何判断是哪家工厂？
-- **场景**: 想知道竞品供应商是谁以制定差异化策略
-- **根因**: 确认竞品供应商后可以从材料/工艺/认证维度找差异化突破点
-- **调查信号**: 产品设计与国内某工厂目录高度相似、包装有中国产地标识
-- **回复策略**: 从产品细节特征反推工厂——模具/颜色/标签/包装
-- **回复模板**:
-  > We identify Chinese sourcing from Instagram clues: [1] Product design details — specific mold patterns (e.g., BYFIT rubber flooring has a unique [pattern] not replicated by other factories), [2] Packaging visible in background — Chinese language labels or specific box designs, [3] Color options matching a specific factory's catalog. If we recognize the factory, we know their quality level and pricing range. We'd then position BYFIT's differentiation: "Your current rubber flooring appears to be [standard grade] — our [premium grade] offers [X]% better shock absorption with the same thickness."
-- **CTA**: 索取BYFIT竞品工厂识别技巧手册
+- 核查：用企业全称、品牌名、公开简称及官网域名在相关平台检索，记录日期、范围和无法访问的结果，不以一次搜索结束调查。
+- 行动：报告写“在已检索的公开范围内未确认”，列明待验证平台；通过企业公开渠道询问，不推断其刻意隐藏或经营异常。
 
-### Q: "A fitness influencer tagged the prospect's brand in a post about gym flooring. How do I use this connection?"
-**中文**: 健身博主在关于健身地垫的帖子中标注了潜在客户的品牌，如何利用这个联系？
-- **场景**: KOL背书说明品牌有市场影响力，是优质客户信号
-- **根因**: KOL合作说明品牌有营销预算和市场投入，采购需求和品质要求都较高
-- **调查信号**: 品牌有KOL合作帖子、帖子互动量高、评论区有终端用户咨询
-- **回复策略**: 引用KOL内容作为开场白，展示你了解其品牌定位
-- **回复模板**:
-  > Influencer partnerships signal marketing investment and brand ambition — this prospect values quality and brand image. For BYFIT rubber flooring outreach: "Hi [Name], I noticed [Influencer] featured your [product] on Instagram — great to see your brand gaining visibility! We manufacture premium gym flooring that influencers love for its [feature: low odor / color options / durability]. We'd love to send samples that match your brand's quality standards — would that be of interest?" This shows we've done our homework and understand their brand positioning.
-- **CTA**: 获取BYFIT KOL关联客户话术模板
+### SM-008 | 商业目录列出的社交链接可信吗？
 
----
+- 核查：打开目录链接核对主页主体、域名和最近内容，检查目录更新时间；聚合站可能沿用旧链接、用户投稿或同名企业资料。
+- 行动：目录仅作发现线索，最终引用原始主页或企业官网；无法取得原始证据时降低置信度，不将目录条目包装成已核实事实。
 
-## Sub-category: YouTube Channel/Video YouTube频道/视频
+### SM-009 | 多个平台使用相同账号名，是否足够证明关联？
 
-### Q: "How do I analyze a prospect's YouTube channel to understand their product focus and customer base?"
-**中文**: 如何分析潜在客户的YouTube频道了解其产品焦点和客户群？
-- **场景**: 客户有YouTube频道但不确定哪些信息对开发有价值
-- **根因**: 视频内容比文字更真实——展示的工厂/仓库/产品是第一手信息
-- **调查信号**: YouTube视频展示了仓库规模、产品线、客户类型
-- **回复策略**: 重点看仓库巡览视频、产品演示视频、客户见证视频
-- **回复模板**:
-  > YouTube provides unfiltered business insights: [1] Warehouse tour videos — estimate storage capacity and current inventory levels (a [X]sqm warehouse suggests annual purchasing of $[Y]+), [2] Product demo videos — which products get the most production budget = best sellers, [3] Customer testimonial videos — the types of clients featured reveal their target market (commercial gyms vs. home users). For BYFIT gym equipment, a prospect whose YouTube features commercial gym installations is our ideal client — we lead with our commercial-grade rubber flooring line.
-- **CTA**: 下载BYFIT YouTube情报提取框架
+- 核查：比较简介中的企业域名、公开地址和互链信息，检查同一用户名是否只是常见词；头像与用户名均可能被复制或抢注。
+- 行动：将用户名一致记为弱线索，以官网授权或可靠业务信息补强；未确认前分别保存，避免误把个人账号纳入企业账号矩阵。
 
-### Q: "A competitor's product video appears in the prospect's YouTube playlist. What does this tell me?"
-**中文**: 潜在客户的YouTube播放列表中有竞品的产品视频，这说明了什么？
-- **场景**: 客户收藏了竞品视频，说明在研究或已采购竞品产品
-- **根因**: 播放列表是研究痕迹——客户在比较不同供应商
-- **调查信号**: 播放列表命名含"evaluation"/"comparison"/"options"
-- **回复策略**: 客户正在比选阶段，提供对比材料加速决策
-- **回复模板**:
-  > A YouTube playlist containing competitor videos means the prospect is actively evaluating options — this is a warm lead. For BYFIT pilates equipment, we'd reach out with: "We noticed you're researching [product category] — many of our clients went through a similar evaluation process. To save you time, we've prepared a comparison sheet covering BYFIT vs. [common competitors] on [certifications, material specs, lead time, warranty]. Would you like us to send it along with a sample for hands-on evaluation?"
-- **CTA**: 获取BYFIT竞品对比资料包模板
+### SM-010 | 蓝标或平台认证能否直接证明账号可信？
 
-### Q: "The prospect's YouTube channel has videos with very low view counts. Does this mean they're a small player?"
-**中文**: 潜在客户的YouTube视频播放量很低，这说明他们规模小吗？
-- **场景**: 视频无人观看让人怀疑客户实力
-- **根因**: B2B企业的YouTube播放量普遍低，播放量与公司规模无强相关
-- **调查信号**: 频道粉丝少但视频制作精良、内容专业但播放量<100
-- **回复策略**: 不以播放量判断规模——看内容质量和更新频率
-- **回复模板**:
-  > Low view counts on B2B YouTube channels are normal — fitness equipment companies make videos for customers, not virality. What matters: [1] Production quality — professional videos indicate marketing investment regardless of views, [2] Content recency — videos posted within the last 6 months show active marketing, [3] Video purpose — product tutorials and installation guides serve existing customers (sign of an established client base). For BYFIT rubber flooring, we judge prospects by content quality and recency, not view counts. Your video content shows professional product knowledge — we're confident in our mutual fit.
-- **CTA**: 使用BYFIT B2B YouTube评估标准卡
+- 核查：查看平台当前对标记的解释，核对主页域名、主体说明和官网链接；不同标记可能表示订阅、身份或组织关联。
+- 行动：认证只作为一项证据，不替代实体匹配和交易核验；涉及付款与文件发送时，回到已确认的企业域名与正式渠道复核。
 
----
+## 二、平台特征与区域渠道
 
-## Sub-category: Twitter/X Dynamics Twitter/X动态
+### SM-011 | LinkedIn公司页最适合核查哪些业务事实？
 
-### Q: "How do I use X (Twitter) to track a prospect's real-time business concerns?"
-**中文**: 如何用X(Twitter)追踪潜在客户的实时业务关注点？
-- **场景**: 需要了解客户当前最关心的问题以定制沟通内容
-- **根因**: X上的发言比正式渠道更真实，反映了当下的真实痛点
-- **调查信号**: 客户在X上抱怨供应商问题、讨论行业政策、转发竞品动态
-- **回复策略**: 监控关键词+客户动态，在痛点窗口期主动出击
-- **回复模板**:
-  > X provides real-time business intelligence: [1] Complaints about suppliers (e.g., "Another delayed shipment from [country]") = switching opportunity, [2] Industry regulation discussions (e.g., new safety standards) = certification advantage opportunity, [3] Product questions (e.g., "Anyone know a good rubber flooring supplier?") = direct buying signal. For BYFIT gym equipment, when we spot a relevant post, we respond publicly: "We specialize in [solution to their stated problem] — DM us for details." This starts the conversation naturally.
-- **CTA**: 获取BYFIT X实时商机捕获SOP
+- 核查：查看公司页官网、行业、办公地点、近期公告与公开员工职业信息，区分企业自填资料和外部佐证，留意更新时间。
+- 行动：用其形成组织与业务假设，再以官网或正式新闻确认；员工数量区间不等于可支配采购预算，不能直接估算订单金额。
 
-### Q: "My prospect's CEO tweets about industry trends but never about purchasing. How is this useful?"
-**中文**: 潜在客户CEO在X上只谈行业趋势从不提采购，这有什么用？
-- **场景**: 高层动态看似与采购无关，但实际影响采购方向
-- **根因**: CEO的战略方向决定了采购的品类优先级和预算分配
-- **调查信号**: CEO频繁讨论某个市场/品类/趋势、公司战略调整
-- **回复策略**: 从CEO的趋势发言推断公司采购方向，提前布局
-- **回复模板**:
-  > CEO tweets about industry trends reveal strategic direction, which drives purchasing priorities: [1] "Excited about the growth of boutique studios" = increased pilates equipment budget, [2] "Sustainability is non-negotiable" = eco-certified products will be prioritized in purchasing, [3] "Expanding to [region]" = new market entry needs equipment sourcing. For BYFIT rubber flooring, when a prospect's CEO signals sustainability focus, we ensure our recycled rubber content certifications are front and center in our proposal.
-- **CTA**: 下载BYFIT CEO动态→采购方向推演卡
+### SM-012 | Facebook主页透明度信息能说明什么？
 
-### Q: "How do I find industry conversations on X that could lead to potential clients?"
-**中文**: 如何在X上找到可能转化为客户的行业对话？
-- **场景**: 想通过社交媒体主动开发而非被动等询盘
-- **根因**: X上的行业讨论聚集了精准的潜在客户
-- **调查信号**: 健身行业话题标签下有大量从业者讨论
-- **回复策略**: 监控行业标签+建立专业形象+引导私聊
-- **回复模板**:
-  > We prospect on X by monitoring: [1] Industry hashtags — #[gym equipment], #[fitness business], #[pilates studio], [2] Conversations — search "looking for" + [product keyword], [3] Trade show hashtags during events — attendees are active buyers. For BYFIT pilates equipment, we post expert content (e.g., "5 things to check when sourcing rubber flooring") and engage in discussions. When someone shows interest, we move to DM: "Thanks for the conversation! We manufacture [product] — would a quick call be helpful?"
-- **CTA**: 索取BYFIT X主动开发话术库
+- 核查：在公开可见时记录主页创建时间、历史更名和管理地区等字段，再比较官网与门店信息；字段缺失也应如实记录。
+- 行动：用明显名称或地区异常触发人工复核，不自动认定欺诈；代理运营、品牌迁移也可能产生变化，需补充解释证据。
 
----
+### SM-013 | Instagram精选和简介应怎样用于客户研究？
 
-## Sub-category: Industry Forums 行业论坛
+- 核查：查看简介链接、精选门店或产品主题、原帖日期与商业标签；精选长期保留不等于项目仍进行，也不等于销量领先。
+- 行动：用其定位展示重点和可讨论场景，引用具体内容提问；询问相关产品是否仍销售，不把视觉曝光直接写成采购偏好。
 
-### Q: "How do I use Reddit's fitness business communities to find potential buyers?"
-**中文**: 如何用Reddit的健身商业社区找潜在买家？
-- **场景**: Reddit上有大量健身房老板和器材采购者讨论
-- **根因**: Reddit用户真实需求表达最直接——求助帖就是购买信号
-- **调查信号**: r/gymowners或r/fitnessbusiness有频繁的器材采购讨论
-- **回复策略**: 监控求助帖→提供专业建议→建立信任→引导联系
-- **回复模板**:
-  > Reddit communities like r/gymowners and r/fitnessbusiness are goldmines for buyer identification: [1] Search for posts like "best rubber flooring for commercial gym" or "pilates reformer supplier recommendations" — these are direct buying signals, [2] Provide helpful, non-promotional answers first: "For commercial gym flooring, look for [spec: 15mm+ thickness, EN 14904 certified, low VOC]. I've seen good results with [general category description]." [3] After building credibility, invite to DM. For BYFIT, we've converted [X]% of Reddit-sourced leads into paying customers.
-- **CTA**: 获取BYFIT Reddit开发操作指南
+### SM-014 | YouTube视频能提供哪些可靠线索？
 
-### Q: "Someone on a fitness forum is complaining about their current rubber flooring supplier. How do I approach them?"
-**中文**: 有人在健身论坛抱怨当前的橡胶地垫供应商，如何联系他们？
-- **场景**: 痛点明确的目标客户主动出现，是最佳开发时机
-- **根因**: 公开抱怨说明痛点足够严重，且切换供应商意愿强烈
-- **调查信号**: 帖子详细描述了质量问题/交期延误/售后缺失
-- **回复策略**: 共情+专业建议+软性推介，不要硬广
-- **回复模板**:
-  > When someone complains about their supplier on a forum, we respond with empathy and expertise, not a sales pitch: "That's frustrating — inconsistent quality is a common issue with [product type]. A few things to look for in your next supplier: [1] batch consistency testing (ask for test reports from 3+ consecutive batches), [2] clear warranty terms, [3] dedicated export QC team. I work in this industry and these are the standards we hold ourselves to at BYFIT. Happy to share more insights if helpful." This builds trust without being pushy.
-- **CTA**: 索取BYFIT论坛痛点客户转化话术
+- 核查：记录频道官网链接、上传日期、说明栏与地点标识，区分企业自制、客户案例、转载与广告；拍摄日期未必等于上传日期。
+- 行动：提取可核实的安装、培训和售后场景，向客户确认项目阶段；不凭画面估算仓储容量或认定设备来自特定工厂。
 
-### Q: "How do I establish credibility on industry forums without sounding like a salesperson?"
-**中文**: 如何在行业论坛建立专业信誉而不像销售？
-- **场景**: 论坛用户反感硬广，需要以专家身份参与
-- **根因**: 论坛文化排斥推销但欢迎专业知识，分享价值才能建立信任
-- **调查信号**: 推销帖被踩、专家帖获赞、用户更信任"从业者"而非"销售"
-- **回复策略**: 80%分享知识+20%提及产品，用案例代替推销
-- **回复模板**:
-  > Forum credibility comes from value-first participation: [1] Answer technical questions thoroughly — "For gym rubber flooring odor issues, the key is [technical explanation about vulcanization process and PAH content].", [2] Share industry knowledge without branding — "The EU market now requires REACH compliance for rubber flooring — here's what to check...", [3] Mention your product naturally in context — "In our experience manufacturing rubber flooring, we've found [insight]..." For BYFIT, this approach generates [X] inbound inquiries per month from forums without any direct promotion.
-- **CTA**: 下载BYFIT论坛专家形象建设指南
+### SM-015 | X账号适合观察什么，不适合推断什么？
 
----
+- 核查：关注公开的产品发布、服务通知、活动与合作声明，核对置顶帖和发布时间；转发、点赞和个人意见应与企业公告分开。
+- 行动：将近期业务更新用作沟通背景，重要合作返回双方官方来源确认；不因参与热点或发帖频繁推断管理层性格与采购紧迫度。
 
-## Sub-category: Review Platforms 评论平台
+### SM-016 | TikTok热度可以作为B2B客户价值依据吗？
 
-### Q: "How do I use Trustpilot reviews of a prospect to understand their business priorities?"
-**中文**: 如何用潜在客户在Trustpilot上的评论了解其业务优先级？
-- **场景**: 客户的终端用户评论揭示了客户真正关心什么
-- **根因**: 终端用户的评价是客户市场定位的镜像，决定了客户采购的优先级
-- **调查信号**: 客户Trustpilot评论集中在品质/价格/服务某一维度
-- **回复策略**: 按评论主题分布推断客户采购优先级，对齐提案
-- **回复模板**:
-  > Trustpilot reviews of a prospect reveal their market positioning through customer feedback: [1] If reviews praise "great prices" = the prospect competes on price → they need competitive FOB pricing from BYFIT, [2] If reviews praise "premium quality" = they compete on quality → lead with BYFIT rubber flooring certifications and test reports, [3] If reviews mention "fast delivery" = they value lead time → emphasize our [X]-day production guarantee. We tailor our pitch: "We noticed your customers value [priority] — here's how BYFIT supports that."
-- **CTA**: 获取BYFIT评论分析→提案对齐工作表
+- 核查：查看内容是否由品牌发布、是否标注广告或合作，抽查互动与产品咨询的关系；播放量可能来自娱乐传播而非采购受众。
+- 行动：用短视频判断展示手法和应用场景，不据此排名采购能力；若出现批发咨询，记录公开需求并向企业确认实际渠道业务。
 
-### Q: "Google Reviews for a gym chain show complaints about equipment quality. How do I use this in my pitch?"
-**中文**: 某健身房连锁的Google评论显示器材质量投诉，如何在提案中利用？
-- **场景**: 目标客户的终端用户抱怨品质，说明客户有品质升级需求
-- **根因**: 终端投诉会倒逼采购方升级供应商，这是切入的最佳窗口
-- **调查信号**: Google评论中多条提到器材损坏/地垫磨损/异味问题
-- **回复策略**: 在提案中引用终端用户痛点，展示你的产品如何解决
-- **回复模板**:
-  > We use end-user complaints as purchase motivation: "We noticed some of your gym members mention [specific issue: rubber flooring odor/wear] in online reviews. BYFIT's flooring addresses this with [solution: zero-VOC formulation / abrasion-resistant top layer rated for 50,000+ cycles]. One of our clients in [market] saw their Google rating improve from [X] to [Y] stars after switching to our products. Would you like a sample to compare with your current flooring?"
-- **CTA**: 使用BYFIT终端痛点→产品匹配话术库
+### SM-017 | Pinterest图片板能证明客户经营某类产品吗？
 
----
+- 核查：区分原创发布、保存他人图片和外链落地页，检查图片来源及是否指向现有商品；灵感板不等同于实际货盘。
+- 行动：把主题当作风格或选品兴趣的弱线索，优先核对官网商品页；提供视觉建议时明确是假设，不宣称客户已采购图中产品。
 
-## Sub-category: Contact Person Profiling 联系人画像
+### SM-018 | 怎样选择区域性商业社交平台？
 
-### Q: "The purchasing manager follows multiple Chinese suppliers on social media. What does this tell me about their sourcing strategy?"
-**中文**: 采购经理在社交媒体上关注了多个中国供应商，这说明什么采购策略？
-- **场景**: 联系人的社交行为暴露了其采购习惯
-- **根因**: 多供应商关注说明采用多源策略，而非独家绑定
-- **调查信号**: LinkedIn关注列表包含多个中国同行、在社交媒体活跃比较供应商
-- **回复策略**: 多源买家重视比选——提供对比材料而非低价
-- **回复模板**:
-  > A purchasing manager following multiple Chinese suppliers uses a multi-source strategy — they compare rather than commit exclusively. For BYFIT gym rubber flooring, this means: [1] they're open to new suppliers (good), [2] they'll compare on multiple dimensions, not just price, and [3] they value transparency. We'd approach with: "We know you evaluate multiple suppliers — we respect that. To make your comparison efficient, here's a spec sheet with all BYFIT rubber flooring parameters vs. industry averages. We're confident the data speaks for itself."
-- **CTA**: 获取BYFIT多源买家应对策略
+- 核查：依据官网互链、当地商业目录与客户语言市场，识别适用的区域企业账号，例如公开VK、LINE或其他当地商业主页。
+- 行动：只研究相关且可合法访问的平台，注明覆盖范围和可见度；不为凑齐清单创建私人关系，也不承诺找全所有账号。
 
-### Q: "How do I tell if a contact person is a decision-maker or just a gatekeeper from their social media profile?"
-**中文**: 如何从社交媒体判断联系人是决策者还是守门人？
-- **场景**: 不确定该在联系人身上投入多少精力
-- **根因**: 把时间花在守门人身上是外贸最大的时间浪费之一
-- **调查信号**: 对方总是说"I'll pass this to my manager"、无预算审批权、职位是assistant/coordinator
-- **回复策略**: 从职位+互动模式+回复速度综合判断，守门人也要维护但不深谈
-- **回复模板**:
-  > We distinguish decision-makers from gatekeepers by: [1] Job title — "Purchasing Manager/Director" = likely decision-maker; "Assistant/Coordinator" = gatekeeper, [2] LinkedIn connections — decision-makers connect with senior peers; gatekeepers connect broadly, [3] Response pattern — decision-makers ask specific questions; gatekeepers forward messages. For BYFIT pilates equipment, we treat gatekeepers as allies: "Hi [Name], I'd love to make your job easier — here's a comprehensive BYFIT comparison package you can share with your team. Let me know what additional information would be helpful." This wins the gatekeeper's support.
-- **CTA**: 下载BYFIT决策者vs守门人识别卡
+### SM-019 | 平台店铺与品牌主页是否应分开记录？
+
+- 核查：核对店铺经营者、退换货主体、商品链接和主页互链；授权零售商可能使用品牌图像，但并非品牌总部经营。
+- 行动：分别记录营销、销售和可能的采购主体；对接批发前询问自营还是授权，不将店铺零售订单当作品牌进口记录。
+
+### SM-020 | Linktree等聚合链接应如何处理？
+
+- 核查：从已确认的企业主页进入聚合页，逐一检查目标域名与跳转去向；页面可能保留失效活动、代理或外部合作链接。
+- 行动：保存最终网址和访问日期，避免只引用中间链接；正式询盘使用已核实官网表单或企业邮箱，不向未知表单提交资料。
+
+## 三、跨平台一致性
+
+### SM-021 | 两个平台显示不同地址，是风险信号吗？
+
+- 核查：比较地址对应总部、仓库、展厅还是旧址，寻找搬迁公告和更新日期；不同用途的地点并不天然冲突，也不能据此认定虚假。
+- 行动：地址表注明用途与证据时间，对无法解释的差异提出确认问题；寄样和报价前由客户书面确认实际收件与合同地址。
+
+### SM-022 | 官网和社交平台的产品目录不一致怎么办？
+
+- 核查：比较上新、停产公告、地区版本和商品更新时间，区分曾推广、现有销售和预告发布；内容缺失不等于产品撤销。
+- 行动：列出差异品类并询问当前范围；BYFIT推荐围绕已确认需求展开，未确认品类仅作为可选方向，不直接据此报价。
+
+### SM-023 | 标志与配色变化是否意味着账号被冒用？
+
+- 核查：查找品牌升级公告、官网同步时间与历史图像，比较链接和联系方式是否仍一致；设计差异可能来自地区活动或旧素材。
+- 行动：先验证品牌更新，再决定是否标记疑似仿冒；仅凭颜色不同不作欺诈判断，交易前仍独立核验企业身份。
+
+### SM-024 | 社交团队名单与官网不同应怎样判断？
+
+- 核查：核对人物公开职务日期、任职状态与业务单位，查看正式任命或离职公告；团队页和个人职业页都可能更新滞后。
+- 行动：关系标为“截至某日公开显示”，不宣称当前在职；用企业正式渠道确认负责部门，避免向离职者发送商业文件。
+
+### SM-025 | 不同账号宣传不同市场，能推断跨国经营吗？
+
+- 核查：查看当地官网、公开配送范围、网点或法人说明，区别海外广告与实际业务；多语言内容不足以证明当地运营。
+- 行动：分开标注宣传覆盖、销售覆盖与实体运营，各附证据；讨论经销区域时让客户确认已有渠道和拟拓展范围。
+
+### SM-026 | 不同语言账号的表述冲突怎么办？
+
+- 核查：对照原文、发布时间与适用地区，识别翻译省略、旧版本和当地促销差异；必要时用第二种翻译方法复核关键句。
+- 行动：保留原文和简短译意，指出冲突而不选择有利版本；规格、承诺和授权条件均向正式业务联系人书面求证。
+
+### SM-027 | 社交简介邮箱与官网邮箱不同是否可用？
+
+- 核查：比较域名、用途说明和发布来源，区分招聘、媒体、客服与采购邮箱；免费邮箱并非自动造假，但需更强的关联证明。
+- 行动：优先使用官网公布且用途匹配的入口；若联系社交邮箱，先简短确认身份，不立即发送敏感报价附件或付款信息。
+
+### SM-028 | 账号互相关注就能证明业务关系吗？
+
+- 核查：查找双方正式合作公告、官网伙伴列表或项目说明；关注、互赞、评论与标签只证明可见互动，可能是普通营销行为。
+- 行动：互动单列为线索，不能标注为客户、供应商或授权伙伴；关系获可靠证据支持后，才用于渠道冲突或竞品合作分析。
+
+### SM-029 | 自称工厂但内容像贸易商，如何处理？
+
+- 核查：核对公开工厂地址、流程、企业说明及制造主体；转发工厂视频、穿工服或展示机器不能独立证明拥有生产设施。
+- 行动：中性记录“自述制造”与可验证证据，不指控或替其认证；询问生产、采购、品牌运营各由哪个实体承担，明确合作方式。
+
+### SM-030 | 多个平台说法一致，证据一定更强吗？
+
+- 核查：检查内容是否来自同一新闻稿、代理同步或自动分发；十个平台重复一条自述仍可能只有一个原始来源，不是独立验证。
+- 行动：按原始来源而非页面数量计证据，另找登记、合作方或项目资料；注明重复来源，避免人为抬高结论置信度。
+
+## 四、活跃度与时间线
+
+### SM-031 | 怎样衡量社交账号是否持续经营？
+
+- 核查：记录明确窗口内的原创帖数、有效业务更新和最近活动日期，排除置顶旧帖与重复转发；不同平台分别统计，不能混用口径。
+- 行动：用“公开内容更新情况”描述活跃度，并核对官网与近期公告；不把低频发帖直接解释为经营衰退或没有采购预算。
+
+### SM-032 | 每天发帖是否证明公司运营能力强？
+
+- 核查：抽查内容是否为预排促销、模板轮播或外包运营，观察真实项目进展与有效回复；发帖频率和履约能力属于不同维度。
+- 行动：将内容能力与供应、服务能力分开评价；判断合作可靠性时索取正式资质和业务流程，不用社交勤奋代替履约核查。
+
+### SM-033 | 如何识别旧项目照片被重新发布？
+
+- 核查：对照首发链接、活动标识、原说明与复用记录；允许的图片搜索仅辅助找来源，不能从外观断言拍摄日期。
+- 行动：同时记录首发与转发时间，询问项目是否仍实施；可以引用其展示的项目，但不要祝贺并不存在的新开业。
+
+### SM-034 | 帖子被编辑后应该采用哪个版本？
+
+- 核查：查看公开编辑记录、当前内容和已有合法留存，记录可见变化与日期；无法看到原版时不能猜测被删掉的承诺。
+- 行动：业务沟通采用当前可验证版本，重大变更标注版本差异；数量、交期等报价条件仍请客户正式确认，不依赖帖子截图。
+
+### SM-035 | 只看最近一个月会遗漏什么？
+
+- 核查：把近期表现与上一季度、同期活动比较，检查节假日、展会和年度促销影响；短窗口可能落在低谷或集中宣传期。
+- 行动：先确定窗口再给趋势及限制；时间不足时明确“仅反映近期公开活动”，不据此判定客户长期增长或收缩。
+
+### SM-036 | 展会期间大量发帖意味着正在采购吗？
+
+- 核查：辨认其身份是参展商、参观者、媒体还是合作方，查看展位与公开议题；参加展会可能只为销售或品牌曝光。
+- 行动：用展会话题确认是否评估新品或供应方案；只有出现明确寻源要求时才提高机会判断，不直接安排催单。
+
+### SM-037 | 账号长期沉默但官网在线，怎么判断？
+
+- 核查：检查其他官方平台、近期公告、公开营业信息与网站更新，确认是否迁移账号；网站可访问本身也不能证明持续营业。
+- 行动：将运营状态列为待确认，通过企业公开渠道低成本验证；未确认前限制定制投入，不轻率标为倒闭或大规模跟进。
+
+### SM-038 | 账号突然恢复更新能否看作重新开业？
+
+- 核查：查找明确重启声明、新团队或业务变更公告，比较内容是否只是清库存、品牌纪念或代理接管，不能只看发帖数量。
+- 行动：确认恢复的是营销还是实际业务再讨论供货；开场可提近期更新并询问采购安排，不擅自定义为新创业客户。
+
+### SM-039 | 跨平台同时发布同一内容，怎样做时间线？
+
+- 核查：保留各平台时间和时区，识别自动同步、延迟发布与重新上传；最早可见发布时间不是事件实际发生时间，须正文佐证。
+- 行动：时间线以事件日期为主、发帖日期为辅，不重复计算项目；日期未知就注明，避免倒推设备已下单或即将交付。
+
+### SM-040 | 从扩张转向折扣促销说明什么？
+
+- 核查：比较促销周期、库存说明和产品生命周期，查找例行活动或换代信息；语气变化不能单独证明现金困难或战略转型。
+- 行动：提出库存和上新节奏的业务问题，暂不下危机结论；方案围绕已确认需求，避免利用未经证实的压力强势推销。
+
+## 五、公开职业角色与联系路径
+
+### SM-041 | 如何识别公开资料中的采购相关人员？
+
+- 核查：查看公开职务、负责品类、企业归属和任职时间，与团队页或正式公告核对；“采购”头衔未必覆盖健身器材项目。
+- 行动：只建立与本次业务相关的角色图，负责范围未明则标待确认；通过企业入口找联系人，不收集私人号码或无关资料。
+
+### SM-042 | 搜到前任采购经理，能否继续联系？
+
+- 核查：比较职业页任职结束时间、公司公告和现职信息，确认是否仍代表目标企业；旧帖与搜索摘要可能已滞后多年。
+- 行动：不向前任发送目标企业保密报价或项目内容；若职业渠道适合，可礼貌询问当前对接部门，不要求披露内部人员隐私。
+
+### SM-043 | 一个人兼任多个公司职务，怎样匹配项目？
+
+- 核查：核对公开任职日期、品牌关系与业务范围，区分董事、顾问和日常采购；共享姓名或照片仍需排除同名人士。
+- 行动：联系前说明讨论的企业与项目，并请其确认范围；不因一人多职就合并不同公司的预算、信用或商业关系。
+
+### SM-044 | 创始人经常出镜，就是最终采购决策人吗？
+
+- 核查：查看公开组织介绍和采购说明，区分代言、技术评估、预算审批与执行；高曝光职位不保证参与每笔设备采购。
+- 行动：以其关注的业务议题为背景，再询问项目评估团队；给执行联系人准备规格与流程资料，不依赖触达老板推进。
+
+### SM-045 | 设计师或顾问推荐产品，是否代表买家？
+
+- 核查：查看公开项目角色、合作声明和客户确认，区分技术建议、设计指定与采购授权；社交推荐或标签不是下单权限证明。
+- 行动：提供适合顾问评估的资料，同时确认合同买方与预算负责人；不因推荐默认报价获批，也不向无授权者承诺排他权益。
+
+### SM-046 | 加盟店店长公开求购，应找门店还是总部？
+
+- 核查：查看公开加盟采购规则、指定供应商信息和求购内容，确认耗材、设备替换还是新店项目；不同类型权限可能不同。
+- 行动：先问总部审批与供应商准入由谁负责，再安排资料；尊重门店联系人，不绕开其沟通直接向总部提交未经许可的信息。
+
+### SM-047 | 招聘采购岗位说明决策链发生变化吗？
+
+- 核查：阅读公开招聘的汇报关系、职责、品类和地点，区分新增与替补；招聘持续时间也不等于岗位已经入职。
+- 行动：将招聘视为组织需求线索，询问现有项目由哪个部门承接；不猜离任原因或个人表现，不直接解释为供应商切换。
+
+### SM-048 | 专业文章作者就是品类负责人吗？
+
+- 核查：查看署名、公开简介、赞助说明和企业页面，区分内部专家、外部撰稿人与代理；专业写作与采购授权无必然关系。
+- 行动：引用业务观点提出相关问题，询问正确评估角色；不把作者作为唯一决策人，也不假借“认识作者”获取内部引荐。
+
+### SM-049 | 怎样选择私信、邮箱或官网表单？
+
+- 核查：查看明确公布的合作入口、主页说明和消息用途，确认是售后、招聘还是供应商合作，不能因为容易送达就随意混用。
+- 行动：优先用途匹配的公开业务渠道，首条信息说明身份与相关性；未获回应时节制跟进，不跨多个私人账号追问同一人。
+
+### SM-050 | 找不到员工职业资料，说明公司不可信吗？
+
+- 核查：比较公开团队信息、行业名录和实际业务证据，考虑平台覆盖与披露习惯；职业资料缺失不等于没有专业团队。
+- 行动：决策链列为信息缺口，通过企业入口询问岗位而非私人身份；分级依据已证实业务匹配度，不因员工搜索结果少扣分。
+
+## 六、扩张与需求信号
+
+### SM-051 | 新馆开业预告能说明什么采购机会？
+
+- 核查：查看地点、预计时间、施工进度及主办方，区分正式公告、意向选址和预热；预告不证明预算批准或设备尚未采购。
+- 行动：先询问阶段和尚未完成的品类，再提供清单；已开业项目讨论补配或服务，不套用“正急需首批设备”的话术。
+
+### SM-052 | 翻新照片能帮助判断地材需求吗？
+
+- 核查：查看日期、施工区域与公开工程说明，是否明确涉及地面；局部装修、旧案回顾或租户施工可能与当期采购无关。
+- 行动：询问面积、基层、用途和施工节点，不从照片直接报数量；BYFIT性能和交期只引用已验证资料，缺失参数列待答。
+
+### SM-053 | 大量招聘教练意味着需要更多设备吗？
+
+- 核查：区分新馆、补岗、季节性课程与人员流动，核对地点和课程类型；招聘数量不能直接换算设备数量或采购金额。
+- 行动：用课程变化询问是否新增训练区及预算；如果只是补岗，不发送扩建设备方案，避免把组织动作强行转成采购需求。
+
+### SM-054 | 新仓库意味着进口规模会增加吗？
+
+- 核查：查看用途、启用日期和官方说明，区分自用、第三方物流、整合旧仓或共享仓；面积和镜头观感不能代表库存周转。
+- 行动：询问备货模式与到货计划，讨论包装、托盘和分批配送；不凭照片承诺大客户折扣，也不推算未经确认的年采购量。
+
+### SM-055 | 招募经销商代表适合成为BYFIT伙伴吗？
+
+- 核查：阅读招募条件、品类、区域授权和服务要求，确认其发展下游渠道还是寻找上游品牌；两者的合作角色完全不同。
+- 行动：先判断渠道互补与冲突，再讨论供货或品牌合作；不默认其愿代理BYFIT，也不提前承诺区域独家或营销资源。
+
+### SM-056 | 频繁介绍新品，怎样辨别真实上新？
+
+- 核查：找可订购商品页、发布说明、演示及交付信息，区分概念展示、预售、联名宣传与正式销售；换颜色未必是新品类。
+- 行动：核实路线后讨论补充品类和配套；未确认新品只列观察项，不把宣传频率转换为具体采购周期或首单规模。
+
+### SM-057 | 融资或收购公告能提高采购优先级吗？
+
+- 核查：核对企业与投资方公告、交易阶段和资金用途，区分意向、签约与完成；融资总额不是可用于器材的采购预算。
+- 行动：用已确认扩张用途询问项目和审批节点；仍按采购匹配度排序，不因融资新闻放松信用、付款和合同主体核验。
+
+### SM-058 | 展会发布“寻找合作伙伴”怎样跟进？
+
+- 核查：阅读原帖与活动页，确认伙伴指供应商、经销商、赞助商还是技术方，记录申请入口和时间，不只截取一句口号。
+- 行动：按类型准备一页匹配说明，陈述BYFIT可验证能力与下一步；不相关时不硬凑，也不宣称已被展会或客户认可。
+
+### SM-059 | 预售课程或设备是确定订单信号吗？
+
+- 核查：核对预售条件、成团或生产门槛、退款安排和进度；预售可能只测试兴趣，报名、点赞并不等于实际付费成交。
+- 行动：询问采购是否依赖预售结果，分开讨论样品、试单和量产；不把公开预售数量纳入BYFIT销售预测的已确认订单。
+
+### SM-060 | 关闭门店的帖子意味着没有合作机会吗？
+
+- 核查：区分单店关闭、搬迁、整合和全面停业，查看后续公告及其他门店；闭店可能转移现有设备而非新增采购。
+- 行动：先确认业务状态和资产安排，避免庆祝扩张式开发信；有明确搬迁需求再谈补配，不借未经证实的困境施压。
+
+## 七、产品、渠道与品牌定位
+
+### SM-061 | 某类器材出现最多，能认定是畅销品吗？
+
+- 核查：统计明确窗口的展示比例，核对可售状态、活动主题和销售说明；内容团队偏好与广告预算会影响出现频率。
+- 行动：称为“内容重点”而非“销量第一”；询问主推与实际补货品类，再选择BYFIT目录，避免用曝光量估算采购份额。
+
+### SM-062 | 用户生成内容能证明客户真实交付了吗？
+
+- 核查：确认发布者、原始日期、地点和双方互动，区分使用、借场、赠品与商业合作；标签可能由第三方随意添加。
+- 行动：可信案例作为待复核应用线索，不认定供货数量；引用时避免复制用户照片，必要使用先确认许可与出处。
+
+### SM-063 | 安装现场照片能揭示哪些采购要求？
+
+- 核查：查看说明中明确的场景、空间限制与安装服务，画面仅支持可见细节；不能据图确定等级、尺寸或隐蔽施工要求。
+- 行动：将场景转为通道、基层和搬运条件等问题；正式方案索取图纸与实测，不凭图片承诺适配或计算装柜方案。
+
+### SM-064 | 客户使用自有品牌，是否一定需要OEM？
+
+- 核查：查看铭牌、品牌说明和公开模式，区分自研、授权贴牌、分销与零售组合；自有商标不代表愿更换制造供应商。
+- 行动：先问是否接受外部供货及定制范围，再谈标识、包装和知识产权；BYFIT只承诺已确认能力，不假定能复制现有产品。
+
+### SM-065 | 照片里出现竞品设备，能识别上游工厂吗？
+
+- 核查：只记录可见品牌、型号或明确制造商标识；相似外形、配色、包装和通用模具不足以确认工厂，更不能推断成本。
+- 行动：标注“外观相似但来源未证实”，聚焦功能与服务需求；不模仿专有设计，也不声称掌握客户供应商秘密。
+
+### SM-066 | 公开折扣价能当作目标采购价吗？
+
+- 核查：检查是否含税、运费、会员资格、限时或清仓条件，区分零售、套餐与单品价；历史促销也可能已经失效。
+- 行动：用价格观察定位而非倒推确定采购底价；询问目标到岸成本、渠道毛利和配置，再用相同口径讨论可行方案。
+
+### SM-067 | 怎么区分批发商与终端健身房？
+
+- 核查：结合批发入口、经销条款、客户群、门店运营与商品结构，允许企业兼做零售和场馆；单条批发帖不能代表全部业务。
+- 行动：按本次用途区分转售、自用和渠道配货，询问覆盖与备货方式；不仅凭主页类别套用MOQ或分销条件。
+
+### SM-068 | 帖子展示认证标志，应怎样引用？
+
+- 核查：看完整证书、持证主体、适用产品、有效状态和可验证签发信息；标志图与标准符合性自述不等于认证证据。
+- 行动：区分自述与已验证文件，不扩展到其他型号；介绍BYFIT同样只用内部已确认且适用的材料，不虚构对等证书。
+
+### SM-069 | 经常发布维修培训，说明产品故障多吗？
+
+- 核查：区分保养、安装教学、耗材更换与故障通告，查看面向用户还是服务商；内容多可能反映完善的服务体系。
+- 行动：询问售后流程、备件与培训需求，准备可验证支持方案；没有故障率数据不宣称现有设备不可靠或贬低供应商。
+
+### SM-070 | 博主合作说明客户更重品牌还是价格吗？
+
+- 核查：核对合作标签、目标、品牌声明和持续时间，区分付费、联盟分成、赠样与自发推荐；一次合作不能解释采购价值排序。
+- 行动：把合作当作营销策略线索，询问终端定位与供应标准；可提素材支持，不承诺未经批准的代言、曝光或案例。
+
+## 八、互动、评价与歧义
+
+### SM-071 | 粉丝高但互动少，能认定刷量吗？
+
+- 核查：看样本窗口、内容形式、受众与历史增长解释，考虑投放、分发变化和沉默受众；低互动并不等于虚假。
+- 行动：标注异常及替代解释，不贴刷量标签；优先级依据业务匹配与实际需求，必要时请求媒体包而非猜后台数据。
+
+### SM-072 | 评论区大量询价能证明产品需求强吗？
+
+- 核查：区分重复账号、垃圾信息、终端询问和商业咨询，查看公开回复；评论不含成交与取消情况，不能作为订单计数。
+- 行动：用常见问题识别信息缺口与关注点，设计规格说明；对需求只作方向判断，不把评论数换算成BYFIT潜在销量。
+
+### SM-073 | 平台评分低应直接降低客户等级吗？
+
+- 核查：记录平台、样本数、时间分布、对象和企业回应，区分体验、配送与产品问题；少量极端评价可能无代表性。
+- 行动：有证据的履约问题纳入独立风险项并寻求佐证；消费者差评不自动等于买家信用差，不采用羞辱式开发。
+
+### SM-074 | 评价提到同名员工，能判断工作能力吗？
+
+- 核查：核对评价的门店和时间，避免把常见姓名、昵称或恶意留言认作某职业人士；评价内容通常没有完整上下文。
+- 行动：不建立个人能力或性格档案，只提取企业服务流程问题；若影响交易，由正式负责人解释，不追踪私人账号。
+
+### SM-075 | 客户公开抱怨供应商，怎样不过度推断？
+
+- 核查：确认来自已匹配企业账号，记录具体问题、日期和解决情况；单次延迟不能证明长期不满或已决定换供应商。
+- 行动：中性询问问题是否仍待解决，提供有依据的流程说明；不转述未证实指控，也不保证BYFIT绝不会发生同类问题。
+
+### SM-076 | 评论被删或关闭，说明在掩盖问题吗？
+
+- 核查：记录可见状态、平台规则与企业说明，考虑垃圾评论、活动结束或审核设置；不可见内容无法证明删除动机。
+- 行动：仅写“评论目前不可见或关闭”，不猜被删内容；风险另找正式投诉和回应佐证，不以访问缺失作为负面事实。
+
+### SM-077 | 视频爆红会立即带来补货需求吗？
+
+- 核查：查看可售商品、销售地区和企业后续说明，区分传播与成交；热度未显示现货、转化或取消比例。
+- 行动：询问是否有备货、包装或交付压力，提供分阶段评估；未确认前不催大批备货，也不将热点写成确定采购项目。
+
+### SM-078 | B2B客户互动很少，研究还值得做吗？
+
+- 核查：检查内容是否服务经销商、招标或工程，以及项目更新；B2B受众较窄，公开点赞未必反映商业成交。
+- 行动：重心转向项目、服务范围和渠道资质，不套消费品牌阈值；业务匹配可验证即可通过正式入口简短确认需求。
+
+### SM-079 | 新品意见投票可以推断采购计划吗？
+
+- 核查：记录问题、选项、样本量和截止时间，区分市场测试、互动娱乐与开发调研；投票者未必是实际购买者。
+- 行动：结果作为兴趣方向，询问是否已进开发或寻源阶段；可准备概念讨论，不把投票比例当作规格要求或下单承诺。
+
+### SM-080 | 某门店好评很多，可以代表整个集团吗？
+
+- 核查：核对地点、经营主体和时期，比较其他门店；直营、加盟和新收购店的服务与采购安排可能不同。
+- 行动：结论限制在有证据的门店或项目，集团仅汇总可比较信息；开发总部用具体案例提问，不宣称全部门店需求相同。
+
+## 九、证据获取与报告质量
+
+### SM-081 | 搜索结果摘要可以直接当作证据吗？
+
+- 核查：打开原页确认全文、主体和日期；摘要可能截断、缓存过期或混合片段，搜索显示日期未必是原文发布日期。
+- 行动：优先引用原页，无法访问则标“仅见搜索摘要”；不能用摘要补写细节，也不把其当完整确认或最新状态。
+
+### SM-082 | 遇到登录墙、地区限制或付费内容怎么办？
+
+- 核查：记录网址、访问日期与限制，只用合法授权可见的信息；预览不是完整页面，无法证明隐藏部分含有所需事实。
+- 行动：停止受限部分，改用公开公告或请用户提供有权材料；不绕过权限、付费墙或伪装身份，不猜不可见数据。
+
+### SM-083 | 原帖删除后，还能引用保存的截图吗？
+
+- 核查：检查截图来源、原网址、保存时间和上下文，确认合法取得；截图不能证明当前状态，来源不明图片需要降级。
+- 行动：标注“历史留存、原页目前不可见”，限必要业务信息；重要交易另求证，不传播已删除个人资料或当作当前承诺。
+
+### SM-084 | 怎样保存截图才便于复核？
+
+- 核查：显示账号身份、正文和日期，附原网址、访问时间与上下文；裁图可能遗漏限定条件，需留可核对的完整记录。
+- 行动：只保存支持业务判断的必要片段，遮盖无关个人信息；截图配事实摘录，不将图像当作无需解释来源的结论。
+
+### SM-085 | 只显示“昨天”等相对时间，怎样记录？
+
+- 核查：查看完整时间、页面时区和访问时间；只有相对时间就记录原始显示，不能无依据转换成精确到分钟的事件日期。
+- 行动：使用日期区间或注明“平台显示约某时”；招标截止或交付节点返回正式公告确认，不依赖相对时间推算。
+
+### SM-086 | 怎样给社交证据分级？
+
+- 核查：分别评价实体匹配、原始来源、有效时间和独立佐证，而非只看平台知名度；企业自述仅能证明其公开表达。
+- 行动：区分已核实事实、自述、合理推测和待验证项，列支持材料；弱线索只用于提问，不据此否定信用或作重大承诺。
+
+### SM-087 | 如何严谨写“没有发现扩张计划”？
+
+- 核查：记录已查平台、窗口、关键词与访问缺口；调查仅覆盖公开内容，没有公告不代表没有内部计划或未公开项目。
+- 行动：写“在某窗口已查公开来源未发现明确扩张公告”，不写“没有扩张”；再询问项目安排，不据此停止所有跟进。
+
+### SM-088 | 外语帖子机器翻译含糊，如何处理？
+
+- 核查：保留关键原句、上下文和专名，复核否定、条件、币种与日期；行业术语对照官方产品页，不只依赖一次译文。
+- 行动：注明存疑处并提出澄清，必要时请语言人员复核；不把模糊表达升级成确定采购需求、投诉或授权承诺。
+
+### SM-089 | 官方帖子与新闻矛盾，采用谁的说法？
+
+- 核查：比较日期、事件阶段、主体和更正，确认报道是否转述旧消息；官方也可能是宣传口径，不能自动消除矛盾。
+- 行动：并列冲突及可确认部分，找后续文件或双方公告；解决前降低置信度，不选最有利于销售的版本当事实。
+
+### SM-090 | 社交调查报告怎样支持开发行动？
+
+- 核查：每个关键结论对应来源、日期、事实与推断边界，检查建议是否有证据；账号清单不应和需求结论混为一谈。
+- 行动：给出已确认账号、信号、角色、缺口和一个下一步问题；开发措辞引用准确公开事实，不附与采购无关个人信息。
+
+## 十、仿冒、隐私与调查边界
+
+### SM-091 | 怎样识别疑似冒充客户的账号？
+
+- 核查：比较官网互链、域名拼写、创建更名记录、内容来源和联系方式；复制标志、购买认证或相似用户名不能独证身份。
+- 行动：标疑似而非定罪，用已核实官网独立确认；未确认前暂停发地址、报价底线与文件，必要时走平台正规举报入口。
+
+### SM-092 | 私信要求更改收款账户，怎样处理？
+
+- 核查：核对既有企业渠道、合同主体、银行变更流程和授权文件；即便账号真实，也可能被盗用或由无权者操作。
+- 行动：暂停付款与变更，用已留存正式联系方式独立回拨；不用可疑消息新给的号码，不因紧急催促跳过审批。
+
+### SM-093 | 能找私人家庭账号辅助判断客户吗？
+
+- 核查：确认信息是否与采购职责直接相关；家人、私生活、健康、宗教和其他敏感信息即使公开，也不是合理开发证据。
+- 行动：排除此类信息，不做家庭图或个人弱点画像；仅用必要的公开职业与企业信息，目标限定为业务匹配和合作流程。
+
+### SM-094 | 职业账号与私人内容混在一起怎么办？
+
+- 核查：只摘明确任职、业务文章和企业项目，避免私人动态；公开可见不等于适合永久保存或转用于销售施压。
+- 行动：最少保存角色与来源链接，只引用工作观点；不从兴趣、情绪或家庭活动推断性格、财务状况或议价弱点。
+
+### SM-095 | 可以批量抓取员工与互动者资料吗？
+
+- 核查：确认平台条款、授权、用途与必要性，识别自动化限制和个人数据风险；技术上能抓不等于有权收集再利用。
+- 行动：用合规工具及最少字段，遇限制停止并报缺口；不绕验证码或访问控制，不批量搜集无关互动者作销售名单。
+
+### SM-096 | 调查资料应该保留到什么程度？
+
+- 核查：每个字段都应支持具体判断，核对期限、访问范围和内部规则；完整个人档案或评论名单通常超出必要范围。
+- 行动：优先企业摘要、网址与日期，限访问并按规则清理；客户特定研究仅放授权工作区，不写入公开技能或仓库。
+
+### SM-097 | 对方要求删资料或停止联系怎么办？
+
+- 核查：确认联系人、渠道及资料范围，依适用规则核对处理责任；停止请求不是谈判信号，也不是继续追问的机会。
+- 行动：停止不必要联络，交负责流程处理删除或限制并记执行结果；仅留合规必要的最小抑制记录，避免以后再次误联系。
+
+### SM-098 | 公开信息能用于任何商业开发吗？
+
+- 核查：核对适用的数据保护、电子营销与内部政策，区分通用企业入口和个人职业资料；公开来源不是无限使用许可。
+- 行动：合法、透明、相关地联系，说明身份和来意并提供停止渠道；不确定请合规负责人判断，不自行宣布全部开发已获授权。
+
+### SM-099 | 怎样引用信息而不让客户觉得被过度追踪？
+
+- 核查：选其主动公开的企业项目、发布或专业文章，确认仍有效且与方案相关；无关个人细节即使准确也不进入开场。
+- 行动：一句具体业务观察加一个需求问题，不罗列浏览记录或制造熟人感；说明BYFIT身份，不暗示私交、内部消息或未发生合作。
+
+### SM-100 | 能承诺发现所有隐藏账号与动态吗？
+
+- 核查：确认可见来源、频率、授权和限制，区分公开企业动态与私人受限内容；平台检索始终存在覆盖和时间滞后。
+- 行动：只承诺约定公开范围的检查并说明可能遗漏；未经要求不建长期个人监控，不绕过权限寻找隐藏账号或获取私人动态。

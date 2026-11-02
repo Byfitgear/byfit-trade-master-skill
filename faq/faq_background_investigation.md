@@ -1,281 +1,436 @@
-# FAQ: Background Investigation 客户背景调查
+# FAQ：客户背景调查
 
-> 25 unique FAQ entries organized by sub-categories for BYFIT Trade Master
+本文件是 BYFIT B2B 健身业务核验交易主体的方法库，不代表已核实的买家公司、人员或信用事实。只使用合法公开或明确授权的资料；未知不等于虚假，风险线索不等于欺诈定论。实际调查须核对当前官方来源，保护个人及商业敏感信息，公开仓库不保存具体客户资料。
 
----
+## 目录
 
-## Sub-category: Company Basic Info Verification 公司基本信息核实
+1. [法定主体与身份消歧（BG-001—010）](#一法定主体与身份消歧)
+2. [所有权与公司关系（BG-011—020）](#二所有权与公司关系)
+3. [地址、网站与数字身份（BG-021—030）](#三地址网站与数字身份)
+4. [联系人与采购主体（BG-031—040）](#四联系人与采购主体)
+5. [文件真实性与冒充风险（BG-041—050）](#五文件真实性与冒充风险)
+6. [财务与公开信用证据（BG-051—060）](#六财务与公开信用证据)
+7. [收付款身份与账户欺诈（BG-061—070）](#七收付款身份与账户欺诈)
+8. [贸易记录与交易履历（BG-071—080）](#八贸易记录与交易履历)
+9. [声誉、资格与不利记录（BG-081—090）](#九声誉资格与不利记录)
+10. [证据管理与调查边界（BG-091—100）](#十证据管理与调查边界)
 
-### Q: "How do I verify if a company that sent me an inquiry actually exists?"
-**中文**: 如何核实发询盘的公司是否真实存在？
-- **场景**: 收到询盘但公司名搜索结果很少，担心是诈骗或虚假询盘
-- **根因**: 虚假询盘浪费报价时间和商业机密，可能窃取定价信息
-- **调查信号**: 公司名与邮箱域名不一致、网站刚建不到1年、无社交媒体痕迹
-- **回复策略**: 三重验证：注册信息+网站域名+社交存在
-- **回复模板**:
-  > Before sharing detailed pricing, we verify inquiries through three checks: [1] company registration lookup on [country]'s official registry (e.g., [registry URL]), [2] WHOIS check on their email domain — domains registered less than [X] months are flagged, and [3] LinkedIn/Facebook presence — a legitimate business typically has [Y]+ employee profiles. For your inquiry about BYFIT rubber flooring, we'd appreciate if you could share your company registration number so we can verify and prioritize your request.
-- **CTA**: 使用BYFIT客户三重验证清单，快速筛查虚假询盘
+## 一、法定主体与身份消歧
 
-### Q: "The company name on the inquiry doesn't match their website. Should I be concerned?"
-**中文**: 询盘上的公司名与网站不一致，需要担心吗？
-- **场景**: 询盘签名档的公司名与网站品牌名不同
-- **根因**: 可能是正常情况（母公司/子公司/DBA），也可能是冒充
-- **调查信号**: 邮箱域名与网站域名完全不同、Google搜索公司名无结果
-- **回复策略**: 区分母子公司关系与冒充，查注册文件验证
-- **回复模板**:
-  > A name mismatch isn't always a red flag — many companies operate under a trading name different from their registered name (e.g., [Registered Name] trading as [Brand Name]). We verify by: [1] checking if both names appear on their company registration, [2] confirming the email domain matches either the registered or trading name, and [3] searching for the relationship on their "About Us" page. Could you clarify if [Inquiry Company] is a subsidiary or trading name of [Website Company]? This helps us serve you better with BYFIT gym equipment information.
-- **CTA**: 获取BYFIT公司名不匹配处理流程图
+### BG-001 | 只知道公司名，怎样确认对方确有法定主体？
+- 核查：先确认注册司法辖区及完整法定名，在对应官方登记机构查注册号、状态和地址；搜索引擎结果或官网自述只能提供线索，不能代替登记记录。
+- 行动：请对方补充注册号和拟签约主体，记录查询日期及原始来源；未找到时写“尚未核实”，不要直接判定不存在，也不将品牌页面当成立证明。
 
-### Q: "How do I find out when a company was founded and if they're financially stable enough to pay?"
-**中文**: 如何查明一家公司的成立时间和财务稳定性？
-- **场景**: 大额订单来自成立不到1年的公司，担心付款风险
-- **根因**: 新公司可能资金链不稳定，大额订单可能是试探或欺诈
-- **调查信号**: 公司成立不满2年、要求O/A 60天以上付款、无过往采购记录
-- **回复策略**: 查注册年限+年报+信用评级，新公司要求预付款
-- **回复模板**:
-  > For new or recently established companies, we assess payment reliability through: [1] company registry showing incorporation date and filed accounts (available via [registry service] for [country]), [2] credit rating from [D&B/Experian] — we look for a score above [X], and [3] trade references from other Chinese suppliers. For BYFIT pilates equipment orders exceeding $[Y], we require [Z]% advance payment for companies under [2] years old. We're happy to revisit terms after building a transaction history together.
-- **CTA**: 索取BYFIT新客户付款风险评估表
+### BG-002 | 英文名、当地语言名和缩写不一致，怎样避免查错公司？
+- 核查：对照原文法定名、注册号、企业类型后缀及地址，检查音译、缩写或机器翻译是否把不同主体合并；名称相近不代表同一家公司。
+- 行动：以官方注册号和司法辖区作为主键，保存可验证别名；请对方确认文件应使用的原文法定名，不自行替换或规范化合同主体。
 
-### Q: "A company claims to have 200 employees but their office photo shows a small space. How do I verify their real scale?"
-**中文**: 公司声称有200名员工但办公室照片显示空间很小，如何核实真实规模？
-- **场景**: 客户夸大公司规模以获取更好价格，需判断真实采购力
-- **根因**: 虚报规模是为获取大客户折扣，实际采购量可能远小于声称
-- **调查信号**: 员工数与LinkedIn员工数差异大、网站图片疑似图库照片
-- **回复策略**: 交叉验证LinkedIn员工数+谷歌街景+注册信息
-- **回复模板**:
-  > We cross-verify company scale using: [1] LinkedIn employee count (typically 70-90% of actual for companies that actively use LinkedIn), [2] Google Street View of their registered address — a 200-person company needs at least [X] sqm of office/warehouse space, and [3] annual revenue declared in registry filings. For BYFIT gym rubber flooring quotes, we tier our pricing based on verified annual purchase volume rather than claimed employee count. Could you share your projected annual volume so we can offer the most competitive tier?
-- **CTA**: 使用BYFIT客户规模交叉验证工具包
+### BG-003 | 网站品牌名与注册公司名不同，如何验证真实关联？
+- 核查：查官网法律声明、销售条款、发票主体和可得的商号或商标记录，区分品牌经营、商标许可和单纯经销；品牌出现不证明其拥有品牌。
+- 行动：要求说明品牌与拟交易主体的关系并提供可核对依据，把品牌和法律主体分别记录；关系未清楚前不把品牌历史和信用全部归给询盘公司。
 
-### Q: "How do I know if a company is a real buyer or just a broker collecting prices?"
-**中文**: 如何判断对方是真实买家还是收集价格的中间商？
-- **场景**: 询盘问题过于宽泛、不要样品只要价格表，疑似为同行或中间商比价
-- **根因**: 中间商比价会泄露定价策略给竞争对手，浪费时间但不创造订单
-- **调查信号**: 询盘无具体产品要求、索要全价格目录、拒绝视频通话
-- **回复策略**: 用具体需求问题过滤——真实买家能回答技术问题
-- **回复模板**:
-  > To distinguish genuine buyers from price collectors, we ask three qualifying questions: [1] "What specific product specs are you looking for?" (real buyers know their specs), [2] "What's your current supplier's lead time?" (real buyers have a reference point), and [3] "Can we schedule a 10-minute video call to discuss your project?" (real buyers engage). For BYFIT rubber flooring inquiries, we share pricing only after this qualification. We're happy to discuss your specific project requirements — when would be a good time for a call?
-- **CTA**: 使用BYFIT买家真实性三问过滤法
+### BG-004 | 登记状态显示“有效”或“活跃”，是否就能放心交易？
+- 核查：阅读登记机构对状态字段的当前定义，确认该状态是否仅说明未注销，另查申报、限制或经营资格；存续状态不能证明持续营业或偿付能力。
+- 行动：将“主体存在”“实际经营”“有权签约”“信用可接受”分开核验；报告准确转述状态，不把登记活跃写成经营健康或零风险结论。
 
----
+### BG-005 | 官网称经营多年，但注册时间很新，如何解释？
+- 核查：分别追查品牌创立、前身业务、当前主体成立和业务转让日期，查证是否存在更名、重组或新设子公司；年限不一致可能有正常商业原因。
+- 行动：要求提供前后主体关系的可验证说明，分别写品牌年限与当前法律主体年限；没有连续性证据时，不沿用旧业务的资历、资产或交易信用。
 
-## Sub-category: Website Deep Analysis 网站深度分析
+### BG-006 | 对方自称分公司，如何判断谁能签合同和承担债务？
+- 核查：查询其当地登记形态，核实是分支机构、独立子公司还是销售办公室，确认注册资料中主公司的对应关系；名称含“分公司”不足以判断法律地位。
+- 行动：请其明确合同、开票及责任主体，必要时由合格当地专业方确认权限与责任；主体未清楚前不自行把总部填入文件或假定总部担保。
 
-### Q: "What should I look for on a potential client's website to judge their quality as a customer?"
-**中文**: 在潜在客户网站上应该看什么来判断客户质量？
-- **场景**: 客户发了询盘，需要快速评估是否值得投入时间跟进
-- **根因**: 网站是公司投入和定位的镜像，投入大的公司更可能是优质客户
-- **调查信号**: 网站专业度与询盘质量正相关
-- **回复策略**: 六维网站评分：设计/内容/产品线/品牌/联系/移动端
-- **回复模板**:
-  > We score prospect websites on six dimensions: [1] Design quality — professional design indicates marketing investment, [2] Content depth — detailed product pages suggest real inventory vs. dropshipping, [3] Product line breadth — a wide range means larger purchasing needs, [4] Brand consistency — own-branded products signal higher margins, [5] Contact page — multiple channels and physical address indicate legitimacy, [6] Mobile experience — companies investing in UX tend to be more established. For BYFIT gym equipment prospects, a score of [X]/6 or above qualifies for premium service.
-- **CTA**: 下载BYFIT网站六维评分卡
+### BG-007 | 跨国集团的当地公司与全球官网，怎样准确对应？
+- 核查：通过集团官方实体清单、当地登记和法律声明比对注册号、地址及持股关系，留意同一品牌在当地可能由授权经营者而非集团子公司运营。
+- 行动：建立“全球品牌—当地法律主体—拟交易主体”的对应链，未证实的连线标未知；背景报告只引用属于当前主体的事实，不借集团规模替代本地核查。
 
-### Q: "The client's website shows their own brand on products that look identical to a Chinese factory's catalog. What does this mean?"
-**中文**: 客户网站上的自有品牌产品看起来和中国工厂目录一模一样，这说明什么？
-- **场景**: 发现客户可能已经在从中国OEM，且可能已有供应商
-- **根因**: 既有供应商意味着你不是唯一选择，需要找到切换供应商的痛点
-- **调查信号**: 产品图片有中国工厂背景、包装上有OEM痕迹、产品型号与某工厂一致
-- **回复策略**: 这是有OEM经验的优质客户，重点挖掘现有供应商的不足
-- **回复模板**:
-  > Seeing OEM-sourced products on their website is actually positive — it means they already understand the import process, have established logistics, and have recurring purchasing needs. For BYFIT rubber flooring, we'd approach by acknowledging their existing supply chain: "We noticed your [product line] includes rubber flooring — we specialize in this category and may offer advantages in [quality consistency / faster lead times / better certification coverage]. Would you be open to a comparison sample?"
-- **CTA**: 获取BYFIT OEM客户转化策略模板
+### BG-008 | 公司更名后，怎样确认历史记录确属当前主体？
+- 核查：查看官方更名沿革、注册号连续性和生效日期，分辨原主体更名、资产出售以及新公司接用旧名称；相同名称可能在不同时期被不同主体使用。
+- 行动：以连续注册号串联可归属历史，记录每段有效名称和日期；不能确认连续性时分开归档，不把旧公司的订单、纠纷或资质自动转给新公司。
 
-### Q: "Their 'About Us' page is vague with no specific founding date, team photos, or history. Is this a red flag?"
-**中文**: "关于我们"页面模糊，没有具体成立日期、团队照片或历史，这是危险信号吗？
-- **场景**: 客户网站缺乏公司背景信息，难以判断公司规模和信誉
-- **根因**: 要么是刻意隐藏信息（中间商），要么是公司不重视品牌建设（小客户）
-- **调查信号**: About Us只有一段泛泛描述、无团队照片、无公司地址
-- **回复策略**: 不直接否定，但提高风险防控等级并要求更多验证
-- **回复模板**:
-  > A vague "About Us" page could mean: [1] they're a small broker preferring anonymity, [2] they're a startup that hasn't invested in branding, or [3] they're deliberately obscuring their identity. For BYFIT gym equipment inquiries from such companies, we proceed with a two-step approach: share only catalog-level information initially, and require [X]% advance payment with no credit terms until we've established a transaction history. We'd love to learn more about your business — could you share your company profile or registration details?
-- **CTA**: 使用BYFIT低信息客户风控SOP
+### BG-009 | 公司被标为休眠、注销或撤销，下一步应核实什么？
+- 核查：查官方状态说明、状态变更日期及是否有恢复、清算或限制记录，确认资料是否及时更新；不同地区术语及法律后果不能凭字面一概判断。
+- 行动：暂停依赖该主体的新承诺，请对方解释实际经营与拟签约安排，必要时请合格专业方复核；未确认前不认定可签约，也不替对方换成其他主体。
 
-### Q: "How do I tell if a company's product range suggests they're a serious buyer or a general trader?"
-**中文**: 如何从产品线判断客户是专业买家还是综合贸易商？
-- **场景**: 客户网站产品品类跨越多个不相关行业
-- **根因**: 综合贸易商采购不稳定、价格敏感、忠诚度低；专业买家有持续需求
-- **调查信号**: 网站同时卖健身器材、电子产品、家居用品；产品描述深度参差不齐
-- **回复策略**: 分析产品线聚焦度——品类越聚焦越可能是专业买家
-- **回复模板**:
-  > We evaluate buyer seriousness by product focus: [1] Focused buyers (80%+ of products in one category, e.g., fitness equipment only) — they have deep category knowledge, value quality, and have stable demand. [2] Diversified traders (products across 5+ unrelated categories) — they're price-driven and switch suppliers frequently. For BYFIT pilates equipment, we prioritize focused buyers with [A] priority and offer traders standard terms only. Your product range on [website] appears focused on [category] — that's our specialty too.
-- **CTA**: 使用BYFIT客户聚焦度评分工具
+### BG-010 | 个体经营者、协会或合作组织没有普通公司登记，怎么办？
+- 核查：先核实其法律形态及当地适用登记渠道，查可公开的经营许可、组织登记或税务验证途径；不能因查不到公司注册号就推断对方是假公司。
+- 行动：要求提供与其形态匹配的主体证明和签约授权，只收集必要资料；若合法可核查资料有限，明确缺口并按具体交易风险决定是否继续核验。
 
----
+## 二、所有权与公司关系
 
-## Sub-category: Supply Chain Role Determination 供应链角色判定
+### BG-011 | 登记股东与最终控制者有什么区别，怎样核查？
+- 核查：从当前官方股东资料逐层追查，区分直接持股、最终受益关系与实际控制权，注明持股日期和可得范围；不能只凭同姓或公开合照推断控制关系。
+- 行动：画出有证据的持股链，终点无法查证就标未知；不要把中间控股公司当自然人所有者，也不将推测的控制关系写成已验证事实。
 
-### Q: "How do I determine if my contact is an end-user, distributor, or trader?"
-**中文**: 如何判断联系人终端用户、经销商还是贸易商？
-- **场景**: 不清楚对方在供应链中的角色，无法制定针对性报价和条件
-- **根因**: 不同角色的需求、价格敏感度和决策速度完全不同
-- **调查信号**: 询盘中自我描述含糊、不提及终端客户、价格谈判方式不同
-- **回复策略**: 四问定位法：卖给谁/加价多少/有无仓库/是否做售后
-- **回复模板**:
-  > We determine supply chain role through four questions: [1] "Do you sell to gyms directly or through retailers?" (end-user vs. distributor), [2] "Do you maintain inventory or order per project?" (stocking distributor vs. trader), [3] "Do you provide installation and after-sales service?" (full-service distributor vs. trader), [4] "Do you rebrand products under your own name?" (OEM buyer vs. wholesale buyer). For BYFIT rubber flooring, we tailor pricing and support: full-service distributors get volume tiers, traders get standard pricing.
-- **CTA**: 下载BYFIT供应链角色四问定位卡
+### BG-012 | 交叉持股和多层控股让关系复杂，怎样避免错误归属？
+- 核查：逐条核对各实体注册号、持股比例、表决安排及资料时点，区分持股回路与真正控制链；重复出现同一公司不应重复累计权益。
+- 行动：按单条可验证关系建立图谱，复杂权益计算由合格专业方确认；调查只报告能证明的层级与限制，不用简单相加得出“百分之百控制”。
 
-### Q: "A company claims to be a distributor but they have no warehouse and no inventory. What are they really?"
-**中文**: 公司声称是经销商但没有仓库没有库存，他们到底是什么角色？
-- **场景**: 所谓的"经销商"实际上可能是贸易中间商或经纪人
-- **根因**: 角色误判导致给予了经销商级别的价格和支持，但对方无推广能力
-- **调查信号**: 无法提供仓库地址、要求drop shipping、无本地库存照片
-- **回复策略**: 重新定位为贸易商并调整条件——价格折扣减少但服务承诺也减少
-- **回复模板**:
-  > A "distributor" without warehouse or inventory is likely operating as a trader or broker — they connect buyers with suppliers but don't add value through stocking, logistics, or after-sales. For BYFIT gym equipment, we adjust our approach: traders receive standard pricing (no distributor discount) but also aren't expected to meet minimum annual volumes. We're transparent about this: "Our distributor program requires warehousing capability. However, we can offer you our trader pricing with flexible MOQ — would that work for your business model?"
-- **CTA**: 索取BYFIT角色-条件对照表
+### BG-013 | 董事、高管和股东分别能证明什么？
+- 核查：对照官方董事记录、股权资料与公司正式任命公告，注意职位生效及卸任时间；担任经理不等于拥有公司，股东身份也不必然具有日常签约权。
+- 行动：分别记录所有权、经营职务和授权权限，不互相替代；需要商业签署时另查具体授权，避免因头衔高就跳过拟签约主体与权限核验。
 
-### Q: "How do I identify if a retailer is also importing directly, bypassing local distributors?"
-**中文**: 如何识别零售商是否也在直接进口，绕过当地经销商？
-- **场景**: 零售客户可能既有当地供应商也直接从中国进口，需要了解其采购结构
-- **根因**: 直接进口的客户更了解真实成本，但也更可能成为稳定的大客户
-- **调查信号**: 客户同时持有进口资质、网站有独家品牌、海关数据有其进口记录
-- **回复策略**: 直接进口商是最优客户类型——给最优价但绑定量
-- **回复模板**:
-  > Retailers who import directly are our best customer profile — they understand FOB/CIF terms, have established logistics, and have higher margins to absorb pricing. We identify them by: [1] checking customs records for their company name as consignee, [2] verifying if their website shows EXW/FOB pricing knowledge, and [3] asking directly about their import experience. For BYFIT pilates equipment, direct-import retailers qualify for our [X]% volume discount with a minimum annual commitment of $[Y]. Are you currently importing directly from manufacturers?
-- **CTA**: 获取BYFIT直采客户专属方案
+### BG-014 | 买家是大集团子公司，能否直接使用集团信用？
+- 核查：确认持股关系、独立财务披露、实际承担合同的主体及是否存在可验证的担保安排；合并报表和集团标识本身不证明母公司会偿付子公司债务。
+- 行动：针对拟交易子公司独立核验信用，担保条件由授权人员和合格专业方审查；没有明确依据时不把集团资产写成买家的可支配偿债资源。
 
-### Q: "The buyer says they're the 'exclusive distributor' for my competitor in their country. Should I still pursue them?"
-**中文**: 买家说他们是竞争对手在该国的独家经销商，我还应该追吗？
-- **场景**: 高质量客户已被竞品绑定，需要评估撬动的可能性
-- **根因**: 独家经销不一定不可破——可能对现有供应商有不满或合同即将到期
-- **调查信号**: 客户仍在了解市场、对现有供应商有微词、合同可能续签期临近
-- **回复策略**: 探测合同到期日和不满点，作为备选供应商等待窗口
-- **回复模板**:
-  > An exclusive distributor for a competitor isn't necessarily a closed door — many have pain points with their current supplier: [1] quality inconsistencies, [2] slow response to warranty claims, or [3] lack of new product development. For BYFIT rubber flooring, we'd position as: "We respect your current partnership. Many distributors appreciate having a backup supplier, especially for [specific advantage: faster delivery / broader range / better certification]. We'd welcome the chance to send comparison samples — no commitment required."
-- **CTA**: 使用BYFIT竞品独家经销商撬动话术库
+### BG-015 | 两家公司同属一个老板，能否视为同一交易账户？
+- 核查：分别查注册号、资产归属、合同主体、收付款安排及相互授权，分辨姐妹公司和同一主体的商号；共同股东不代表债务、额度或账户可互换。
+- 行动：按法律主体分别维护核验记录，任何开票、付款或订单转移都说明原因并经授权确认；不因“都是一家人”而默默合并责任与信用判断。
 
----
+### BG-016 | 老公司业务转到新公司，如何判断哪些历史可以继承？
+- 核查：核对业务出售、资产转让、合并或其他公开文件，区分客户名单、员工、品牌和债务是否一并转移；人员延续不能单独证明法律责任连续。
+- 行动：将已证实承接的业务事实与仍属旧主体的债务记录分开，要求说明当前履约资源；缺乏转让依据时以新主体重新核验，不沿用旧信用结论。
 
-## Sub-category: Parent Company Tracing 母公司追溯
+### BG-017 | 最终受益所有人信息不公开，是否一定是风险公司？
+- 核查：了解当地公开范围、隐私保护与合法付费查询途径，确认是本来不公开、资料缺漏还是明确拒绝必要解释；缺失本身不能证明隐瞒或违法。
+- 行动：记录无法验证的层级，按交易所需请求合适的所有权声明或授权证明；不绕过访问限制、不购买来源不明个人资料，也不把未知改写成不良事实。
 
-### Q: "How do I find the parent company behind a small brand that's inquiring about my products?"
-**中文**: 如何找到询盘小品牌背后的母公司？
-- **场景**: 小品牌询盘但可能有大母公司支撑，识别后可获得更大订单
-- **根因**: 小品牌可能是大集团的子公司，母公司才是真正的决策者
-- **调查信号**: 品牌名在注册信息中是DBA、网站有其他品牌链接、地址与知名公司相同
-- **回复策略**: 三条追踪路径：注册信息→共享地址→商标持有人
-- **回复模板**:
-  > To trace parent companies, we use three paths: [1] Company registry — look for "parent company" or "owned by" in filing documents, [2] shared address — if [Brand A] and [Brand B] share the same registered address, they're likely under the same parent, [3] trademark database — the trademark owner is often the parent company. For BYFIT gym equipment inquiries, discovering a parent company changes our approach — we may need to pitch to the group purchasing team rather than the subsidiary. Could you share your corporate group structure so we can align our offering?
-- **CTA**: 使用BYFIT母公司三路径追溯法
+### BG-018 | 对方自称上市公司或国有企业，怎样核实其真正身份？
+- 核查：在对应交易所、监管机构或公开持股资料查准确发行主体、证券代码及控股关系，区分上市母公司、关联公司、供应商与品牌合作方。
+- 行动：将当前交易主体与官方记录逐一对应，核对关联依据；上市或国有属性不等于付款担保，不因此跳过财务、授权和具体合同责任核验。
 
-### Q: "The brand website has no company info but the LinkedIn page shows they're part of a large group. How do I use this?"
-**中文**: 品牌网站没有公司信息但LinkedIn显示他们属于大集团，如何利用这个发现？
-- **场景**: 发现客户背后有大集团，可尝试从集团层面建立更大合作
-- **根因**: 集团采购通常有统一标准和更大预算，子品牌可能只是冰山一角
-- **调查信号**: LinkedIn员工显示同时关联多个品牌、集团官网列出该品牌
-- **回复策略**: 从子品牌切入建立信任，再升级到集团层面合作
-- **回复模板**:
-  > When we discover a prospect is part of a larger group (e.g., [Brand] under [Group] with [N] subsidiaries), we use a two-step approach: [1] Serve the initial inquiry from the subsidiary professionally to build trust and deliver value, [2] After [X] successful orders, introduce our group-level capabilities: "We've been supplying [Brand] with BYFIT rubber flooring and would love to explore how we can support the entire [Group] across your [Y] locations." This approach has converted [Z]% of subsidiary clients into group-wide partnerships.
-- **CTA**: 获取BYFIT子公司到集团升级策略模板
+### BG-019 | 谁有权代表公司签订采购合同，应看哪些证据？
+- 核查：核对登记代表、章程可公开信息、正式授权文件及授权有效期和金额范围，确认授权人自身具备相应权限；职位名称和邮件签名不能单独证明权限。
+- 行动：通过独立取得的公司正式渠道验证授权，记录适用交易范围；权限不清时请求有权人员确认，不自行认定任何采购联系人都能绑定公司。
 
-### Q: "I found the parent company but it's in a different country than the inquiring subsidiary. Who makes purchasing decisions?"
-**中文**: 找到母公司但与询盘子公司在不同国家，谁做采购决策？
-- **场景**: 跨国集团的采购决策权可能在总部而非当地子公司
-- **根因**: 决策权位置决定了谈判对象和策略，找错人等于浪费时间
-- **调查信号**: 子公司说"we need to check with headquarters"、采购合同由他国签署
-- **回复策略**: 先问清采购权归属，再决定谈判层级
-- **回复模板**:
-  > For multinational groups, purchasing authority varies: [1] centralized — HQ in [country] makes all purchasing decisions (common in franchise models), [2] regional — each region has autonomy up to $[X], [3] decentralized — each subsidiary independently sources. For BYFIT pilates equipment, we ask early: "To serve you best, could you clarify if purchasing decisions for fitness equipment are made locally or through your group's central procurement?" This helps us engage the right decision-maker from the start.
-- **CTA**: 下载BYFIT跨国集团采购权判定SOP
+### BG-020 | 收购新闻发布后，旧的背景调查需要更新什么？
+- 核查：确认交易只是宣布、已获批准还是已完成交割，查主体是否改名、控制权是否变化，以及原合同、银行信息与采购流程是否仍有效。
+- 行动：按完成日期更新所有权与授权链，重新核对重大交易文件；不要在仅有收购意向时提前替换主体，也不因股东变化推断全部历史义务已消失。
 
----
+## 三、地址、网站与数字身份
 
-## Sub-category: Credit & Financial Assessment 信用与财务评估
+### BG-021 | 注册地址、办公室和仓库不同，应该核实哪一个？
+- 核查：分别查官方注册地址、公司公布办公地址和实际交付仓库，确认各地点的用途、运营主体及更新时间；注册地址不必然是可收货或可拜访地点。
+- 行动：将三个地址按用途记录，并就合同通知、实地访问或交货分别确认；出现差异先求证合理解释，不把地址不一致自动视为冒充。
 
-### Q: "How do I check a foreign company's credit rating without paying for an expensive report?"
-**中文**: 如何在不购买昂贵报告的情况下查询外国公司的信用评级？
-- **场景**: 小客户不值得花几百美元买信用报告，但又需要基本的风控判断
-- **根因**: 信用风险是外贸最大风险之一，但专业报告成本对小客户不经济
-- **调查信号**: 客户要求账期、订单金额超过舒适区、无历史交易记录
-- **回复策略**: 用免费/低成本信息源做基础筛查，付费报告只用于大客户
-- **回复模板**:
-  > For initial credit screening without paid reports, we use free sources: [1] [Country]'s company registry — check if annual filings are up to date (overdue filings = red flag), [2] Google "[company name] + lawsuit/bankruptcy/insolvency", [3] credit signal check — do they pay exhibitor fees at trade shows? (a company that can afford booth space at [trade show] is likely cash-flow positive). For BYFIT gym equipment orders under $[X], this free screening is sufficient. For orders above $[X], we invest in a D&B report costing $[Y].
-- **CTA**: 获取BYFIT免费信用筛查清单
+### BG-022 | 公司使用共享办公室或虚拟注册地址，是否不可信？
+- 核查：查看当地登记安排、实际业务模式、可验证的运营资源和履约地点，区分合法行政地址与完全无法确认经营活动；租用地址不说明公司资产规模。
+- 行动：将地址性质作为进一步核实的起点，补查真实联系人、业务和交易主体；不凭办公场所大小评定信用，也不要求与交易无关的私人住址。
 
-### Q: "A client with good credit history suddenly asks for extended payment terms. What should I check?"
-**中文**: 信用记录良好的客户突然要求延长付款期限，该查什么？
-- **场景**: 老客户突然要更长账期，可能是经营状况恶化
-- **根因**: 账期延长请求往往早于现金流危机3-6个月出现，是早期预警
-- **调查信号**: 订单频率降低但单次金额增大、付款开始延迟几天、行业不景气
-- **回复策略**: 温和调查——查最新财务动态+行业趋势+付款记录变化
-- **回复模板**:
-  > A sudden request for extended terms from a previously prompt payer triggers our early warning protocol: [1] Check if their industry is facing a downturn (e.g., gym closures in their region), [2] Review their recent payment pattern — are they paying [X] days later than usual over the past [Y] months?, [3] Search for recent news about the company. For BYFIT rubber flooring orders, our policy is: we can extend terms by [Z] days as a one-time courtesy while we "review our internal credit policy" — this buys time to assess without damaging the relationship.
-- **CTA**: 使用BYFIT账期变更预警处理流程
+### BG-023 | 地图显示店面关门，怎样确认是不是已经停业？
+- 核查：检查街景拍摄日期、地图更新来源、公司近期正式通知及官方登记变化，分辨搬迁、装修、门店关闭与整个企业停止经营。
+- 行动：通过独立核实的公司渠道确认当前运营与收货地点，必要时请求有日期的现场证据；保留地图只是旧时点线索，不把其状态当最终事实。
 
-### Q: "How do I assess financial risk when a client is in a country with currency instability?"
-**中文**: 客户所在国家货币不稳定，如何评估财务风险？
-- **场景**: 新兴市场客户货币贬值快，今天谈好的价格明天可能因汇率亏损
-- **根因**: 汇率风险可能让看似赚钱的订单变成亏损
-- **调查信号**: 客户货币过去6个月贬值超过10%、要求用本币结算
-- **回复策略**: 锁定美元结算+缩短报价有效期+预付款比例提升
-- **回复模板**:
-  > For clients in currency-volatile markets (e.g., [country] with [X]% depreciation over 6 months), we implement three safeguards: [1] All BYFIT pilates equipment quotes are in USD with a [7]-day validity period, [2] advance payment increases from our standard 30% to [50]%, and [3] we accept payment via [platform] that locks in the exchange rate at the time of payment. We understand the currency situation in your market — these terms help us maintain stable pricing for you.
-- **CTA**: 索取BYFIT汇率风险防控三件套
+### BG-024 | 怎样确认买家提供的网址确实属于目标公司？
+- 核查：对照官方登记可得网址、企业正式文件中的域名、官网法律声明和公开联系方式，核实网页对应的法定主体；搜索结果排第一不保证官方身份。
+- 行动：建立域名与注册号的证据链，重要核验使用独立找到的渠道；无法证明归属时注明“对方提供、未独立确认”，不从网页美观程度推断真实可靠。
 
----
+### BG-025 | 公司名正确但域名多一个字母，怎样处理仿冒风险？
+- 核查：逐字符比对域名、邮箱回复地址和官网已确认地址，留意相似字符、子域名与重定向；显示名称和邮件头像不能证明发送来源。
+- 行动：暂停敏感资料与付款相关操作，用原已验证电话或正式网站独立确认联系人；不要回复可疑邮件来“证明自己”，也不要自行点击其登录或验证链接。
 
-## Sub-category: Company Registry Lookup 公司注册查询
+### BG-026 | 网站域名刚注册，但公司经营很久，应怎样解释？
+- 核查：对照公司成立资料、旧域名、品牌改名或网站迁移公告，确认注册日期反映的是域名而非公司年龄；新域名是核验线索，不是欺诈结论。
+- 行动：请对方说明数字身份变更并提供可独立核实关联，重点确认当前通信与交易主体；无法串联历史时保留缺口，不把旧网站声誉直接继承。
 
-### Q: "How do I look up a UK company's registration details for free?"
-**中文**: 如何免费查询英国公司的注册信息？
-- **场景**: 需要核实英国客户的注册信息和财务状况
-- **根因**: 英国Companies House提供免费公开信息，但很多人不知道如何使用
-- **调查信号**: 客户来自英国、需要验证其真实性
-- **回复策略**: 用Companies House查询注册号、年报和董事信息
-- **回复模板**:
-  > For UK companies, Companies House (find-and-update.company-information.service.gov.uk) provides free access to: [1] incorporation date and company status (active/dissolved), [2] filed annual accounts showing turnover and net assets, [3] director details and any filed charges (liens). For BYFIT gym equipment inquiries from UK companies, we verify the company number from their website or email signature and check: annual turnover (should be above £[X] to justify our MOQ), and filing compliance (overdue accounts = warning sign). Your company number [provided in signature] checks out — we're proceeding with your quote.
-- **CTA**: 获取BYFIT各国注册查询网址大全
+### BG-027 | 域名登记信息隐藏了持有人，是否说明是假网站？
+- 核查：查看登记服务对隐私代理和公开字段的说明，确认可用的注册日期、注册商及状态；隐私保护可能是正常安排，不能据此识别实际所有者。
+- 行动：转向官方法律声明、登记记录和独立企业渠道建立归属证据；不尝试绕过保护获取私人资料，无法确认时准确写明归属尚未核实。
 
-### Q: "Where can I check a US company's legitimacy and filing status?"
-**中文**: 在哪里可以查询美国公司的合法性和报备状态？
-- **场景**: 美国各州注册体系不同，不知去哪里查
-- **根因**: 美国没有联邦级公司查询，需按州查Secretary of State
-- **调查信号**: 客户来自美国但无州注册信息、公司名与注册州不一致
-- **回复策略**: 先确认注册州，再查对应Secretary of State网站
-- **回复模板**:
-  > US company verification requires knowing the state of incorporation: [1] Check the client's website footer or Terms & Conditions for "incorporated in [State]", [2] Search that state's Secretary of State business entity database (e.g., [state URL]), [3] For free basic info: status, filing date, registered agent. For detailed financials, use OpenCorporates.com. For BYFIT rubber flooring quotes to US companies, we verify the state registration before shipping — this has prevented [X]% of potential bad-debt situations.
-- **CTA**: 下载BYFIT美国50州公司查询入口表
+### BG-028 | 官网照片疑似图库图片，如何判断业务真实性？
+- 核查：通过合法公开检索比对图片出处、出现时间和使用情境，区分示意图、品牌授权图和被冒用的现场图；相同图片不能证明公司全部业务虚假。
+- 行动：对其声称的仓库、展厅或项目请求可验证的补充证明，并确认图片所代表的具体事实；报告只指出图片不能支持哪项主张，不扩大成诈骗定论。
 
-### Q: "How do I verify companies from countries without English-language registries?"
-**中文**: 如何核实没有英语注册系统的国家的公司？
-- **场景**: 客户来自非英语国家，政府网站只有当地语言
-- **根因**: 语言障碍导致无法直接查询，需要替代方案
-- **调查信号**: 客户来自中东/拉美/东南亚小国、Google搜索无英语结果
-- **回复策略**: 用OpenCorporates+当地商会+大使馆商务处三渠道
-- **回复模板**:
-  > For non-English registries, we use three alternatives: [1] OpenCorporates.com — aggregates data from [X]+ jurisdictions with English translations, [2] Local chamber of commerce — many offer company verification services for a nominal fee, [3] China's embassy commercial office in [country] can verify local companies for Chinese exporters. For BYFIT pilates equipment inquiries from [country], we combine these sources and always require [Y]% advance payment until the relationship is established.
-- **CTA**: 索取BYFIT非英语国家验证渠道汇总
+### BG-029 | 官网写“制造商”，如何判断是否其实为贸易商？
+- 核查：查看可核对的生产地址、登记业务、公开许可与实际生产主体关系，区分自有制造、委外、集团工厂和纯分销；产品目录不能证明工厂所有权。
+- 行动：准确记录其商业角色及已证实的资源关系，必要时询问谁实际生产和承担交付；不贬低贸易身份，也不把“制造商”自述直接当已核实事实。
 
----
+### BG-030 | 网站突然无法打开，背景调查还能继续吗？
+- 核查：核对是否为临时技术故障、区域访问问题、域名变更或停止运营，并查官方登记及独立已验证联系方式；访问失败不证明主体不存在。
+- 行动：采用合法可访问的官方及公开资料继续核验，标明网页不可用和取得时间；不得声称读过打不开的内容，也不通过绕过限制获取受保护资料。
 
-## Sub-category: Import/Export Records 进出口记录
+## 四、联系人与采购主体
 
-### Q: "How do I use customs data to check if a prospect actually imports fitness equipment?"
-**中文**: 如何用海关数据验证潜在客户是否真的进口健身器材？
-- **场景**: 客户声称每年大量采购但无法确认真实性
-- **根因**: 海关数据是最客观的采购证据，比客户自我陈述可靠得多
-- **调查信号**: 客户声称采购量与公司规模不匹配、无具体供应商信息
-- **回复策略**: 用海关数据查询其HS code下的进口记录和频次
-- **回复模板**:
-  > Customs data provides objective purchasing evidence. We search [platform: Panjiva/ImportGenius/52wmb] for the prospect's company name under HS codes [950691] (gym equipment) and [401699] (rubber flooring). Key findings: [1] number of shipments in the past 12 months = [X], [2] average shipment value = $[Y], [3] supplier country distribution = [China: A%, others: B%]. For BYFIT rubber flooring prospects, companies with [Z]+ annual shipments in this category qualify for our distributor program with exclusive territory.
-- **CTA**: 申请BYFIT海关数据查询操作指南
+### BG-031 | 联系人自称采购经理，怎样确认确为该公司人员？
+- 核查：核对公司官方人员信息、当前企业邮箱及独立取得的总机或正式渠道确认，留意同名、离职和冒名；名片、签名档或职位自述并不足够。
+- 行动：以最少必要信息核实任职与本次采购联系权限，避免搜集私人信息；未确认前将其记为自述身份，不因为公司真实就默认联系人也真实。
 
-### Q: "The customs data shows my prospect imports from a competitor. How do I use this information?"
-**中文**: 海关数据显示潜在客户从竞争对手进口，如何利用这个信息？
-- **场景**: 发现客户已在采购同类产品，需要制定差异化策略
-- **根因**: 知道竞品供应商信息后，可以精准定位差异化优势而非泛泛推销
-- **调查信号**: 客户已稳定采购但采购频次或量有变化
-- **回复策略**: 分析竞品弱点（交期/品类/价格），针对性提出替代方案
-- **回复模板**:
-  > Customs data reveals your prospect imports from [competitor country] with [X] shipments/year averaging $[Y]/shipment. This tells us: [1] they're an active buyer (good), [2] their current supply chain is [country]-dependent (potential risk for them), [3] shipment frequency suggests [reorder cycle]. For BYFIT gym equipment, we'd approach with: "We understand you have an established supply chain. Many of our clients initially dual-source to reduce risk — a trial order of [Z] units lets you compare quality and lead times without disrupting your current setup."
-- **CTA**: 获取BYFIT竞品客户双源渗透话术
+### BG-032 | 联系人是采购代理，怎样核实能否代表实际买方？
+- 核查：查看委托主体、代理授权范围、有效期和交易对象，确认授权文件由有权人员签发；代理知道项目细节不等于具有签约或收付款权限。
+- 行动：通过独立买方渠道确认授权，并分别记录代理和委托人的角色；后续文件明确责任主体，不将代理承诺自动视为最终买方的法律承诺。
 
-### Q: "What if I can't find any import records for a company that claims to be a big buyer?"
-**中文**: 如果一个声称是大买家的公司在海关数据中找不到进口记录怎么办？
-- **场景**: 客户声称大量采购但海关数据查不到
-- **根因**: 可能使用不同公司名进口、通过第三方进口、或确实在虚报
-- **调查信号**: 海关数据查询0结果、客户提供的公司名有多种变体
-- **回复策略**: 尝试公司名变体搜索+检查是否通过物流商进口+直接询问
-- **回复模板**:
-  > Zero results in customs data could mean: [1] the company imports under a different legal entity (try name variations and parent company), [2] they use a freight forwarder as the consignee (search the forwarder's name instead), or [3] they're exaggerating their purchasing volume. For BYFIT pilates equipment, we'd handle this diplomatically: "To ensure we provide the right tier of service, could you confirm the entity name used for imports? Our logistics team needs this for accurate shipping quotes." This gets the real importing entity without directly challenging their claims.
-- **CTA**: 使用BYFIT海关数据零结果处理流程
+### BG-033 | 连锁品牌门店来询盘，怎样确认是总部还是加盟商采购？
+- 核查：核对门店运营法定主体、加盟或直营关系和本次订单的采购授权，确认品牌总部是否参与签约或仅提供标准；招牌相同不代表同一法律主体。
+- 行动：以实际采购、付款与履约承担方建立调查对象，必要时由总部正式渠道验证门店关系；不要借用总部规模、信用或历史订单来替加盟商背书。
+
+### BG-034 | 下单、付款、进口和使用分别由不同公司承担，怎样查？
+- 核查：逐一核对四个角色的法定名、注册号、相互关系及书面安排，确认哪个主体签合同、持有货权并负责申报；正常集团分工也需要可追溯解释。
+- 行动：建立交易主体对应表并要求相关方确认，重大不一致交由授权财务或专业方审查；不为方便而把所有文件统一成任意一家公司。
+
+### BG-035 | 自称代表政府或学校采购的人，需要哪些身份核验？
+- 核查：在机构官方采购门户查项目编号、公告联系人、授权代表及供应商沟通流程，确认其邮箱和文件与正式记录一致；徽标和公章图片可被复制。
+- 行动：通过独立取得的机构正式渠道核实本次联系，不依赖对方给出的验证号码；查不到公告时说明情况，不把“内部项目”说法当免核验理由。
+
+### BG-036 | 收货地址属于第三方仓库，应如何核实真实交易关系？
+- 核查：确认仓库运营主体、买方授权、收货联系人及交付指示，区分货代仓、租赁仓和无关地址；能收货不说明其具有买方身份或付款责任。
+- 行动：请已验证买方书面确认该仓库用于本单，并按授权渠道核对指示；将收货角色与合同买方分开，不仅凭仓库照片认定客户有自有库存。
+
+### BG-037 | 联系人能够询价，但怎样核实其是否有订单审批权限？
+- 核查：确认采购流程中的申请、技术审核、商务批准和签署分别由谁承担，查可验证的授权范围；能使用企业邮箱不等于能批准预算或条款。
+- 行动：请对方说明本单所需正式批准与签署路径，重大承诺由有权人员确认；只记录权限事实，不根据回复积极程度推断其掌握最终决定权。
+
+### BG-038 | 项目新设公司没有历史，怎样核查其与出资方关系？
+- 核查：查项目公司的登记、股东、项目权属和公开融资或担保信息，确认品牌运营方、开发商与采购主体是否相同；项目规模不能替代新主体的履约资源。
+- 行动：分别验证项目真实性和合同主体信用，明确哪些支持安排有文件依据；没有担保证据时不把出资方资产视作可直接追索的付款保障。
+
+### BG-039 | 多家公司联合采购，牵头方能否代表全部成员？
+- 核查：核对联合采购或联合体安排、成员名单、牵头方授权及责任分配，确认订单是统一签署还是各成员分别采购；共同招标不当然等于共同偿债。
+- 行动：要求明确每份订单与付款义务归属，复杂安排由合格专业方审查；未获得授权链前，不把牵头人的确认记为所有成员已同意。
+
+### BG-040 | 对方只用免费邮箱，怎样核实而不武断排除真实小企业？
+- 核查：结合官方登记、独立企业电话、经营地点及既有公开联系方式核验，确认是否确为企业授权联系人；免费邮箱本身不能证明规模小或欺诈。
+- 行动：用独立渠道确认联系关系后再推进适当资料，敏感交易另做身份和授权核对；不猜测或试发所谓企业邮箱，也不要求不必要的私人证件。
+
+## 五、文件真实性与冒充风险
+
+### BG-041 | 客户发来的注册证书 PDF 怎样验证不是伪造或过期？
+- 核查：按证书编号、法定名、签发机构和日期到独立找到的官方来源核对，确认是否有更新状态；文件排版专业、扫描清晰不能证明真实性。
+- 行动：保存必要核验结果而非过量复制敏感文件，记录哪些字段已验证；无法官方确认时说明“文件由对方提供”，不把收到证书等同主体核验完成。
+
+### BG-042 | 合同有签字和公司章，为什么仍要检查授权？
+- 核查：区分签名真实性、印章来源和签署权限，核对签署人、主体、日期及授权范围；章的存在不自动证明当地法律效力或对本单的代表权。
+- 行动：通过独立正式渠道确认签署安排，必要时由合格专业方检查形式与权限；未核实前不因盖章而跳过主体不一致，也不自行断定合同无效。
+
+### BG-043 | 文件上的二维码指向“官方验证页”，可以直接相信吗？
+- 核查：独立找到声称签发机构的正式网站，检查其是否提供对应验证路径及域名；二维码、短链和网页徽标可能一起被仿造，跳转成功不是验证结果。
+- 行动：优先在独立官方入口手动核对编号，避免向可疑页面提交凭证或登录；没有正式验证渠道就保留未核实状态，不用同一份可疑文件自证真实性。
+
+### BG-044 | 视频通话看到了办公室，能否确认客户真实可靠？
+- 核查：确认通话者与已验证公司渠道的关联、地点及拍摄时点，分辨共享场景、预录画面和临时借用；看到场所不证明资产所有权、权限或信用。
+- 行动：将视频作为身份和现场活动的辅助证据，与登记和授权核验交叉印证；不索取无关私人影像，也不把一次视频写成全面实地审计结论。
+
+### BG-045 | 大额订单要求当天确认，怎样处理紧迫感带来的核验压力？
+- 核查：核对订单主体、项目来源、授权与付款安排，检查紧迫期限是否有可验证的招标或项目依据；金额大和时间紧都不能替代身份真实性。
+- 行动：保持原有核验步骤并向内部授权人员提示风险，未完成前不承诺特殊条款或泄露敏感资料；报告具体缺口，不因催促直接指控对方诈骗。
+
+### BG-046 | 买家要求先付供应商注册费或认证费，怎样核验？
+- 核查：独立查询采购机构正式门户的收费项目、收款主体、申请流程及公告，核实是否由授权机构收取；私人账户和临时付款链接需特别复核。
+- 行动：暂停付款，通过独立官方采购或财务渠道确认，必要时请内部合规审查；不因订单金额诱人先付费用，也不向可疑站点提交银行或登录资料。
+
+### BG-047 | 对方声称多付货款并要求退到另一账户，应怎样处理？
+- 核查：由授权财务通过己方银行正式渠道确认资金是否实际入账、可用及来源，核对付款人与退款要求；回单、余额截图和催退款邮件均不能替代银行核验。
+- 行动：暂停额外退款或转账，按银行和内部授权流程处理原路退回等可行安排；不向未经验证的新账户付款，也不把多付款当作可自由支配资金。
+
+### BG-048 | 采购订单看似正式，但细节不一致，应查哪些点？
+- 核查：比对 PO 主体、注册号、地址、域名、签署人、项目编号与独立官方资料，检查复制模板、旧名称及未授权联系人；格式规范不代表订单真实。
+- 行动：通过已验证采购渠道确认订单编号和签发权限，保留差异清单；核实前不安排不可逆支出，不自行修改 PO 让其“看起来一致”。
+
+### BG-049 | 客户核验要求索取大量证件或完整银行资料，是否都应提供？
+- 核查：核实请求机构、用途、必要字段、保管渠道和权限，确认是否为正式供应商尽调；真实客户身份也不代表任何数据请求都合理或已获用户授权。
+- 行动：只在授权范围提供最少必要资料，可对无关信息遮盖并使用正式安全渠道；用途不明或要求登录凭证时停止，先请内部负责人核实而非直接发送。
+
+### BG-050 | 客户要求访厂，如何核实访问者而不把预约等同真实订单？
+- 核查：确认来访公司、人员、访问目的和与已验证联系人的关系，核对预约是否由公司正式渠道确认；能到现场不证明有采购权限或付款能力。
+- 行动：按用户授权和既有访客流程安排，保护生产、客户及商业敏感区域；把身份确认、访问批准和订单真实性分开记录，不因来访就免除交易核验。
+
+## 六、财务与公开信用证据
+
+### BG-051 | 查到财务报表后，怎样确认属于实际交易主体？
+- 核查：核对报表法定名、注册号、会计期间、合并范围和审计意见，分辨集团合并、单体与另一关联公司报表；集团收入不能直接代表子公司资源。
+- 行动：只将可归属拟签约主体的指标用于判断，合并数据另作背景；无法取得单体财务时说明覆盖限制，不把集团资产写成该买家的偿付保证。
+
+### BG-052 | 最新公开财务报表已经很旧，还能用来判断当前信用吗？
+- 核查：记录报表期末、发布日期及之后公开重大事件，检查经营变化、融资、诉讼或控制权变化；“最新可得”不等于反映今天的现金状况。
+- 行动：明确财务信息滞后期，请对方提供合适的更新证明并视需要由专业方审阅；只能支持历史判断时如实限定，不给出未经证实的当前信用结论。
+
+### BG-053 | 营收高、利润为正，为什么仍不能证明能按时付款？
+- 核查：在可得报表中区分收入、利润、经营现金流、现金余额和短期负债，注意一次性收益及应收积压；会计盈利与可用于本单付款的资金不同。
+- 行动：围绕本单金额和付款时间评估证据缺口，必要时请合格财务专业方解释；不凭单一营收排名批准账期，也不把现金流下降直接定性为资不抵债。
+
+### BG-054 | 公开抵押、担保或融资记录应怎样解读？
+- 核查：确认登记主体、日期、担保资产、债权范围及是否已解除，分辨正常融资与新增压力；存在抵押不自动说明违约，也可能限制可用担保资产。
+- 行动：把记录列作需要进一步解释的风险因素，重大金额由合格专业方核实法律与财务影响；不简单把所有登记金额相加当作当前总债务。
+
+### BG-055 | 延迟提交年报或财务文件意味着什么？
+- 核查：查当前官方申报期限、实际提交状态、是否获延期及历史记录，分辨数据更新滞后、行政延误和持续不合规；不能仅据搜索结果中的旧提醒判断。
+- 行动：要求解释并核对补交进展，将状态与信用风险分开记录；连续异常可提高核验深度，但不得在没有证据时推断财务造假或停止经营。
+
+### BG-056 | 查到破产或清算线索，怎样确认是否影响本次交易？
+- 核查：在官方法院、登记或主管机构资料中匹配准确主体、案号、程序阶段和最新状态，区分申请、受理、重整、终结及同名公司。
+- 行动：暂停依赖未经核实主体的新风险敞口，将具体记录交授权负责人及合格专业方审查；不自行解释可否继续履约，也不把旧申请写成已破产结论。
+
+### BG-057 | 一起商业诉讼能否证明买家经常拖欠货款？
+- 核查：查看原始案号、当事人身份、争议类型、判决状态及执行情况，区分原告、被告和关联第三方；被起诉不等于法院已认定违约。
+- 行动：只陈述可核实的程序与结果，结合重复模式和交易关联再评估；无法取得原文时标注转载限制，不由一宗争议推定长期付款习惯。
+
+### BG-058 | 商业信用报告的分数该怎样使用才不过度依赖？
+- 核查：确认报告匹配主体、更新时间、数据来源、覆盖地区及分数含义，区分模型预测、付款样本与人工意见；不同机构分数不应直接横向比较。
+- 行动：将分数作为辅助线索，与官方资料和本单条件核对，记录报告局限；不擅设一个“安全分数”自动批准交易，也不假装访问了未取得的报告。
+
+### BG-059 | 客户给的供应商推荐人，怎样验证付款评价可信？
+- 核查：经适当授权通过独立取得的供应商正式渠道确认推荐人及交易关系，核对评价的时间、金额范围和付款条件；对方提供的私人号码可能无法独立证明。
+- 行动：只询问必要且获授权的信息，并标明推荐样本的选择偏差；不索取其他客户机密，不把一次预付款交易的好评当作大额账期可靠证明。
+
+### BG-060 | 查不到公开财务信息，如何给出有用而不武断的结论？
+- 核查：确认当地是否要求公开申报、当前主体是否适用、查询渠道是否覆盖，区分依法不公开、尚未到期和访问失败；没有财务数据不等于没有经营。
+- 行动：列出尚缺的偿付证据和可授权取得的替代材料，由用户决定交易条件与风险接受度；不把未知评为零信用，也不编造营业额或内部额度政策。
+
+## 七、收付款身份与账户欺诈
+
+### BG-061 | 银行收款人名称与合同主体不一致，首先怎么办？
+- 核查：逐字核对合同主体、账户受益人、币种及书面解释，区分银行缩写、合法代收与无关第三方；文件齐全也不能替代对安排的独立确认。
+- 行动：暂停相关付款或账户变更，经独立已验证公司渠道及己方银行正式渠道核验，交授权财务审批；未确认前不修改主体或接受所谓“先付再补文件”。
+
+### BG-062 | 交易中途突然要求更换银行账户，如何确认不是邮件被盗？
+- 核查：对比原已确认账户、变更时间、发件与回复域名，核实是否有正式授权和合理业务原因；来自原邮箱也可能是账号被入侵，不能单凭邮件验证。
+- 行动：使用既有已验证电话或独立官方渠道回拨，另由授权财务向银行正式渠道核实；完成双重确认前冻结变更，不用邮件中新增号码做唯一验证。
+
+### BG-063 | 对方要求把款项分付多个账户，怎样核查用途？
+- 核查：确认每笔受益人的法律身份、与合同主体关系、合同依据和发票安排，区分合理费用拆分与无解释资金转移；不能仅据“财务需要”接受。
+- 行动：将完整资金流交授权财务和必要专业方审查，每个受益人分别核验；未获批准前不拆付，也不为规避银行或合规审核而改写付款用途。
+
+### BG-064 | 货款由第三方公司支付，怎样避免责任和退款争议？
+- 核查：核对付款人、买方关系、代付授权、银行入账信息及款项对应订单，确认是否存在货权、债务解除或退款归属疑问；到账并不自动解决合同关系。
+- 行动：由授权财务通过正式渠道确认代付安排，必要时请合格专业方审查书面说明；不向任何新账户退款或默默替换买方，也不承诺未经批准的代付条件。
+
+### BG-065 | 公司在一个国家、银行在另一个国家，是否一定不正常？
+- 核查：核对受益人主体、集团财资或跨境银行安排、账户变更记录和资金用途，确认银行信息来自独立核验渠道；跨境开户可以合理，但需具体解释。
+- 行动：按主体一致性和授权链判断，不单凭国家差异定性；存在无法解释的关系时暂停付款，交己方银行及授权财务核实，不自行提供绕过审核办法。
+
+### BG-066 | 银行证明、SWIFT 截图或账户验证函能否证明收款安全？
+- 核查：核对签发主体、日期、账户受益人和可验证编号，并由己方银行通过正式流程确认可验证范围；银行标志、印章和报文截图都可能被伪造或挪用。
+- 行动：只把文件当待核验材料，不向对方提供的“银行客服”发送凭据；经授权核验仍有缺口就暂停，不把有 SWIFT 代码等同于账户属于合同方。
+
+### BG-067 | 怀疑对方企业邮箱被入侵，应该怎样继续沟通？
+- 核查：比对异常指令、历史语气、回复地址、附件与联系人变更，确认是否涉及付款或敏感资料；原邮件线程被引用不能证明指令来自本人。
+- 行动：停止按可疑线程操作，通过既有已验证电话或独立官方渠道联系公司安全或财务人员；保留必要原始邮件证据，不点击验证链接，也不继续传递密码或文件。
+
+### BG-068 | 买家发来付款回单，能否据此认定资金已经到账？
+- 核查：由授权财务查看己方银行实际入账、币种、金额、付款人和资金状态，分辨汇出申请、处理中、入账与可用；截图和通知邮件均不能替代银行账务。
+- 行动：按已授权付款与放货流程决定下一步，差异通过己方银行正式渠道查询；不因回单催促提前做不可逆交付，也不承诺任何付款绝对不会被撤销。
+
+### BG-069 | 对方要求小额试转账来“验证账户”，应怎样判断？
+- 核查：核实验证机制是否属于己方银行或正式业务流程，检查请求是否索取验证码、登录凭证、额外转款或远程控制；小额不能保证请求安全。
+- 行动：使用己方银行官方入口咨询，不向陌生链接输入凭证或按对方指示操作；如需验证由授权财务执行正式流程，不把试转成功视为受益人归属已证明。
+
+### BG-070 | 怀疑已经把款付给冒充者，首要行动是什么？
+- 核查：立即整理付款时间、金额、账户、原始邮件和变更指令，由授权人员确认已发生交易；不要为了继续核实而向同一可疑账户追加任何款项。
+- 行动：尽快通过己方银行官方渠道申请追踪或可行的止付追回，并按所在地正式执法或反诈渠道报案，通知真实交易方；保留证据，不承诺一定追回或私下“付费解冻”。
+
+## 八、贸易记录与交易履历
+
+### BG-071 | 海关或提单出现相同公司名，怎样确认就是目标买家？
+- 核查：比对法定名、地址、注册号及可得的历史别名，检查数据是否截断、音译或重名；仅名称相似不足以把某条进口记录归属当前主体。
+- 行动：标明匹配等级和未解决差异，只将可靠匹配用于履历判断；不把疑似记录累计成确定采购量，也不由同名贸易记录推断联系人真实。
+
+### BG-072 | 记录里的收货人是货代，怎样确认实际买家的角色？
+- 核查：阅读来源字段说明，区分货代、通知人、报关代理和最终收货方，并查看是否有公开可核实关联；代理掌握货物不等于采购或拥有货物。
+- 行动：将无法归属的记录列为未知，不用货代名称替代买家；需要验证本单物流角色时由已核实合同方确认，不能凭贸易记录推定代理付款责任。
+
+### BG-073 | 历史进口金额很大，是否说明客户有足够采购与偿付能力？
+- 核查：确认金额字段口径、统计期、关联交易及是否含其他品类，留意进口申报值不等于销售额、利润或现金余额，也可能不是买家自有资金。
+- 行动：把贸易规模仅作为经营活动证据，与当前财务和本单条件分开判断；不由累计进口额推导营收、信用额度或本次必然能付款的结论。
+
+### BG-074 | 查不到任何进口记录，是不是说明买家没有进口经验？
+- 核查：核对数据库覆盖国家、运输方式、时间和公开限制，考虑通过代理、集团公司、本地采购或未公开记录进口的可能；数据缺失有多种原因。
+- 行动：询问实际进口主体与既往角色，允许提供经适当遮盖的授权证明；未证实前写“未找到可归属记录”，不写“从未进口”或认定其不真实。
+
+### BG-075 | 多年前有进口记录，怎样判断现在仍在经营该品类？
+- 核查：比较最近可靠记录、官网当前目录、正式产品公告及业务变更，区分历史一次性项目与持续经营；没有近期记录也可能是覆盖变化而非停业。
+- 行动：将历史经验与当前活动分开陈述，通过已验证企业渠道确认现阶段业务；没有当期证据时不将旧履历写为当前持续采购事实。
+
+### BG-076 | 集团内部调拨记录能否当作对外采购经验？
+- 核查：核对发货和收货方公开关联、货物用途及数据范围，分辨关联转移、样品调拨与独立商业采购；集团内部运输不一定包含独立供应商选择和付款流程。
+- 行动：准确标明记录性质，只用来证明可核实的跨境活动；若评估与外部供应商交易能力，应另查相关授权及经验，不把内部调拨全部计为外采。
+
+### BG-077 | 贸易记录显示买家收货后转销，能否确认其为区域经销商？
+- 核查：核对可得流向、正式分销授权、公开客户覆盖和实际业务说明，分辨临时转口、货代代收与持续经销；单次跨境流转不足以证明渠道网络。
+- 行动：将贸易路线作为经营模式线索，要求明确其在本次交易中的买卖和进口角色；没有可验证覆盖证据时不称其为某区域总代理或成熟分销网络。
+
+### BG-078 | 客户提供过去的提单、发票或装箱单，怎样验证履历？
+- 核查：在合法授权范围核对单号、日期、主体、商品及承运或签发信息，检查是否为样本、草稿或其他关联公司的文件；有文件不等于交易已完成。
+- 行动：优先请对方提供必要字段并遮盖无关机密，能通过正式渠道验证的才列为已核实；不可验证的清楚标为客户提供，不擅自联系其供应商泄露关系。
+
+### BG-079 | 可以向客户的前供应商打听交易情况吗？
+- 核查：先确认用户和客户的必要授权、目的及信息范围，核实前供应商与推荐人的真实身份；公开显示合作关系不等于许可披露付款或价格细节。
+- 行动：仅经授权请求最少必要的参考信息，不假冒身份、不索取他人商业机密；未获授权时用公开资料继续调查，将无法验证的付款履历保留为空缺。
+
+### BG-080 | 同一批货出现多条记录，怎样避免夸大客户历史？
+- 核查：对照提单号、主分单、集装箱、日期和商品行，识别补报、重复转载、分项和转运记录；相同货物的多个节点不是多笔独立采购。
+- 行动：先按可解释规则去重再计算规模，无法确定的给出区间和方法；只汇总可靠归属记录，不为了展示“大客户”而累计全部搜索命中数。
+
+## 九、声誉、资格与不利记录
+
+### BG-081 | 网上有负面评价，怎样判断对 B2B 交易是否有参考价值？
+- 核查：查看评价主体、日期、具体事件和可验证细节，区分消费者体验、劳动争议与供应商付款问题；匿名指控、集中刷评和竞争性评价都需谨慎。
+- 行动：按与本单相关性和证据强度整理，给对方合理解释机会；不把星级直接等同信用，也不复制未经核实的指控为既定事实。
+
+### BG-082 | 多个平台重复出现同一投诉，是否算多份独立证据？
+- 核查：追踪最早发布、作者、内容与转载链，区分多个受影响方和同一事件的复制传播；搜索结果多不等于独立投诉多。
+- 行动：按原始事件去重，分别记录独立佐证与转载，只有真实重复模式才提高关注；不能确认事件主体或结果时保留未证实状态，不累计制造负面频次。
+
+### BG-083 | 新闻报道涉及同名公司，怎样避免误伤调查对象？
+- 核查：用注册号、地区、原文名、业务与负责人等可靠字段核对，检查报道时间及是否有更正；常见英文名或品牌缩写容易对应不同实体。
+- 行动：匹配不足时将报道列为待排除线索，不写进已确认风险；经核实属于其他主体就明确排除，不让搜索引擎联想替代实体解析。
+
+### BG-084 | 对方声称拥有行业许可，如何核实其有效性和适用范围？
+- 核查：到独立找到的主管机构或许可登记入口查持有人、编号、有效期、业务范围及限制，确认许可属于拟交易主体，而非个人、关联公司或旧地址。
+- 行动：把已核实许可与实际交易用途对应，范围不明请合格当地专业方确认；不因展示一张证书就认定所有业务都获准，也不把会员资格当经营许可。
+
+### BG-085 | 制裁或限制名单出现相近名称，应怎样谨慎处理？
+- 核查：查询当前相关官方名单，核对准确名称、别名、注册资料及适用主体，区分相似命中和可靠匹配；不得凭名称一项认定被限制或可自由交易。
+- 行动：暂停受影响安排并交授权合规或合格法律专业方确认适用性和后续流程；不建议绕过限制、换主体规避，也不在未消歧前公开指控客户。
+
+### BG-086 | 买家曾被列入采购禁入或停权名单，如何判断现在的影响？
+- 核查：核对官方名单、主体、决定原因、起止时间、适用机构与申诉结果，区分已过期、特定项目限制及仍有效措施；旧转载不代表当前状态。
+- 行动：只陈述经核实的范围，相关项目先由合格专业方确认参与条件；不将某机构禁入扩大为全球禁止经营，也不因期限过去就忽略其相关历史。
+
+### BG-087 | 客户销售过被召回产品，是否说明公司本身不可信？
+- 核查：查监管机构或品牌正式召回信息，确认具体型号、批次、角色、处理状态及原因，区分制造方、进口方、经销方与无关同名企业。
+- 行动：评估其可验证的整改和追溯处理，不把一次召回泛化为全部产品不安全；对与当前交易直接相关的资格或责任问题请合格专业方核实。
+
+### BG-088 | 环保、劳工或治理争议应怎样写入背调而不变成定罪？
+- 核查：区分媒体报道、当事人指控、监管调查和正式裁决，核对准确主体、日期及后续结果；多个转载不能代替原始证据或最终决定。
+- 行动：按事实状态和交易关联性描述，并保留回应与更正信息；重大合规疑问交授权负责人审查，不用情绪化标签、不把尚在调查写成已经违法。
+
+### BG-089 | 商会会员、奖项和品牌合作徽标能证明哪些事实？
+- 核查：通过颁发机构或合作品牌正式名单核对主体、资格类别、期限和授权用途，区分付费会员、评选奖项与商业合作；徽标可以过期或未经许可使用。
+- 行动：只记录确认的具体关系，不延伸为官方信用背书、独家权或偿付保证；无法查证时要求补充依据，不把网页徽章数量当真实性评分。
+
+### BG-090 | 判决、行政处罚和未决案件应怎样区分呈现？
+- 核查：查原始官方文件的程序性质、适用主体、结果是否生效及是否已履行或撤销，避免把民事争议、行政事项和刑事认定混成一种“黑历史”。
+- 行动：按日期与状态逐项写事实及与本单关系，法律后果由合格专业方解释；不根据案号存在就称其有罪，也不删除已核实但尚有影响的重要记录。
+
+## 十、证据管理与调查边界
+
+### BG-091 | 官方登记、公司官网与第三方目录冲突时，以什么为准？
+- 核查：先看各来源负责证明的事项和更新时间，主体登记优先查登记机构，业务宣传可查官网，目录仅作线索；没有一个来源能证明所有维度。
+- 行动：保留冲突字段、来源和日期，针对具体问题求证，不简单把较新网页覆盖官方记录；无法解决时并列事实与限制，不拼成一份无冲突的虚假档案。
+
+### BG-092 | 两个权威来源给出不同地址，如何确定是不是搬迁？
+- 核查：核对地址用途、登记变更日期、生效日期及机构更新节奏，分辨注册地址、营业点和历史地址；不同地址不一定冲突，也可能是多地点运营。
+- 行动：按用途和时点建立地址时间线，请已验证主体确认本单适用地址；没有依据不自行选一个填入商业文件，也不将差异直接归为伪造。
+
+### BG-093 | 同名公司很多，最低需要哪些字段才能可靠匹配？
+- 核查：优先使用司法辖区与注册号，再用原文法定名、地址、历史名称等补充；联系人姓名、产品类型和城市相同通常不足以唯一确定主体。
+- 行动：设置明确匹配、可能匹配与排除三档，只有高可靠证据进入主档；信息不足时提出一个能消歧的具体问题，不把搜索排名最高的公司当默认对象。
+
+### BG-094 | 官方登记站打不开或要求付费，报告应怎样写？
+- 核查：确认访问失败、覆盖限制、合法付费条件和可用公开替代来源，记录实际尝试范围；不得声称查过不可访问记录，第三方缓存也不能冒充当前官方资料。
+- 行动：如实列出缺口，请用户决定是否授权合适的合法查询；可用替代材料时标明来源层级，不绕过限制，也不把无法验证写成公司未登记。
+
+### BG-095 | 外文登记文件依赖机器翻译，怎样避免误读法律身份？
+- 核查：保留原文关键术语、主体名与状态字段，对照官方解释或双语资料，尤其注意分支、休眠、注销与代表权等概念；普通词义不等于法律含义。
+- 行动：翻译用于定位问题而非作最终法律结论，关键判断请合格当地专业方确认；不擅自将原文法律形式改写成另一地区看似相近的公司类型。
+
+### BG-096 | 背调需要收集多少联系人个人信息才合适？
+- 核查：明确具体交易核验目的和最少必要字段，区分公开职业信息与私人住址、家庭、证件及无关敏感信息；公开可见不等于可无限汇总和传播。
+- 行动：只记录与任职、授权及联系真实性直接相关内容，按授权存储与分享；不得把具体客户或人员数据写入公共技能仓库，也不为填满报告搜集私人生活。
+
+### BG-097 | 网页截图和搜索摘要怎样保存才具有可追溯性？
+- 核查：记录原始 URL、页面标题、发布或更新时间、取得日期及截取范围，确认摘要是否遗漏否定词、旧状态或不同主体；截图本身可能失去上下文。
+- 行动：对关键判断优先保存合法可引用原文位置和必要证据，注明不可取得内容；不凭截断摘要下结论，不把证据截图当作永久有效的当前事实。
+
+### BG-098 | 一份背景调查多久后需要重新核实？
+- 核查：按字段变化速度和交易影响判断，银行账户、授权人员、登记状态与不利事件通常需在关键交易节点复核；不能用一个固定有效期覆盖全部资料。
+- 行动：为高影响字段设最近核查日期和复核触发条件，重大订单、主体或账户变化时重查；旧报告只作为历史起点，不直接复用成最新“已验证”结论。
+
+### BG-099 | 资料矛盾很多，怎样决定继续核查还是停止推进？
+- 核查：区分可合理解释的小差异、核心身份无法确定、关键权限缺失及资金流异常，记录各自证据和可解决路径；线索数量不等于风险严重程度。
+- 行动：优先解决决定能否安全交易的核心问题，无法核实则暂停相关动作并请用户决定下一步；不无限扩大调查，也不为完成报告擅自接受未知风险。
+
+### BG-100 | 最终背景调查怎样写才不会把推断包装成事实？
+- 核查：逐项检查主体匹配、来源、日期、原文含义和证明范围，将对方自述、公开已核实、合理推断与未知分开；删除无证据的规模、信用和欺诈判断。
+- 行动：围绕本次交易交付“已知事实／关键缺口／具体核验动作／需用户决策”，说明结论时点与限制；不输出虚假确定性，也不让方法示例成为客户事实。

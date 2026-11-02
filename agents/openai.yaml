@@ -1,6 +1,4 @@
 interface:
   display_name: "BYFIT Trade Master"
-  short_description: "Research buyers and draft evidence-based BYFIT sales replies"
-  default_prompt: "Use $byfit-trade-master to analyze this buyer conversation and draft the best message to send next."
-policy:
-  allow_implicit_invocation: true
+  short_description: "Auto-research buyers and draft B2B sales replies with evidence"
+  default_prompt: "Use $byfit-trade-master to investigate this buyer, explain evidence and grade, then draft replies with non-price first-email value and confirmed needs/pain before any later authorized quote."

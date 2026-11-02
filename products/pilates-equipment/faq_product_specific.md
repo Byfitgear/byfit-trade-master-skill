@@ -1,406 +1,438 @@
-# BYFIT Pilates Equipment — Product-Specific FAQ
-
-## Category 1: Product Specs & Materials (7 entries)
-
----
-
-### Q: "What type of wood do you use for the reformer frame, and why maple?"
-**中文**: 你们的普拉提床框架用什么木材？为什么选枫木？
-- **场景**: 买家关注材料品质，对比其他工厂的MDF或松木方案
-- **根因**: 买家担心低价=低质，需要确认木材等级是否达到studio标准
-- **调查信号**: 买家提到其他工厂报价更低、询问"MDF是否够用"、提及Balanced Body的木材
-- **回复策略**: 用数据和寿命对比证明枫木的长期价值，消除"低价=低质"疑虑
-- **回复模板**:
-  > We use solid maple wood for all reformer frames — the same grade used by premium brands like Balanced Body. Maple is a hardwood with a Janka hardness rating of 1,450 lbf, significantly higher than MDF or pine alternatives. This means our frames resist warping and cracking for 15+ years, even in high-use studio environments (8+ hours/day). We control wood moisture content at 8–12% to prevent seasonal cracking. MDF frames may cost less upfront, but they typically need replacement within 3–5 years under studio use.
-- **CTA**: "Would you like me to send a wood sample and a detailed material comparison chart?"
-
----
-
-### Q: "What is the tension range of your springs, and how consistent are they?"
-**中文**: 弹簧的张力范围是多少？一致性如何？
-- **场景**: 专业studio买家关注弹簧精度，这直接影响训练效果
-- **根因**: 弹簧是reformer的核心组件，精度差会导致训练体验不一致
-- **调查信号**: 买家提到STOTT或Balanced Body的弹簧、询问弹簧寿命、提到"张力不一致"
-- **回复策略**: 用±5%精度数据和20,000次循环寿命证明专业级品质
-- **回复模板**:
-  > Our precision springs are made from Swedish music wire (high-carbon steel, per ISO 8458) and calibrated to ±5% tension consistency — that's 3x more precise than the industry average of ±15%. We offer three tension levels: Light/Yellow (~2.5 kg), Medium/Green (~4.5 kg), and Heavy/Red (~6.5 kg). The 5-spring system on our Professional Reformer allows 15+ resistance combinations. Spring lifespan is 20,000+ compression cycles before noticeable tension loss — typically 3–5 years in a busy studio. All springs are color-coded for easy identification.
-- **CTA**: "I can include spring tension test reports with your sample order — would that be helpful?"
-
----
-
-### Q: "What material is the carriage made of, and how smooth is the glide?"
-**中文**: 滑车用什么材质？滑动顺滑度如何？
-- **场景**: 买家关注使用体验，尤其与Balanced Body的8轮系统对比
-- **根因**: 滑车顺滑度是用户最直观的体验指标，4轮和8轮差异明显
-- **调查信号**: 买家询问轮子数量、提到"噪音"或"晃动"、试过其他品牌的reformer
-- **回复策略**: 用8轮设计、PU轮材质、横向偏移数据证明专业级顺滑
-- **回复模板**:
-  > Our Professional Reformer uses an 8-wheel carriage system on dual aluminum tracks — the same design used by Balanced Body and STOTT. The polyurethane (PU) wheels are silent, wear-resistant, and provide zero lateral wobble. We measure carriage glide smoothness at <0.5N lateral force deviation, compared to 2–3N on typical 4-wheel systems. The 6061-T6 aluminum alloy tracks are anodized for scratch resistance. This means your clients experience a smooth, silent glide from the first session to the thousandth — no squeaking, no wobbling, no vibrations.
-- **CTA**: "Many clients request a video of our carriage glide test — shall I send one?"
-
----
-
-### Q: "What is the weight capacity of your reformers and other equipment?"
-**中文**: 你们的普拉提床和其他设备承重多少？
-- **场景**: 买家需要确认安全性，特别是欧美市场对承重要求高
-- **根因**: 承重是安全底线，也是保险和认证的必要数据
-- **调查信号**: 买家提到ASTM标准、提及大体重客户、询问安全系数
-- **回复策略**: 给出额定承重+1.5倍安全系数，消除安全顾虑
-- **回复模板**:
-  > Our weight capacities are: Professional Reformer: 180 kg (400 lbs), Home Reformer: 140 kg (310 lbs), Cadillac/Trapeze: 200 kg (440 lbs), Wunda/Combo Chair: 140 kg (310 lbs), all Barrels: 150 kg (330 lbs). All weight ratings include a 1.5x safety factor — meaning each product is load-tested to 1.5x its rated capacity before shipping. For example, our Professional Reformer is tested to 270 kg (600 lbs). We provide weight capacity test certificates with every order for your insurance and compliance records.
-- **CTA**: "I'll include load test certificates in your sample package — would that work?"
-
----
-
-### Q: "What upholstery options do you offer, and can you match specific colors?"
-**中文**: 你们提供哪些软包选项？能匹配特定颜色吗？
-- **场景**: 买家想定制颜色匹配studio品牌，或需要特殊面料
-- **根因**: 颜色定制是差异化需求，也是溢价点
-- **调查信号**: 买家提到品牌色、询问Pantone匹配、提及医院/诊所的抗菌需求
-- **回复策略**: 突出Pantone匹配能力和抗菌选项，展示定制深度
-- **回复模板**:
-  > We offer three upholstery material options: PU Leather (standard, 1.2mm, durable and easy to clean), PVC Leather (economy, 1.0mm, water-resistant), and Genuine Leather (premium, +30% cost, available on request). For colors, we have 15+ standard options (Black, Grey, Navy, White, etc.) and offer custom Pantone color matching for your studio brand — simply provide a Pantone code and we'll produce a swatch for approval. Foam density is 40–50 kg/m³ (high-density, retains shape for years). We also offer an anti-bacterial upholstery treatment (+5% cost), ideal for rehabilitation clinics and high-traffic studios.
-- **CTA**: "I'll send you our upholstery swatch book with your sample — do you have a specific Pantone code in mind?"
-
----
-
-### Q: "What is the difference between your Professional Reformer and Home Reformer?"
-**中文**: 专业款和家用款普拉提床有什么区别？
-- **场景**: 买家同时考虑两个型号，或不确定选哪个
-- **根因**: 需要帮助买家根据使用场景做出正确选择
-- **调查信号**: 买家提及home studio、budget concern、space limitation
-- **回复策略**: 用对比表清晰展示差异，引导买家根据场景选择
-- **回复模板**:
-  > Great question — the key differences are: [1] Frame: Professional uses maple wood + aluminum (65 kg), Home uses aluminum alloy only (42 kg, 30% lighter). [2] Springs: Professional has 5 springs (15+ combinations), Home has 4 springs. [3] Carriage: Professional has 8-wheel system with 980mm travel, Home has 6-wheel with 920mm travel. [4] Weight capacity: Professional 180 kg, Home 140 kg. [5] Foldable: Home Reformer folds vertically for storage — Professional does not. [6] Price: Home is ~40% lower. Recommendation: Professional for commercial studios (8+ hours/day use), Home for personal training studios, home use, or budget-conscious buyers.
-- **CTA**: "What's your primary use case — commercial studio, home studio, or both? I can recommend the best model."
-
----
-
-### Q: "Do your products come with all necessary accessories, or are they sold separately?"
-**中文**: 产品附带配件吗？还是需要单独购买？
-- **场景**: 买家核算总成本，需要了解标配和选配
-- **根因**: 买家担心隐藏成本，需要透明报价
-- **调查信号**: 买家询问"还缺什么"、对比其他品牌的标配清单
-- **回复策略**: 清晰列出标配和选配，展示一站式采购优势
-- **回复模板**:
-  > Each Professional Reformer includes: shoulder rests, headrest, footbar, 5 springs, ropes with loops, standing platform, and reformer box. The Cadillac includes: push-through bar, roll-down bar, trapeze bar, 4 springs, and all attachment hardware. Optional accessories available separately include: jump board ($25/unit), Pilates pole ($12/unit), magic circle ($8/unit), additional spring sets, neck pillow, and gear barrel strap. We offer an "All-In Studio Package" with reformer + Cadillac + chair + barrel + full accessories at a bundled discount of 10–15% off individual pricing. One supplier, one shipment, one warranty — simplifies everything.
-- **CTA**: "Shall I prepare a full studio package quote for your space?"
-
----
-
-## Category 2: Assembly & Use (5 entries)
-
----
-
-### Q: "How long does it take to assemble your reformer?"
-**中文**: 组装一台普拉提床需要多长时间？
-- **场景**: 买家评估人工成本和开studio的时间规划
-- **根因**: 组装时间影响studio开业进度和人力成本
-- **调查信号**: 买家提到"我的staff不是专业的"、询问是否提供组装视频
-- **回复策略**: 给出具体时间+视频支持，降低买家的安装顾虑
-- **回复模板**:
-  > Our Professional Reformer ships in knock-down (KD) format and takes approximately 45–60 minutes for two people to assemble using common tools (Allen key included). We provide detailed printed instructions, a step-by-step assembly video (available in English, with subtitles in other languages on request), and remote video support if needed. The Home Reformer is even simpler — about 30 minutes. Our Wunda Chair ships fully assembled — zero assembly required. For large studio orders (20+ units), we can arrange for a technician to visit your location for on-site assembly assistance at cost.
-- **CTA**: "I'll include the assembly video link in my next email — would you like to preview it?"
-
----
-
-### Q: "What maintenance is required for your pilates equipment?"
-**中文**: 你们的普拉提设备需要什么维护？
-- **场景**: studio运营者关注长期维护成本和工作量
-- **根因**: 维护成本是总拥有成本(TCO)的一部分，影响采购决策
-- **调查信号**: 买家询问清洁方式、弹簧更换频率、长期使用成本
-- **回复策略**: 用简洁的维护清单展示低维护成本优势
-- **回复模板**:
-  > Our equipment is designed for minimal maintenance: [1] Weekly: wipe upholstery with mild soap and water (no harsh chemicals needed). [2] Monthly: check rope tension and adjust if needed — takes 2 minutes per reformer. [3] Quarterly: inspect spring tension — replace if you notice >10% tension loss (springs typically last 3–5 years in busy studios). [4] Semi-annually: check and tighten all bolts — takes about 10 minutes per reformer. [5] As needed: lubricate carriage tracks with silicone spray (every 6 months). We include a maintenance checklist with every order. Replacement parts (springs, ropes, wheels) are always in stock and ship within 3 business days.
-- **CTA**: "I'll include our maintenance guide with your sample — shall I also send replacement spring pricing?"
-
----
-
-### Q: "How much space do I need for a pilates studio with your equipment?"
-**中文**: 用你们的设备开普拉提studio需要多大空间？
-- **场景**: 新studio运营者规划空间布局
-- **根因**: 买家需要设备尺寸数据来做studio设计，空间不足是常见问题
-- **调查信号**: 买家提到"小型studio"、询问设备间距、提到loft/阁楼空间
-- **回复策略**: 提供专业空间建议，展示对studio运营的理解
-- **回复模板**:
-  > For a professional pilates studio, we recommend: [1] Per reformer: 2.5m × 1.2m (including space for exercises beside the reformer). [2] Minimum aisle between reformers: 0.6m. [3] Cadillac/Trapeze: 2.5m × 1.0m floor + 2.1m ceiling clearance. [4] Chair: 0.8m × 0.8m. [5] Ladder Barrel: 1.5m × 0.8m. For a 6-reformer studio with 1 Cadillac and 2 chairs, you'll need approximately 50–60 sqm. For a 12-reformer studio with full equipment, plan for 100–120 sqm. We provide free studio layout planning with any order of 10+ reformers — just send us your floor plan.
-- **CTA**: "Would you like me to create a custom studio layout for your space? Just share your floor plan dimensions."
-
----
-
-### Q: "Can the reformer be used by beginners as well as advanced practitioners?"
-**中文**: 普拉提床适合初学者和高级练习者吗？
-- **场景**: 买家服务混合水平的客户群体
-- **根因**: 买家需要确认设备能满足不同水平用户的需求
-- **调查信号**: 买家提到group class、mixed level、beginner-friendly
-- **回复策略**: 用弹簧组合和可调节设计证明适配性
-- **回复模板**:
-  > Absolutely — our 5-spring system on the Professional Reformer allows 15+ resistance combinations, from very light (1 yellow spring, ~2.5 kg) for beginners and rehabilitation, to very heavy (all 5 springs, ~24.5 kg) for advanced practitioners. The 4-position adjustable footbar, 3-position headrest, and 8-point adjustable rope system accommodate all body types and skill levels. The split-pedal option on our chairs provides unilateral training for rehabilitation. This is why our reformers are used by both introductory group classes and advanced teacher training programs.
-- **CTA**: "Would you like me to send a spring combination chart suitable for different class levels?"
-
----
-
-### Q: "Is your equipment suitable for clinical/rehabilitation pilates?"
-**中文**: 你们的设备适合临床/康复普拉提吗？
-- **场景**: 物理治疗诊所或康复中心买家询问适用性
-- **根因**: 临床买家有特殊需求——卫生、精确阻力、安全认证
-- **调查信号**: 买家提到physical therapy、rehab、insurance、hygiene
-- **回复策略**: 突出临床功能（Cadillac、抗菌软包、精度弹簧）和认证
-- **回复模板**:
-  > Yes — our equipment is well-suited for clinical pilates. Key features for rehabilitation use: [1] Cadillac/Trapeze Table with full accessory set — the gold standard for clinical pilates, allowing 100+ rehabilitation exercises. [2] Reformer + Tower Combo — combines reformer and Cadillac functionality in one machine, ideal for clinics with limited space. [3] Anti-bacterial upholstery option — hospital-grade hygiene, easy to sanitize between patients. [4] Chrome-plated steel frames on Cadillac/Tower — rust-resistant, suitable for humid clinical environments. [5] Precision springs (±5%) — consistent resistance is critical for progressive rehabilitation protocols. [6] CE certification — accepted by most clinical regulatory bodies. Many of our clients are physical therapy practices in Germany and Australia.
-- **CTA**: "Would you like me to prepare a clinical pilates equipment package recommendation?"
-
----
-
-## Category 3: Certifications & Compliance (5 entries)
-
----
-
-### Q: "What certifications do your pilates products have?"
-**中文**: 你们的普拉提产品有哪些认证？
-- **场景**: 买家需要确认产品合规性以进入其市场
-- **根因**: 不同市场有不同认证要求，合规是采购的前提条件
-- **调查信号**: 买家直接问认证、提到特定市场（EU/US）、提及insurance requirement
-- **回复策略**: 列出现有认证+可按需获取的认证，展示合规能力
-- **回复模板**:
-  > Our pilates equipment currently holds CE certification (EU market compliance) and SGS product testing certification (global buyer confidence). For the US market, our products are designed to meet ASTM F2276 standards, and we can arrange for ASTM testing upon request for orders meeting minimum thresholds. For specific markets: Germany — we can arrange TUV testing; UK — UKCA marking available; Saudi Arabia — SASO certification; Japan — JIS alignment documentation; Australia — AS/NZS 4092 compliance. ISO 9001 certification is currently in progress for our pilates equipment line. Additional certifications can be arranged for orders of 50+ units with a 4–6 week lead time.
-- **CTA**: "Which market are you targeting? I can provide a specific certification roadmap for your requirements."
-
----
-
-### Q: "Do your products meet EU REACH regulations for materials?"
-**中文**: 你们的产品符合欧盟REACH材料法规吗？
-- **场景**: 欧盟买家关注化学品合规，特别是软包材料
-- **根因**: REACH合规是欧盟进口的硬性要求，不合格=无法清关
-- **调查信号**: 买家明确提到REACH、询问upholstery材料成分、提到德国/法国市场
-- **回复策略**: 确认PU/PVC材料合规+可提供测试报告
-- **回复模板**:
-  > Yes — our PU leather and PVC leather upholstery materials comply with EU REACH regulations. We can provide REACH compliance documentation for all upholstery and contact materials upon request. Our foam is certified free of prohibited flame retardants and heavy metals. For German buyers specifically, we can provide documentation compliant with the German Product Safety Act (ProdSG). If your market requires specific material testing beyond our standard scope, we can arrange for independent laboratory testing (cost shared based on order volume). Please let me know your specific REACH requirements and we'll ensure full compliance.
-- **CTA**: "I'll include REACH compliance certificates in your sample package — shall I also send material safety data sheets?"
-
----
-
-### Q: "Do you provide product liability insurance or support for product liability claims?"
-**中文**: 你们提供产品责任险吗？或支持产品责任索赔吗？
-- **场景**: 欧美买家为studio购买保险时需要产品责任证明
-- **根因**: 产品责任险是欧美商业保险的常见要求
-- **调查信号**: 买家提到insurance、liability、litigation、safety testing
-- **回复策略**: 解释中国工厂的保险结构+提供测试报告支持买家自行投保
-- **回复模板**:
-  > We carry product liability insurance through PICC (People's Insurance Company of China) covering our exports. We provide comprehensive product testing reports (SGS, CE) with every order that you can use to support your own studio or business insurance applications. Our weight capacity certifications and safety factor documentation (1.5x rated load) are specifically formatted to meet insurance company requirements in the US, EU, and Australia. For large ongoing partnerships, we can add your company as an additional insured on our policy. We recommend that all studio operators also carry their own general liability and professional liability insurance.
-- **CTA**: "I'll include our product liability insurance summary and testing certificates with your first order. Would that be sufficient?"
-
----
-
-### Q: "What safety testing do you perform before shipping?"
-**中文**: 发货前你们做什么安全测试？
-- **场景**: 买家关心质量管控，特别是产品安全
-- **根因**: 买家需要质量保证来降低采购风险
-- **调查信号**: 买家提到quality control、inspection、test report、AQL
-- **回复策略**: 详细列出质检流程，展示工厂的质量管控体系
-- **回复模板**:
-  > Every unit goes through our 10-step quality control process: [1] Raw material inspection (wood moisture 8–12%, steel grade verification, spring tension sampling). [2] Frame welding/joining quality check. [3] Surface treatment inspection (chrome plating ≥15μm, wood finish). [4] Carriage assembly and glide test (lateral force deviation <0.5N). [5] Spring tension calibration test (±5% verification). [6] Upholstery inspection (stitch density ≥8 stitches/30mm). [7] Full assembly test (all moving parts, adjustments). [8] Weight load test (1.5x rated capacity). [9] Packaging verification. [10] Random batch testing (AQL 2.5). We welcome third-party inspection (SGS, TUV, BV) at buyer's cost — many of our EU and US clients arrange pre-shipment inspections.
-- **CTA**: "Would you like to arrange a third-party inspection? We can coordinate with your preferred agency."
-
----
-
-### Q: "Can you provide documentation in languages other than English?"
-**中文**: 你们能提供英语以外的语言文档吗？
-- **场景**: 非英语市场买家需要本地语言的产品文档
-- **根因**: 本地语言文档是市场准入和用户体验的要求
-- **调查信号**: 买家来自德/法/日/韩/阿拉伯语市场、询问用户手册语言
-- **回复策略**: 确认可提供多语言文档，列出支持语言
-- **回复模板**:
-  > Yes — we can provide product documentation in multiple languages. Currently available: English (standard), German, French, Italian, Spanish, Japanese, Korean, Arabic, and Chinese. For product manuals, assembly instructions, and safety warnings, we work with professional translators to ensure accuracy. Custom language documentation requires 5–7 additional business days for the first order. For ongoing orders, language templates are stored in our system for future use at no additional cost. Japanese and Korean documentation follows local formatting and safety warning standards.
-- **CTA**: "Which language do you need? I can confirm availability and timeline for your specific market."
-
----
-
-## Category 4: Comparison & Differentiation (6 entries)
-
----
-
-### Q: "How does your reformer compare to Balanced Body?"
-**中文**: 你们的普拉提床和Balanced Body比怎么样？
-- **场景**: 买家在Balanced Body和BYFIT之间做选择
-- **根因**: Balanced Body是行业标杆，买家需要确认BYFIT能达到同等品质
-- **调查信号**: 买家直接提到Balanced Body、询问"能不能做到一样好"
-- **回复策略**: 承认品牌差距但突出品质可比+价格优势+OEM能力
-- **回复模板**:
-  > Balanced Body is the industry benchmark, and we respect their brand and trainer education ecosystem. Here's our honest comparison: [1] Construction: Both use maple wood + aluminum alloy frames with 8-wheel carriage systems. [2] Spring precision: Both achieve ±5% tension consistency. [3] Where we differ: Price — our FOB price is 60–80% lower, which allows distributors healthy margins while offering studios significant savings. [4] Customization: We offer Pantone-matched upholstery and full OEM — Balanced Body does not. [5] Where they lead: Brand recognition, trainer certification network, and retail presence. [6] Our advantage for you: If you're a distributor or studio chain looking for studio-grade quality at competitive pricing, or if you want your own branded equipment line, BYFIT is the clear choice.
-- **CTA**: "Would you like a side-by-side spec comparison chart? I can also send a sample for hands-on evaluation."
-
----
-
-### Q: "How do you compare to STOTT Pilates / Merrithew?"
-**中文**: 你们和STOTT Pilates/Merrithew比怎么样？
-- **场景**: 买家考虑STOTT认证体系的配套设备
-- **根因**: STOTT的培训体系绑定设备销售，买家想知道能否用BYFIT替代
-- **回复策略**: 确认品质对等+强调OEM定制+指出价格差距
-- **回复模板**:
-  > STOTT/Merrithew is known for their comprehensive instructor certification program and premium equipment. Our comparison: [1] Construction quality: Both use maple wood + aluminum with 8-wheel carriages and ±5% spring precision. [2] Price: STOTT reformers retail at $4,000–6,000; our FOB price is 70–85% lower. [3] Key difference: STOTT equipment is designed specifically for the STOTT Method — our equipment is designed to be compatible with all pilates methodologies including STOTT, classical, and contemporary. [4] OEM advantage: If you run a STOTT-certified studio and want to launch your own branded equipment line for franchise locations, we can customize reformers to match STOTT specifications under your brand. Many of our clients use BYFIT reformers alongside or as replacements for STOTT equipment.
-- **CTA**: "Are you running a STOTT-certified studio or looking for an alternative? I can advise on compatibility."
-
----
-
-### Q: "How does BYFIT compare to Elina Pilates from Spain?"
-**中文**: BYFIT和西班牙的Elina Pilates比怎么样？
-- **场景**: 欧盟买家在Elina和BYFIT之间做选择
-- **根因**: Elina有欧盟品牌优势，买家需要看到BYFIT的技术优势
-- **调查信号**: 买家来自EU、提到Elina、询问EU品牌vs中国工厂
-- **回复策略**: 突出技术优势（8轮vs4轮、弹簧精度）和OEM能力
-- **回复模板**:
-  > Elina Pilates is a respected European brand. Here's where we differ: [1] Carriage system: BYFIT uses 8-wheel carriage on dual tracks; Elina uses 4-wheel. Our system provides smoother glide with zero lateral wobble — you can feel the difference. [2] Spring precision: BYFIT ±5% vs. Elina ±10% — our springs are 2x more precise. [3] Frame: BYFIT uses solid maple wood; Elina uses beech. Both are quality hardwoods, but maple is harder (Janka 1,450 vs. 1,300) and more resistant to wear. [4] OEM: We offer full OEM with custom branding and upholstery; Elina does not. [5] Where Elina leads: EU brand perception and proximity. [6] Price: BYFIT FOB pricing is 50–65% lower than Elina retail, giving EU distributors significant margin advantage.
-- **CTA**: "Would you like to test both side by side? We can send a sample for direct comparison."
-
----
-
-### Q: "What makes you different from other Chinese pilates equipment factories?"
-**中文**: 你们和其他中国普拉提设备工厂有什么不同？
-- **场景**: 买家在多个中国工厂之间比较
-- **根因**: 买家担心"中国工厂都一样"，需要看到差异化
-- **调查信号**: 买家提到"另一家工厂报价更低"、询问"为什么选你们"
-- **回复策略**: 用4个硬指标（枫木vs MDF、8轮vs4轮、±5%vs±15%、OEM能力）建立壁垒
-- **回复模板**:
-  > Most Chinese pilates equipment factories compete on price alone. Here are 4 reasons BYFIT is different: [1] Solid maple wood frames — not MDF or softwood. MDF warps under humidity; softwood cracks under load. Maple lasts 15+ years. [2] 8-wheel carriage system — most competitors use 4-wheel systems with noticeable wobble and noise. Our dual-track, 8-wheel system matches premium Western brands. [3] ±5% spring precision — most competitors achieve only ±15% (or worse). Our Swedish music wire springs are calibrated 3x tighter than the industry average. [4] Full OEM capability — custom Pantone upholstery, logo embossing, private label packaging. Most Chinese factories offer limited or no customization. We don't compete on being the cheapest — we compete on being the best value.
-- **CTA**: "I'll send you a material comparison kit (maple vs. MDF sample, spring tension data, carriage video) — shall I?"
-
----
-
-### Q: "Why should I choose BYFIT over Gratz for authentic Pilates equipment?"
-**中文**: 为什么选BYFIT而不是Gratz的正宗普拉提设备？
-- **场景**: 买家追求"正宗"Joseph Pilates传统的设备
-- **根因**: Gratz代表古典普拉提传统，但价格极高且产能有限
-- **调查信号**: 买家提到classical Pilates、Joseph Pilates、authentic、Romana's lineage
-- **回复策略**: 尊重古典传统但突出现代改进和可获得性
-- **回复模板**:
-  > Gratz Industries has a legendary reputation as the original manufacturer of Joseph Pilates' equipment. We deeply respect that heritage. Here's our perspective: [1] If you require exact historical specifications for classical pilates certification programs (Romana's, True Pilates), Gratz is the right choice. [2] However, if you want equipment inspired by classical design with modern engineering improvements — 8-wheel smoother carriage, ±5% spring precision, and adjustable rope systems — BYFIT offers a contemporary alternative. [3] Availability: Gratz has 6–12 month wait lists; BYFIT ships in 20–25 business days. [4] Price: Gratz reformers retail at $4,500–7,000; BYFIT FOB is $680–780. [5] We can also customize reformers to match classical specifications if your studio follows the classical method.
-- **CTA**: "Which pilates method does your studio follow — classical, contemporary, or STOTT? I can recommend the best match."
-
----
-
-### Q: "Can your equipment be used in STOTT or Balanced Body certification programs?"
-**中文**: 你们的设备能用于STOTT或Balanced Body的认证课程吗？
-- **场景**: 买家运营或计划运营培训认证项目
-- **根因**: 认证机构通常推荐自家设备，但不强制要求
-- **调查信号**: 买家提到teacher training、certification course、host studio
-- **回复策略**: 澄清认证机构不强制品牌+确认功能兼容性
-- **回复模板**:
-  > While STOTT and Balanced Body recommend their own equipment for their certification programs, they do not mandate it — you can use any equipment that meets the functional requirements. Our reformers have the same core specifications: 5-spring system, 8-wheel carriage, adjustable footbar, adjustable ropes, and shoulder rests. The exercise repertoire can be performed identically on BYFIT reformers. Many of our clients are STOTT-certified instructors who use BYFIT equipment in their studios and training programs. For studios hosting official STOTT or Balanced Body certification courses, we recommend confirming with the certifying body that they accept third-party equipment — most do for host studios, though they may require their own brand for the official training course itself.
-- **CTA**: "Which certification program are you affiliated with? I can check compatibility requirements for you."
-
----
-
-## Category 5: Customization & OEM (4 entries)
-
----
-
-### Q: "Can I put my own logo and brand on your equipment?"
-**中文**: 可以在设备上印我自己的logo和品牌吗？
-- **场景**: 买家想要自有品牌，用于studio连锁或分销
-- **根因**: OEM是BYFIT的核心差异化优势，也是买家品牌建设的需要
-- **调查信号**: 买家提到"own brand"、"private label"、franchise
-- **回复策略**: 详细说明OEM能力和流程，展示定制深度
-- **回复模板**:
-  > Absolutely — full OEM is one of our core strengths. We offer: [1] Logo embossing on upholstery (headrest, shoulder rests, carriage pad). [2] Logo printing on frame (wood burning or silk screening). [3] Custom carton printing with your brand (MOQ: 30 units). [4] Custom hang tags and product manuals with your branding. [5] Custom spring color coding to match your brand colors. [6] Exclusive territory agreements available for OEM partners. Our 20 production lines mean your OEM order doesn't disrupt our standard production. First sample with your branding takes 20 business days. We've helped 30+ studios and distributors launch their own branded pilates equipment lines. Neither Balanced Body nor STOTT offers this.
-- **CTA**: "Do you have a logo file ready? I can show you a mockup of your branded reformer within 48 hours."
-
----
-
-### Q: "Can I customize the spring tension or configuration?"
-**中文**: 可以定制弹簧张力或配置吗？
-- **场景**: 买家有特定训练方法论，需要非标准弹簧配置
-- **根因**: 不同普拉提流派对弹簧阻力的要求不同
-- **调查信号**: 买家提到classical vs. contemporary method、specific resistance level
-- **回复策略**: 确认定制能力+说明MOQ和交期
-- **回复模板**:
-  > Yes — we can customize spring configurations. Options include: [1] Custom tension levels: We can produce springs at any tension between 1.5 kg and 8.0 kg. [2] Custom number of springs: 3-spring, 4-spring, or 5-spring systems available. [3] Custom spring colors: Match your brand colors for spring identification. [4] Custom spring labels: Tension level and brand name printed on spring hooks. For example, classical pilates studios sometimes prefer 4 heavy springs instead of our standard 2-light/2-medium/1-heavy configuration. We can also develop proprietary spring profiles for your training methodology. Custom spring orders require a minimum of 50 springs per tension level, with a 15–20 business day lead time for the first order.
-- **CTA**: "What spring configuration does your training method require? I can design a custom spring system for you."
-
----
-
-### Q: "What is the minimum order for custom color or custom branded products?"
-**中文**: 定制颜色或定制品牌的最低订单量是多少？
-- **场景**: 买家想定制但不确定订单量是否足够
-- **根因**: 买家担心MOQ太高无法达到
-- **调查信号**: 买家询问MOQ、提到"small studio"、"first order"
-- **回复策略**: 清晰列出MOQ+提供试单方案降低门槛
-- **回复模板**:
-  > Our MOQ for customization: [1] Custom upholstery color (from our 15+ standard options): No additional MOQ — just 10 units (standard MOQ). [2] Custom Pantone-matched color: 20 units per model. [3] OEM logo embossing: 20 units per model. [4] Custom carton printing: 30 units per model. [5] Full OEM private label (logo + color + packaging): 20 units per model. For first-time OEM clients, we offer a trial program: order 10 units with your logo at a one-time setup fee of $200 (waived for orders of 30+ units). This lets you test market response before committing to larger volumes. Many of our OEM partners started with 10-unit trial orders and now order 100+ units quarterly.
-- **CTA**: "What's your estimated first order quantity? I can work out the best OEM package for your budget."
-
----
-
-### Q: "Can you develop a completely new product design based on our specifications?"
-**中文**: 可以根据我们的规格开发全新的产品设计吗？
-- **场景**: 买家有独特的产品概念或设计需求
-- **根因**: ODM能力体现工厂的研发实力和合作深度
-- **调查信号**: 买家提到"our own design"、"proprietary"、"new concept"
-- **回复策略**: 展示ODM能力和流程+案例
-- **回复模板**:
-  > Yes — we offer full ODM (Original Design Manufacturing) services. Our ODM capabilities include: [1] Custom reformer frame design (wood profile, dimensions, shape). [2] Custom carriage system design (wheel configuration, track design). [3] Proprietary spring tension profiles for your training methodology. [4] Custom accessory development. [5] Co-developed product lines with shared IP agreements. Our ODM process: [1] Requirement discussion → [2] Technical drawing (5 business days) → [3] Sample production (20 business days) → [4] Sample approval → [5] Mold/jig creation if needed (10–15 days) → [6] Bulk production (20–25 days). We've co-developed 8 proprietary product designs with partners in the US, Germany, and Australia. NDA available before any design discussion.
-- **CTA**: "Do you have a concept sketch or specification document? I can arrange an NDA and schedule a design consultation with our engineering team."
-
----
-
-## Category 6: Pricing & Ordering (5 entries)
-
----
-
-### Q: "What is your MOQ, and do you offer samples?"
-**中文**: 你们的最低起订量是多少？提供样品吗？
-- **场景**: 买家首次接触，需要了解起订门槛
-- **根因**: MOQ是采购决策的硬门槛，样品是消除疑虑的手段
-- **调查信号**: 买家提到"first time"、"small order"、"want to test quality"
-- **回复策略**: 清晰列出MOQ+主动提供样品方案
-- **回复模板**:
-  > Our standard MOQ is 10 units per model. For accessories, the MOQ is 50 units per item. Sample orders: We accept 1–2 unit sample orders for product evaluation. Sample pricing is standard FOB rate + express shipping cost (DHL/FedEx, ~$300–500 for a reformer depending on destination). Sample production takes 20 business days. Important: For first-time clients who proceed to a bulk order (10+ units) within 90 days of sample delivery, we credit the sample product cost (not shipping) against the bulk order — effectively making the sample free. This is our way of investing in the relationship. Many of our longest partnerships started with a single sample order.
-- **CTA**: "Would you like to order a sample? I can prepare a proforma invoice with product and shipping costs within 24 hours."
-
----
-
-### Q: "What are your payment terms?"
-**中文**: 你们的付款条件是什么？
-- **场景**: 买家需要确认付款方式以评估资金安排
-- **根因**: 付款条件影响资金流和采购决策
-- **调查信号**: 买家提到cash flow、L/C、deposit、credit terms
-- **回复策略**: 标准条件+阶梯优惠展示灵活性
-- **回复模板**:
-  > Our standard payment terms: [1] First order: 30% T/T deposit + 70% T/T before shipment (after QC inspection). [2] Repeat orders (2+ orders with good payment history): 30% deposit + 70% against copy of B/L. [3] L/C at sight: Available for orders over $20,000 (bank fees apply). [4] Sample orders: 100% payment before production. [5] Long-term partners (6+ months, consistent orders): Net 30 days available on approval. We accept payment via T/T (bank transfer), L/C, and for sample orders, PayPal/Western Union. All prices are quoted FOB Qingdao in USD unless otherwise specified. For large orders (100+ units), we can discuss milestone payment schedules tied to production progress.
-- **CTA**: "Which payment method works best for you? I can structure the payment schedule to fit your cash flow."
-
----
-
-### Q: "How long does production and shipping take?"
-**中文**: 生产和运输需要多长时间？
-- **场景**: 买家规划studio开业或库存补货时间线
-- **根因**: 交期影响买家的商业计划
-- **调查信号**: 买家提到opening date、deadline、seasonal demand
-- **回复策略**: 给出完整时间线（生产+运输），并标注加急选项
-- **回复模板**:
-  > Production lead time: 20–25 business days for standard orders. Rush production (15–18 business days) available with a 10% surcharge. After production: [1] Quality inspection: 1–2 business days. [2] Container loading: 1–2 business days. [3] Sea freight transit: US West Coast 14–18 days, EU 28–35 days, Middle East 18–25 days, Australia 12–18 days, Japan/South Korea 7–12 days. Total timeline from order to delivery: US ~40–50 days, EU ~55–65 days, Middle East ~45–55 days, Australia ~38–48 days, Japan/Korea ~30–40 days. Rail option to EU: 18–22 days transit (vs. 28–35 by sea). For time-sensitive orders, we recommend ordering at least 60 days before your needed-by date to account for any unforeseen delays.
-- **CTA**: "When do you need the equipment? I can work backwards from your deadline to create a guaranteed delivery schedule."
-
----
-
-### Q: "Do you offer volume discounts?"
-**中文**: 你们提供量价折扣吗？
-- **场景**: 买家计划大批量采购，寻求价格优惠
-- **根因**: 量价关系是B2B采购的核心谈判内容
-- **调查信号**: 买家提到large order、100+ units、annual volume、budget
-- **回复策略**: 展示三级价格体系+强调混合产品优惠
-- **回复模板**:
-  > Yes — we offer three pricing tiers: Standard (10–30 units), Volume (30–100 units, ~8–12% discount), and Premium (100+ units, ~15–20% discount). Beyond unit price, we offer additional volume benefits: [1] Mixed product discount: Order reformers + chairs + barrels together for an additional 5% off the combined order. [2] Annual volume agreement: Commit to an annual volume and receive the Premium tier pricing on all orders, even small restocking orders. [3] Free container loading plan and mixed product loading optimization (saves 10–15% on shipping). [4] Free OEM setup (logo, color) for orders of 30+ units. [5] Priority production scheduling for volume partners — your orders skip the queue during peak season. The best value comes from our "Full Studio Package" — reformer + Cadillac + chair + barrel + accessories bundled together.
-- **CTA**: "What's your estimated annual volume? I can prepare a volume pricing agreement tailored to your needs."
-
----
-
-### Q: "What happens if there are quality issues with the products I receive?"
-**中文**: 收到产品有质量问题怎么办？
-- **场景**: 买家担心售后保障，特别是在远距离采购的情况下
-- **根因**: 售后保障是降低采购风险的最后防线
-- **调查信号**: 买家提到warranty、after-sales、defective、return policy
-- **回复策略**: 清晰的售后政策+快速响应承诺
-- **回复模板**:
-  > We stand behind our products with a clear quality guarantee: [1] Inspection before shipment: Every unit is fully inspected (our 10-step QC process). We also welcome your third-party inspection (SGS, TUV, BV). [2] Shipping damage: If damage occurs during transit, send photos within 7 days of receipt. We'll send replacement parts at our cost (including shipping). [3] Manufacturing defects: If you discover a manufacturing defect within 12 months of delivery, send photos/video and we'll send replacement parts at our cost. For major defects affecting usability, we'll replace the entire unit. [4] Spring replacement: Our springs are rated for 20,000+ cycles (3–5 years in busy studios). Replacement springs are always in stock and ship within 3 business days. [5] Our commitment: We've been manufacturing pilates equipment for 15+ years. Our defect rate is under 1%. We'd rather fix a problem quickly and keep a long-term partner than argue over a single unit.
-- **CTA**: "I'll include our full warranty policy document with your quote. Any specific concerns I can address?"
+# 普拉提器械产品专项 FAQ
+
+本文件为通用采购核查与回复指引，不是已验证的 BYFIT 型号参数、测试结果或售后承诺。回答客户时，以当前型号、图纸版本、订单配置和有效证据为准；缺少证据就写“待确认”。不把品牌经验、弹簧颜色、演示视频或别家说明书当作本产品合格证明，不提供医疗效果承诺，也不让买家自行进行超载、冲击或悬吊试验。
+
+## 目录
+
+1. [器型选择与配套边界（PE-001—010）](#主题一器型选择与配套边界)
+2. [木材金属与软包追溯（PE-011—020）](#主题二木材金属与软包追溯)
+3. [弹簧阻力与连接可靠性（PE-021—030）](#主题三弹簧阻力与连接可靠性)
+4. [滑车轮组轨道与噪音（PE-031—040）](#主题四滑车轮组轨道与噪音)
+5. [绳索踏杆与调节锁定（PE-041—050）](#主题五绳索踏杆与调节锁定)
+6. [用户适配稳定与安全使用（PE-051—060）](#主题六用户适配稳定与安全使用)
+7. [说明文件标准与声明范围（PE-061—070）](#主题七说明文件标准与声明范围)
+8. [样品检验与耐久证据（PE-071—080）](#主题八样品检验与耐久证据)
+9. [定制包装与装柜交付（PE-081—090）](#主题九定制包装与装柜交付)
+10. [维护备件与售后决策（PE-091—100）](#主题十维护备件与售后决策)
+
+外部核查入口：[Balanced Body 分型号安全说明](https://www.pilates.com/support/safety-guides/)、[Merrithew 分型号维护资料](https://www.merrithew.com/support/product-care)、[ISO 官方标准目录](https://www.iso.org/standard/81908.html)。仅用于寻找证据类型与适用范围，不移植其中的参数、保养周期或认证结论；涉及市场准入时另行核查现行要求。
+
+## 主题一：器型选择与配套边界
+
+### PE-001 | 家用款和工作室款能否只按售价区分？
+- 核查：比较两款的预定使用环境、滑车行程、调节结构、维护要求与对应测试报告，确认“商用”是否有型号级依据，而非仅换名称或软包颜色。
+- 行动：先收集每天课程安排、使用者范围与搬运频率，按实际工况逐项比较。报价中列出真正不同的结构与未确认项，不把较重、较贵或木制直接解释为商用合格。
+
+### PE-002 | 带塔普拉提床是否可以完全替代凯迪拉克床？
+- 核查：查看带塔床的塔架连接、垫面覆盖、立柱高度和允许附件，另核凯迪拉克的顶架、横杆与动作限制，确认两者批准的功能范围。
+- 行动：请教练列出必须开展的器械动作，再匹配具体结构。带塔配置不因外观相似就具备完整顶架功能；未批准的悬吊、倒挂或横向受力用途应从方案中排除。
+
+### PE-003 | 全凯迪拉克与半凯迪拉克应如何选择？
+- 核查：核对整机结构图、固定方式、弹簧连接点与推杆运动范围，检查所需顶架功能是否真实存在，以及墙装或落地方案各自的安装条件。
+- 行动：将课程需求与房间可用高度、墙体条件一并交给技术人员评估。不要用“半套更省空间”代替适配确认；缺少顶架的方案须明确不能覆盖的教学项目。
+
+### PE-004 | 分体踏板椅一定比单踏板椅更适合教学吗？
+- 核查：检查分体踏板的独立弹簧连接、联动销、回位限位及左右踏板尺寸，并查看单踏板与分体状态分别适用的操作说明。
+- 行动：让教练按是否需要左右独立控制决定，样品验收同时演示联动切换和锁销就位。若课程以联动动作为主，不以功能数量作为唯一选型理由，也不在受力时切换状态。
+
+### PE-005 | 梯桶与脊柱矫正器可以作为同一种设备报价吗？
+- 核查：分别确认弧面尺寸、底座结构、梯档位置、可调间距与标配附件；核实名称对应的实物图片，避免把大梯桶、小弧桶和矫正器混为一项。
+- 行动：按教练要求的支撑位置和设备用途分别列型号、尺寸与数量，不用“桶类套装”掩盖结构差异。对矫正、康复等名称只解释器型，不许据此承诺治疗作用。
+
+### PE-006 | 可折叠床节省空间，是否能直接代替固定床？
+- 核查：获取展开、折叠及搬运状态的尺寸和重量，检查铰链、锁扣、折叠操作人数及存放姿态限制，另看轨道拼接与机构耐久证据。
+- 行动：把实际门宽、储物位置和每天折叠次数作为选型条件。要求按说明演示完整收纳流程；若需频繁教学转换，应将搬运劳动与锁定复检时间计入运营安排。
+
+### PE-007 | 高床身是否就代表更适合特殊人群？
+- 核查：核对实际垫面高度、上落通道、边缘支撑和教练辅助空间，同时查看型号说明的适用范围，不以“康复款”字样替代功能证据。
+- 行动：请现场教练或适当专业人员评估上落便利性，再选择高度。回复只讨论器械尺寸和操作条件；对行动受限者的适用性与训练安排，不作远程医疗判断或效果保证。
+
+### PE-008 | 多台床堆叠存放需要额外确认什么？
+- 核查：确认该型号是否允许堆叠、需拆卸哪些部件、专用承托点及堆叠限制；查看存放示意图，辨别普通运输叠放与日常收纳叠放。
+- 行动：按厂方批准的收纳方式规划存放区和搬运人数。未提供堆叠设计证据时，不建议把床架直接压在滑车、软包或脚杆上；将所需支架与防护件单独列入清单。
+
+### PE-009 | 普拉提床配件越全，采购方案就越好吗？
+- 核查：逐件核对跳板、坐箱、杆、脚带、环与垫的型号兼容表、固定方式、数量和包装清单，确认展示照片中的物品是否真正包含。
+- 行动：按开业首批课程选必需配件，把可后购项另列，报价注明标配和选配。要求样品展示关键附件安装，避免为未计划的教学功能采购不兼容或缺少固定件的配件。
+
+### PE-010 | 客户只发一张器械图片，怎样防止选错型号？
+- 核查：从图片辨识床架、塔架、滑车、弹簧挂点与附件，但把隐藏结构和尺寸列为未知；核对现行型号图册，不能凭外观认定同款。
+- 行动：回传标注图，请客户确认必须保留的功能、占地和器型，再提供可核对的配置表。正式报价绑定型号及图片版本；相似外观只能作为选型线索，不能作为互换承诺。
+
+## 主题二：木材金属与软包追溯
+
+### PE-011 | 橡木、枫木与橡胶木是不是不同翻译的同一种木材？
+- 核查：索取木材中文名、英文名及能提供的树种信息，核对采购单、物料表与实物；橡木、枫木和橡胶木应分开确认，不能互作别名。
+- 行动：把树种写入确认单，并问清哪些部件使用该木材。若供应证据仅写“硬木”，就保留具体树种待确认，不用颜色或纹理照片推定材种，也不无依据排列品质等级。
+
+### PE-012 | “实木框架”是否意味着整机每个部位都是整块木头？
+- 核查：获取床框、滑车底板、坐箱和桶体的分部材质表，区分整材、拼板、指接材、胶合板及饰面板，并检查连接处与未封闭截面。
+- 行动：将“实木”限定到已核实部件，说明允许的拼接形式与板材用途。客户要求全实木时先澄清范围，再确认可生产性，不把承力框架材质扩展为整机全部部件的描述。
+
+### PE-013 | 木床到达不同气候地区，如何评估开裂变形风险？
+- 核查：查看木材干燥记录、抽测含水率的方法与日期、封闭涂装范围，以及成品仓储条件；同时了解目的地室内湿度与空调使用情况。
+- 行动：由技术人员根据树种、结构和运输环境确定控制要求，并写入验收条件。不要承诺固定含水率适合所有地区；交付时提供适应环境与存放提示，发现裂缝先判定位置和影响。
+
+### PE-014 | 木床连接使用胶水还是螺栓，哪一种更可靠？
+- 核查：检查连接剖面、榫接或紧固件布置、胶黏剂用途及装配记录，重点看承力接点如何限制松动与开裂，而非只数螺栓数量。
+- 行动：按可维护性、运输拆装和对应结构测试比较方案。要求说明可拆连接与不可拆胶接位置，避免为方便搬运自行拆开胶合部位；可靠性判断以完整连接系统证据为准。
+
+### PE-015 | 铝合金床是否只要标出合金牌号就足够？
+- 核查：核对承力型材的合金与状态、截面图、壁厚测量和表面处理记录，检查材料证明能否关联实际批次，不将外购样条报告当作整机证明。
+- 行动：把关键型材规格和允许变更程序写入订单，要求样品与量产采用一致结构。不能仅凭某个牌号宣称更稳或更轻；对减薄、改孔或换型材的提议重新评估结构影响。
+
+### PE-016 | 不锈钢塔架是不是可以忽略焊缝和紧固件检查？
+- 核查：分别查看立柱、横杆、焊接区及螺栓的材料记录，检查焊缝、锐边、连接件防松与表面状态；外表发亮不能证明全部部件均为不锈钢。
+- 行动：将关键连接的检验要求独立列出，不用材质名称替代工艺验收。若用于潮湿环境，先确认允许条件和防护方案；发现锈迹按部位追溯，不直接认定整机材料虚假或安全无虞。
+
+### PE-017 | 木纹和喷涂颜色匹配后，还要核对哪些表面指标？
+- 核查：取得实物涂层样板、光泽与触感确认记录，查看手握区、边角及连接孔附近的处理，确认木纹是天然纹理、贴面还是装饰涂层。
+- 行动：把外观允差、边缘触感与清洁剂兼容性分别确认。天然木纹不能承诺逐台完全一致；要求客户批准代表性范围，而不是仅凭手机图片要求所有设备无色差。
+
+### PE-018 | PU、PVC和真皮软包能否按同一清洁标准交付？
+- 核查：核对面料成分、基布、供应批次和推荐清洁剂，查看耐磨、耐清洁剂等报告是否对应实际面料，不能由“皮革”这一统称推导性能。
+- 行动：让客户先确认使用的消毒产品，再由供应方核对兼容性并做获准的小面积验证。将面料选项写清楚，避免“抗菌”“医用”等无证据描述，也不承诺所有清洁剂均适用。
+
+### PE-019 | 海绵密度越高，滑车和桶面一定越舒适吗？
+- 核查：查看泡棉材质、密度、厚度、硬度与层叠结构，实测垫面恢复及边缘支撑；区分供应商原料数据和装配后的实际软包表现。
+- 行动：按坐、跪、卧等支撑需求安排教练评样，固定批准的软包组合。不要把单一密度数字等同于舒适度或寿命；量产验收同时保留厚度、触感样板和可比较的检验条件。
+
+### PE-020 | 怎样证明样品和量产使用了同一类关键材料？
+- 核查：检查样品物料表、木材批次、弹簧和轮组编号、面料色号及量产领料记录，确认关键材料证据能关联到订单和成品标识。
+- 行动：建立批准物料清单与替代审批规则，明确哪些变化需要重新寄样或复核。材料报告无法追溯时只作为参考，不将其作为该批货的证明；出货资料保留必要的批次对应关系。
+
+## 主题三：弹簧阻力与连接可靠性
+
+### PE-021 | 红色弹簧在所有普拉提器械上都代表同一阻力吗？
+- 核查：索取当前型号的弹簧色码表、零件号、自由长度和规定伸长位置的力值；核对床、椅、塔架各自说明，颜色不能跨品牌或跨器型通用。
+- 行动：给客户型号专用对照表，使用力值时注明单位与测量位置。课程迁移需由教练重新熟悉阻力，不建议根据旧设备颜色直接配课，也不把色码换算成未经验证的固定重量。
+
+### PE-022 | 报价写“重弹簧”还需要提供阻力曲线吗？
+- 核查：查看弹簧在允许工作行程内的力与伸长记录、初始预拉伸条件和测量方法，确认“重”是相对本型号其他弹簧，还是有明确比较基准。
+- 行动：在客户关心起始与末端感觉时，要求可比较的曲线或多点数据，不只给一个末端力值。资料不足就保留定性描述，禁止把弹簧阻力视为全程恒定的配重数值。
+
+### PE-023 | 两台床装同一根弹簧，起始阻力为什么仍可能不同？
+- 核查：核对弹簧挂点间距、齿杆位置、滑车限位和弹簧自由长度，记录测量时的初始位置；先排除两台床的设置不同，再讨论弹簧差异。
+- 行动：建立相同配置的基准位置，由合格人员按说明复位并比较。不要直接拉长弹簧、移动挂钩或增加非原装连接件来追求一致；需要改变几何位置时请供应方评估并书面确认。
+
+### PE-024 | 五根弹簧是否必然比四根弹簧提供更多有效训练档位？
+- 核查：确认弹簧种类、各根阻力、允许组合、最大伸长和挂点布置，检查不同组合的力值是否接近，以及说明书是否禁止某些配置。
+- 行动：用批准的组合表解释实际可选范围，而不是只用数量计算宣传档位。让教练根据课程需要选择配置；不为增加卖点列出未经验证或重复的阻力组合，也不越过设备允许范围。
+
+### PE-025 | 买家要求同档弹簧手感一致，应怎样约定验收？
+- 核查：取得同零件号弹簧的抽样数量、多个规定伸长点的力值、测量设备与结果分布，辨别公差是供应商目标还是该批实际检验结论。
+- 行动：在下单前约定测量条件、允许偏差及不符处理，避免只凭不同教练的主观感受判退货。没有测量证据时不报固定精度，也不引用行业平均值来宣称优于其他品牌。
+
+### PE-026 | 弹簧循环测试次数能否直接换算成使用年限？
+- 核查：查看测试的伸长范围、频率、环境、失效判据和样本数，确认循环记录对应当前弹簧结构；试验次数本身不包含实际课程强度与维护状况。
+- 行动：向客户分开说明耐久试验和更换指引，要求按本型号说明及实际检查管理。不能把次数换算为保证年限，也不能以外观完好证明弹簧没有疲劳；异常件应停用并确认处置。
+
+### PE-027 | 弹簧本体正常，挂钩和快扣还需单独验收吗？
+- 核查：检查端钩形状、连接环、快扣闭合、销轴及接触磨耗，核对连接件材质与适用部位；确认报告是否覆盖弹簧端部和连接组件。
+- 行动：将挂接系统纳入开课前检查，发现开口变形、闭合不良或异常磨损即隔离相关器械。不可用普通钥匙扣、铁丝或不明快扣代替原批准连接件，并要求供应方给出匹配零件号。
+
+### PE-028 | 宣称“进口琴钢丝”能否证明弹簧品质？
+- 核查：核对原料材质证明、批次来源、成形与表面处理记录，以及成品弹簧的阻力和耐久检验；区分材料产地与弹簧实际制造地点。
+- 行动：只在证据可追溯且允许披露时写产地或材料名称，把质量判断落实到成品验证。无法确认的“进口”标签删除，不以某国原料或某种钢丝自动推导精度、寿命或安全等级。
+
+### PE-029 | 普拉提椅换一个弹簧挂点，为什么不能只说更轻或更重？
+- 核查：查看该椅挂点编号、弹簧工作角度、允许组合与踏板行程，记录比较时使用的弹簧及位置；不同位置的作用需按本型号说明解释。
+- 行动：给出椅子专用配置图，请教练按批准设置熟悉踏板响应。切换前按说明解除受力并防止踏板突然回位，不用其他品牌椅子的档位经验推定本机设置，也不提供未经验证的难度等级。
+
+### PE-030 | 凯迪拉克的上拉、下拉与吊杆弹簧可以互换吗？
+- 核查：核对各位置弹簧的零件号、长度、连接件、批准挂点及安全限制，检查推杆、滚杆和吊杆的组件清单，不能只比较颜色和外观。
+- 行动：按功能分别标识与收纳弹簧，并提供当前配置图。未列入兼容清单的互换先请技术人员确认；涉及推杆受力方向改变时，必须同步复核安全带和控制要求，不现场随意试装。
+
+## 主题四：滑车轮组轨道与噪音
+
+### PE-031 | 八轮滑车一定比四轮滑车更顺滑吗？
+- 核查：检查承重轮、导向轮的实际分工、轮材、轴承、轨道配合与可调间隙，并在同一配置下观察运行；轮子数量不足以证明顺滑程度。
+- 行动：把比较转为起动、全行程、横向稳定与维护便利性的样品评估。要求清楚展示轮组位置和检验条件，不承诺“零晃动”或“绝对静音”，也不单凭轮数判定另一方案低质。
+
+### PE-032 | 滑车左右有轻微间隙，是缺陷还是正常配合？
+- 核查：记录间隙位置、测量方法、滑车所处行程与负载条件，查看该轮轨结构的设计允差；区分导向间隙、轮轴松动和床框整体晃动。
+- 行动：把视频与测量记录交给技术人员按型号判定。未获指导前不要把轮子调得过紧来消除所有间隙；若出现脱轨倾向、卡滞或显著异常，应暂停使用而不是凭手感判断可继续教学。
+
+### PE-033 | 空载滑动视频足以说明学员使用时的顺滑度吗？
+- 核查：查看视频的弹簧连接、滑车起点、拍摄角度与载荷条件，确认它只展示空载还是覆盖厂家规定的正常使用状态，避免混用两类结论。
+- 行动：要求在批准程序下补充完整行程演示及有条件的使用评价，不让买家自行堆重物测试。对卡顿、侧倾等问题按实际工况调查，不用一次空载推车的视频代替结构与耐久证明。
+
+### PE-034 | 客户要求“完全无声”的床，应怎样回应？
+- 核查：确认客户指的是轮轨声、弹簧声、绳轮声还是结构异响；记录房间背景、地面、配置、操作速度与录音距离，避免对比不同条件的视频。
+- 行动：先约定可重复的噪音评价条件，再提供可取得的实测或现场演示。没有数据就描述运行情况而非给出分贝承诺；持续异响需定位处理，不用背景音乐或剪辑掩盖声音。
+
+### PE-035 | 长轨道有拼接处，会不会让滑车每次经过都顿一下？
+- 核查：检查是否存在拼接、折叠或接长结构，查看接缝高低差、固定方式及全行程运行记录，区分接缝问题与局部轮子损伤造成的顿挫。
+- 行动：将接缝区域纳入样品和到货复检，在批准设置下由合格人员观察通过情况。不能仅靠打磨轨道或加垫片消除症状；若拼接需要现场校准，应由供应方提供明确装配与判定要求。
+
+### PE-036 | 同样的弹簧设置，为什么两台床滑车感觉一轻一重？
+- 核查：同时记录滑车质量、轮轨阻力、绳路、挂点及弹簧配置，确认是否混用了不同长度或旧弹簧；主观用力感不只来自弹簧名义档位。
+- 行动：先统一设置再分项排查，把轮轨异常与正常设计差异区分开。对比采购时要求同条件体验，不承诺两个不同结构的型号手感完全相同，也不直接通过加弹簧补偿机械卡滞。
+
+### PE-037 | 滑车末端的缓冲块只是防撞软垫吗？
+- 核查：确认限位器与缓冲件的位置、零件号、安装方向及检查要求，查看终点间隙和允许行程；辨别承力限位件与仅用于降噪的软质件。
+- 行动：把缺失、松脱或开裂的终端部件作为使用前处置项，由供应方确认更换。不要通过猛烈撞击终点检验强度，也不随意拆除缓冲件来增加行程；行程需求应通过正式选型解决。
+
+### PE-038 | 更换一个轮子需要把整组轮子都换掉吗？
+- 核查：核对现用轮子的尺寸、材料、轴孔、导向功能和修订版本，检查其余轮子的磨耗与批准更换规则，确认新旧轮组能否配套。
+- 行动：将照片、序列号和磨耗情况发给售后决定单件或成组更换，不以外径相近就采购通用轮。更换后按规定复核滑车运行与导向间隙，避免新旧差异引入偏载或卡滞。
+
+### PE-039 | 轨道积灰是否直接用润滑油清理最方便？
+- 核查：查看本型号轮材、轨道表面处理和清洁维护说明，辨识灰尘、毛发、黏性残留或材料脱落；清洁方式与是否允许润滑应分别确认。
+- 行动：先按批准方法去除污染并擦干，再复查运行。不要默认喷油能改善顺滑，油脂可能改变接触状态或黏附污物；若清洁后仍卡顿，转入轮轴和轨道检查，不反复加油掩盖问题。
+
+### PE-040 | 滑车异响只在一个位置出现，该怎样向售后描述？
+- 核查：记录异响发生的行程位置、方向、是否随某轮转动重复及弹簧连接状态，用安全角度拍摄轨道、轮组和紧固点，不在运动部件间伸手定位。
+- 行动：提供整段未剪辑视频和位置标记，便于售后区分轮面损伤、轨道污染或连接松动。伴随卡滞、结构位移时先停用；没有明确维修指令，不自行拆卸承力件或让学员反复试练。
+
+## 主题五：绳索踏杆与调节锁定
+
+### PE-041 | 左右绳索看起来一样长，是否就已经调平？
+- 核查：按本型号指定的滑车、限位器和弹簧位置比较左右绳路、握环及调节基准，检查是否存在不同打结、磨耗或绕轮方式，不能只量外露绳段。
+- 行动：依据原厂调节步骤校准并留下基准照片，开课转换配置后复核。不要用临时结、剪绳或随意移扣来补偿差异；若在标准设置下仍无法一致，先确认绳件与滑轮是否匹配。
+
+### PE-042 | 绳索锁扣夹住了绳子，为什么仍需核查防脱结构？
+- 核查：检查绳径与锁扣规格、穿绳路径、锁止状态及辅助保持件，查看说明中的就位判据；静止时夹住不等于运行中不会滑移或脱出。
+- 行动：安装和调节后按批准程序复核锁定，发现绳滑、夹齿损伤或断丝就暂停使用。不可换成不明直径绳索或磨削锁齿；让售后以零件号确认绳扣组合，必要时整套替换。
+
+### PE-043 | 升高滑轮立柱只影响绳长，不影响使用方式吗？
+- 核查：查看滑轮柱允许高度、左右刻度、锁定结构及绳索经过的位置，确认高度改变后的拉力方向与活动空间是否仍符合说明范围。
+- 行动：由教练按课程选用批准高度，调整前解除相关受力并确保插销或夹紧件就位。把高度和绳长分别复核，不让滑轮柱超过标识范围，也不把可升高直接宣传为适合所有动作。
+
+### PE-044 | 踏杆放入槽位后还要怎样确认已经锁住？
+- 核查：核对该踏杆是槽位、插销、旋钮还是组合锁定，查看左右支撑、就位标识和操作顺序；只听到声音或看到一侧入槽不能证明两侧均锁定。
+- 行动：把型号专用锁定图纳入交付培训，由操作人员依说明做无人员受力的确认。若左右不一致、插销不能完全进入或存在异常松动，立即停用排查，不让使用者靠身体重量压入槽位。
+
+### PE-045 | 调节弹簧杆和滑车限位器，能否沿用同一套位置规则？
+- 核查：分别确认弹簧杆控制的挂接几何与限位器控制的起始位置，查看允许组合、锁定方式及禁用组合，避免两个调节点只按数字对号入座。
+- 行动：制作与当前型号一致的设置图，要求在说明规定的安全状态下调节。不能从另一品牌的位置编号照搬；客户需要更大行程或更短起始距离时，先核查组合是否被批准。
+
+### PE-046 | 头枕和肩托的调节是否只是舒适性选择？
+- 核查：查看头枕档位、肩托固定及可拆部件的使用限制，确认不同配置下哪些位置被允许；检查锁定、边缘与滑车运动是否有干涉。
+- 行动：请教练按器械说明和具体课程设置，交付时演示复位与固定检查。不要把某一头枕位置推荐给所有动作或所有使用者；对疼痛、颈部问题等情况不提供替代专业评估的设备设置建议。
+
+### PE-047 | 塔架装到床上后，哪些位置需要重复确认？
+- 核查：对照装配图核对立柱方向、底座连接、横杆、弹簧眼环与防松件，查看紧固顺序和指定工具要求，确认附件没有漏装或以运输固定件代用。
+- 行动：由合格安装人员完成记录并按说明复检，首次使用前完成现场交接。不得只凭塔架“不晃”就验收，也不在未确认的床架上加装塔架；结构不匹配时转为正式改型评估。
+
+### PE-048 | 普拉提椅扶手和踏板联动销为何要分开确认？
+- 核查：查看扶手高度锁定与防拔结构，再检查踏板联动销的插入深度、保持件和切换要求；两者控制不同风险，不能用同一“已拧紧”结论概括。
+- 行动：按动作准备流程分别确认扶手与踏板状态，切换时遵守卸载和控制回位要求。任何锁销不全、扶手滑动或孔位损伤均先停用，不能用临时螺栓替代专用联动销继续上课。
+
+### PE-049 | 梯桶间距可以调得越远越好吗？
+- 核查：核对桶体与梯架的允许间距、滑动范围、锁紧结构及刻度，查看调整后连接处是否仍保持规定支撑，不能只根据腿长拉到极限。
+- 行动：由教练在批准范围内设定并按说明锁紧，使用前确认桶体无意外滑动。若现有范围不满足教学需求，应换型号或重新选型，不自行延长导杆、加垫木或越过限位增大间距。
+
+### PE-050 | 跳板只要能插进床架，就算兼容吗？
+- 核查：核对跳板零件号、插槽尺寸、固定件、承托接触面和适用型号，查看安装方向与批准用途；“插得进去”不能证明承载路径正确。
+- 行动：要求供应方确认兼容并演示完整固定，再由教练按说明使用。对第三方跳板或改版床架先做技术核对，不自行削薄插脚、钻孔或叠垫固定；不兼容时应更换匹配附件。
+
+## 主题六：用户适配稳定与安全使用
+
+### PE-051 | 高个和矮个学员能否只按床的总长度选型？
+- 核查：同时确认滑车有效行程、肩托到踏杆的距离、起始位置范围与绳路调节，区分包装长度、床架长度和实际可用运动空间。
+- 行动：请教练用代表性身高与课程需求验证批准设置，避免让学员超伸或以不当姿态迁就尺寸。资料不足就说明适配待评估，不给所有身高通用的结论，也不通过拆限位器增加空间。
+
+### PE-052 | 标注最大承重，是否表示所有部位都能承受同样重量？
+- 核查：查看额定使用者质量、允许使用方式与测试报告中的载荷位置，分别确认踏杆、扶手、跳板、吊杆等附件限制，区分额定值与试验载荷。
+- 行动：只引用当前配置已确认的限值，并说明不能扩展到任意姿势或附件。客户要求更高承载时交由技术人员评估；不以试验载荷充当可用承重，更不能请客户加人或加重物自行验证。
+
+### PE-053 | 设备在瓷砖地上轻微摇晃，是否一定是床架变形？
+- 核查：记录地面平整度、各支脚接触、调平脚状态及装配情况，检查床框与塔架是否同步移动；先区分地面原因、安装问题和结构损伤。
+- 行动：按说明由合格人员调平并复查，不能靠折叠纸片、松散木块或随意加软垫解决。若调平后仍晃动，暂停使用并保留检查记录，安排技术判定后再决定维修或更换。
+
+### PE-054 | 教室排布只留床架之间的间距就够了吗？
+- 核查：核对踏杆、绳索、滑车、推杆与附件的完整运动范围，另看教练辅助、上落器械、疏散和搬运通道，不能把产品占地当作使用占地。
+- 行动：在带尺寸的房间图上标出动态边界，再结合当地场地要求审核。设备数量以安全操作空间为约束；开门、镜面或墙角进入运动区时调整排布，不通过缩短安全空间凑台数。
+
+### PE-055 | 器械附带动作视频，是否意味着初学者可以无人指导使用？
+- 核查：查看说明中的使用者要求、监督条件与禁用用途，区分设备操作视频、安装教学和专业课程培训，三者不能相互替代。
+- 行动：向采购方确认教练培训与现场管理安排，交付时说明视频的用途边界。对复杂弹簧、椅踏板或推杆动作按型号要求监督，不用“简单易上手”弱化风险，也不远程指定个人训练处方。
+
+### PE-056 | 凯迪拉克推杆已有弹簧，为什么还要安全带或安全链？
+- 核查：核对当前推杆受力方向、批准安全带或安全链的连接位置与限制，检查专用件状态及说明中的控制要求，不能借用另一器型的绑法。
+- 行动：由受训人员按本型号说明安装、调整并全程控制推杆，保持其运动区域安全。缺少安全件或连接不明时停止相关使用；不要让客户松手试弹或用普通绑带代替专用安全组件。
+
+### PE-057 | 固定站台与滑车接缝处能否随意站立或跨步？
+- 核查：确认站台尺寸、防滑表面、滑车初始固定条件、附件及允许的上落方式，识别接缝夹点和移动边界；站台存在不代表任意跨步均被批准。
+- 行动：请教练按说明规划上落与动作准备，避免在未控制滑车时让学员踩入移动区域。缺少固定平台或需要额外扩展板的用途应先配齐批准件，不用坐箱或散放板材临时搭桥。
+
+### PE-058 | 普拉提椅体积小，为什么仍可能需要更大操作空间？
+- 核查：查看踏板行程、扶手高度、底座支撑范围与允许受力方向，了解课程是否含单侧支撑或站立动作，不能把椅子静态占地当作稳定边界。
+- 行动：由教练按批准用途安排监督和周边空间，设备若需专用固定措施须按说明实施。不要自行在底座压重或加装未经确认的支腿；出现倾斜、移动或踏板异常时立即停止使用。
+
+### PE-059 | 梯桶或脊柱矫正器在地面滑动，可否铺普通毛巾解决？
+- 核查：检查底部防滑件、地面材质、污染与潮湿情况，核对允许的放置方式和配套垫；确认滑动来自底座接触还是桶体锁定不良。
+- 行动：按批准方式清洁、干燥并恢复防滑接触，必要时请供应方确认专用垫。普通毛巾可能改变支撑状态，不应当作通用固定方法；仍有移动时停用并排查，不能让教练用身体顶住代替维修。
+
+### PE-060 | 可直立收纳的床，任何型号都能靠墙竖放吗？
+- 核查：确认直立存放是否为批准功能、所需支撑或锁定件、弹簧与滑车状态，以及搬运人数和地面条件；可折叠不自动等于可直立。
+- 行动：仅按型号说明收纳并划定防碰倒区域，存放前清点可脱落附件。没有批准姿态就保持规定放置方式，不依赖墙面或临时绳索支撑；移动和重新展开后按清单复检再投入使用。
+
+## 主题七：说明文件标准与声明范围
+
+### PE-061 | 所有无电普拉提器械都必须有同一种 CE 证书吗？
+- 核查：先确认产品功能、是否含电气部件、预定用途与目标市场，再核对所声称法规的适用范围及声明文件；不能从“健身器械”统称直接推导认证义务。
+- 行动：请进口方或合规专业人员按当前法规确认路线，并逐型号整理证据。没有适用依据不承诺“全部 CE”，也不把自愿测试报告称为普遍强制证书；报价将待核实的文件单列。
+
+### PE-062 | 写着 ISO 20957 就能证明整套普拉提器械合格吗？
+- 核查：核对报告引用的具体部分、版本、适用类别、测试项目与型号配置，检查实验室如何论证该器械适用性，而不是只看标准编号或封面结论。
+- 行动：按器型建立适用标准与报告矩阵，必要时请有资质机构确认测试方案。某个型号的一份报告不能自动覆盖整套器械，也不能把尚未实施的测试计划写成已通过检测。
+
+### PE-063 | 报告型号与订单型号不同，能否解释为同系列共用？
+- 核查：比对报告样品照片、结构、关键尺寸、弹簧系统与物料清单，查找报告或机构正式列出的覆盖型号及差异评估，不能只凭系列名称相同。
+- 行动：请检测机构或责任方书面确认覆盖关系，无法确认时安排补充评估。对客户明确哪些型号已有证据、哪些待补，不修改报告型号或截图掩盖差异，也不以销售口头承诺替代覆盖依据。
+
+### PE-064 | 普拉提床通过测试，凯迪拉克和椅子还需另外核查吗？
+- 核查：分别查看凯迪拉克顶架、推杆和弹簧挂点，椅子的踏板、扶手与稳定性，以及床的轮轨和踏杆；确认报告究竟测试了哪些独立结构。
+- 行动：按设备而非按整张订单收集证据，未覆盖功能另列测试需求。不能用床的报告证明椅子或桶类合格；同一厂商、相同材料或相同弹簧也不构成整机安全性的互相替代。
+
+### PE-065 | 英文组装视频能否代替本地语言说明书？
+- 核查：核对目标市场对说明和警示语言的要求，检查视频是否对应当前结构，另看书面手册的安装、锁定、安全、维护和备件内容是否完整。
+- 行动：由责任方确认应交付的语言与载体，视频只作为辅助。翻译前锁定型号和版本，并让技术人员复核警示及部件名称；不把不匹配的公开视频作为订单说明书，也不省略风险内容。
+
+### PE-066 | 发票型号、铭牌和说明书名称不同会带来什么问题？
+- 核查：核对订单、装箱单、发票、铭牌、手册与报告的型号对应关系，确认别名、套装名和独立设备编号是否有清晰映射，序列号规则是否一致。
+- 行动：出货前建立一张型号对照表并修正真实错误，让进口、安装与售后能识别同一设备。不得为迎合文件要求随意改铭牌或报告；套装应保留各主机及附件的具体身份。
+
+### PE-067 | 面料或涂层有化学检测报告，怎样判断能否用于本批货？
+- 核查：检查检测对象、材料代码、颜色、生产批次、测试项目与日期，确认覆盖的是面料、胶黏剂、涂层还是整机，且与目标市场要求相关。
+- 行动：按实际材料建立证据对应关系，对换色、换供应商或换涂层先评估是否需补测。不要把一块黑色面料的报告扩展为所有颜色、所有部件“无毒环保”，也不随意宣称绝对无害。
+
+### PE-068 | 客户想宣传康复治疗作用，器械资料可以直接这样写吗？
+- 核查：确认产品声明用途、当前注册或合规身份及可支持的证据，区分普通训练器械的尺寸功能与医疗用途宣称，不能借用教练资质或用户感受作证明。
+- 行动：在未完成适用性与声明审核前，只描述器械结构、调节和允许用途。将治疗、纠正疾病或保证疼痛改善等表述提交合规审查，不为营销需要把普通设备改称已认可的医疗产品。
+
+### PE-069 | 到货有组装手册，为什么还要安装验收记录？
+- 核查：查看现场人员是否核对了支脚、塔架、踏杆、绳路、安全件与附件，确认记录包含型号、序列号、手册版本、异常项及处理结果，而非仅签“收货”。
+- 行动：用分器型清单完成安装交接，未解决的安全项关闭后再开放使用。记录是现场状态追溯，不代替产品测试或认证；由责任人员确认，不能预先代签或把运输签收当作操作验收。
+
+### PE-070 | 旧目录写有承重和保养周期，新订单能否直接沿用？
+- 核查：比对旧目录的型号、发布日期、结构与现行说明和报告，检查是否换过弹簧、床框、附件或维护要求，识别来源不明的营销数字。
+- 行动：先建立当前型号的已确认参数表，再更新客户资料；不一致处书面澄清并留存版本。未经证实的承重、寿命、静音或认证表述删除或标为待确认，不让旧模板自动成为新订单承诺。
+
+## 主题八：样品检验与耐久证据
+
+### PE-071 | 买一台样品之前，应先约定哪些验收项目？
+- 核查：整理客户最关键的课程适配、尺寸、弹簧配置、滑车运行、锁定和附件要求，确认哪些能由样品观察，哪些必须依靠实验室或量产记录。
+- 行动：将样品目的和判定清单写入确认单，安排受训人员按批准方式评估。试用满意不等于所有耐久与合规项目通过，也不安排学员承担极限试验；样品发现的问题应关闭后再批准量产。
+
+### PE-072 | 木框细小裂纹如何区分外观问题与安全问题？
+- 核查：记录裂纹所在部位、走向、长度、是否靠近连接孔或承力接点，并拍全景与近照，核对是涂层裂、木材裂还是拼接缝，避免仅凭一张照片定性。
+- 行动：涉及承力部位或范围不明时先隔离设备，由供应方技术人员判定。不要自行填胶、打磨后继续教学；外观容限也应在样品确认时写清楚，不把所有天然纹理都视为缺陷或正常。
+
+### PE-073 | 到货床架尺寸正确，为什么仍要检查对角与安装关系？
+- 核查：按图纸检查关键装配尺寸、床框方正、轨道平行与支脚接触，区分包装尺寸符合和功能几何符合，并记录测量工具及设备放置状态。
+- 行动：由合格人员按验收方案测量，超差先排查装配与运输影响，再请技术人员决定处置。不要靠强拧连接螺栓把框架拉正；只量总长总宽不能证明滑车与附件配合均合格。
+
+### PE-074 | 软包样品看起来整齐，量产还应检查什么？
+- 核查：检查滑车、坐箱和桶面的缝线、包角、固定、厚度与支撑一致性，留意与活动件接触的边缘；确认外观样板没有掩盖底板或泡棉变化。
+- 行动：保留批准实物与照片，约定批量外观及触感抽检要求。发现破损、松脱或硬物外露时先隔离相关件，不用面料颜色一致代表软包结构相同，也不靠拍打泡棉判断长期耐久。
+
+### PE-075 | 出货前做一次滑车往返，能算完整功能检验吗？
+- 核查：查看检验是否覆盖绳路、踏杆各批准档位、头枕肩托、弹簧挂接、限位器及标配附件，确认每项有检查条件和结果，而非只有运行视频。
+- 行动：按型号制定逐项功能清单并记录异常关闭，复杂组件由合格人员操作。抽检与全检范围如实告知客户；不能把少量演示描述为每台全功能验证，也不让检验人员使用未批准动作测试。
+
+### PE-076 | 一份耐久测试结论缺少过程数据，还应追问什么？
+- 核查：索取测试样品身份、载荷与行程、循环方法、阶段检查、失效判据和测试后的状态，核对是否覆盖当前结构，而不是只看“通过”两个字。
+- 行动：让有资质人员解释结论可支持的范围，必要时补齐记录或重新验证。测试中途换件须披露，不能把无记录的连续运行视频当作耐久报告，也不由销售自行推导安全系数或使用寿命。
+
+### PE-077 | 分体椅的耐久验证为何不能只测试一个踏板？
+- 核查：核对试验是否覆盖左右独立、联动状态、铰接、联动销、回位限位与弹簧挂点，并确认测试配置与订单椅子相同，避免关键机构遗漏。
+- 行动：将不同工作状态交由技术人员纳入验证计划，样品检查联动与分体切换后的锁定。不能用单侧踏板测试结果自动覆盖所有组合；不要求客户以双人站踏、跳踩等非批准方式检验强度。
+
+### PE-078 | 凯迪拉克样品的重点是否只在床垫和立柱外观？
+- 核查：检查顶架连接、横杆调节、弹簧眼环、推杆轴、专用安全件与锁定状态，查阅对应的结构和耐久证据，确认运输拆装是否影响关键连接。
+- 行动：由合格人员按清单验收并演示批准配置，外观合格后仍须关闭硬件异常。不要通过悬挂额外人员或重物试顶架，也不在安全件缺失时试推杆；问题应由技术评估决定维修或重做。
+
+### PE-079 | 梯桶没有复杂运动部件，是否可以省略样品功能检查？
+- 核查：检查桶体弧面、软包支撑、梯档固定、间距调节与底部防滑，确认锁紧后各部位状态，并比对图纸尺寸与已批准结构。
+- 行动：由教练在允许用途内评估支撑与操作适配，将调节、固定及放置要求写入验收。不能因结构简单就只看颜色；任何梯档松动、桶体位移或底座异常应先处理，不用临时加固替代正式判定。
+
+### PE-080 | 批准样品之后，怎样避免量产悄悄改变配置？
+- 核查：封存样品版本及关键照片，关联物料表、图纸、弹簧零件号、轮组、软包与附件清单，检查量产变更记录及首件与样品的差异。
+- 行动：把变更通知、替代审批和首件确认写入订单流程，重要结构改变需重新评估或寄样。客户批准外观不代表同意内部换料；出货验收以批准版本为准，不以“同等材料”口头解释未授权替换。
+
+## 主题九：定制包装与装柜交付
+
+### PE-081 | OEM 贴牌除了放上客户标志，还要确认什么？
+- 核查：核对标志授权、文件版本、位置、尺寸与工艺，检查是否遮挡型号、安全警示、序列号或调节点，确认包装与说明书的责任主体信息。
+- 行动：先做带尺寸的标识确认稿并取得批准，再排产；无法确认授权的第三方标志不使用。定制不应抹去追溯和警示信息，也不承诺复刻其他品牌的外观、商标或受保护设计。
+
+### PE-082 | 客户给出色号，为什么还需要确认软包实物色样？
+- 核查：核对色号体系、面料纹理、光泽、底色和生产批次，确认样片与量产面料为同一材质；屏幕显示与小样灯光不能直接代表整机效果。
+- 行动：寄送可取得的实物色样并约定可接受差异，涉及多器型时统一批准范围。无法做到精确匹配就如实说明，不把喷涂色号直接当作面料色号，也不凭照片承诺跨材质完全一致。
+
+### PE-083 | 定制加长或加宽床架，是改图纸尺寸就够了吗？
+- 核查：评估尺寸变化对轨道支撑、滑车、弹簧行程、踏杆、绳路和稳定性的影响，确认原有报告与配件兼容性是否仍适用，不能只改外形图。
+- 行动：由技术人员制定改型和验证方案，再确认报价与交期。未经批准不承诺原承重、测试覆盖或收纳功能保持不变；客户仅需适配高个用户时，先比较现有可验证型号再决定改型。
+
+### PE-084 | 木床散装出货，如何减少现场装错或损伤？
+- 核查：确认允许拆分的部位、预装件、胶接件和专用紧固件，核对编号、安装方向及工具清单，查看包装拆分与说明书步骤是否对应。
+- 行动：以可识别的分包编号和型号专用装配图交付，关键连接按批准方案保留预装。不能为节省体积拆开不可拆接点；报价同时说明现场安装责任、所需人员和可取得的支持方式。
+
+### PE-085 | 普拉提床运输包装最需要保护哪些功能面？
+- 核查：查看轨道、轮组、脚杆、木框边角、软包与塔架接口的隔离及支撑，确认固定点不把压力传给移动组件，也不让金属附件接触软包。
+- 行动：按实际拆装形态设计包装并保留封箱照片，搬运标记与承托位置相对应。不能只以外箱厚度判断保护效果；包装验证发现部件相互碰撞时先调整内部固定，再讨论加厚外箱。
+
+### PE-086 | 弹簧、快扣和小五金混在一个袋子里会有什么风险？
+- 核查：对照每台器械的零件清单检查弹簧用途标识、快扣规格、螺栓长度、垫片和安全件数量，确认分包能追溯到对应主机而非只按重量装袋。
+- 行动：按安装步骤或功能分袋、标号并附清点表，易混弹簧明确位置和零件号。到货缺件先停在相应装配步骤，不允许用当地相近五金临时替代安全关键件；补件按原配置核对。
+
+### PE-087 | 一个集装箱能装多少台，是否可以按床的净体积估算？
+- 核查：取得最终包装外尺寸、单箱毛重、可叠层数、受压限制和装卸方式，另核门框、通道与混装附件占位，区分理论体积和可执行装柜方案。
+- 行动：用批准包装做排柜并留必要装卸与固定空间，数量确认以最终方案为准。包装尚未冻结时只给条件性估算，不为凑台数压迫轨道或软包，也不把未经验证的叠放方式当作可行条件。
+
+### PE-088 | 床、凯迪拉克、椅子与桶混装时，怎样防止错配？
+- 核查：查看每套主机、塔架、弹簧、软包与附件的箱号映射，确认外箱标记能区分型号、颜色和套号，并核对装箱单的件数与实际分箱。
+- 行动：建立“套号—箱号—内容物”清单，卸货时按套清点，再进入安装。不要仅以总箱数正确判定齐套；对共享配件单独标明分配数量，避免一台先装齐后导致另一台缺安全件。
+
+### PE-089 | 木制器械海运防潮是否只需多放干燥剂？
+- 核查：检查装箱前木材与包装状态、仓储环境、防潮阻隔、干燥剂适配及目的地运输条件，确认实木包装是否还需满足现行检疫处理要求。
+- 行动：由包装与物流人员按路线制定防潮方案，并分别核对产品木材和运输木包装的文件要求。干燥剂不能补救湿货封箱，也不承诺绝无霉变；到货受潮应先记录、隔离并判断结构影响。
+
+### PE-090 | 外箱完好但滑车卡滞，到货时应怎样保留证据？
+- 核查：记录封箱、箱号、内部固定、部件位置和解包过程，检查是否有位移、轨道压痕或漏装；把包装外观、安装状态与运行异常分开记录。
+- 行动：在安全条件下保留未剪辑影像和异常件，停止使用受影响设备，按合同流程通知相关责任方。不要先打磨、拆改或丢弃包装再报损；是否运输损伤须依据证据判断，不预先归责。
+
+## 主题十：维护备件与售后决策
+
+### PE-091 | 所有工作室都可以使用同一张固定维护日历吗？
+- 核查：核对本型号说明的使用前检查、周期维护与停用条件，结合课程频率、环境、使用者切换和异常历史，区分日常观察与专业检修。
+- 行动：建立分器型维护记录并指定责任人，在不低于说明要求的前提下请供应方评估高频使用安排。不能把其他品牌的月度或年度周期直接套用，也不等日历到期才处理松动、磨损和异常声响。
+
+### PE-092 | 弹簧没有断裂，是否就可以一直用到某个保证年限？
+- 核查：查看本型号的检查与更换指引、弹簧批次、安装日期及使用记录，检查端钩、线圈、锈蚀和异常伸长；没有断裂不等于状态可接受。
+- 行动：按规定管理更换并及时隔离异常件，不许自行拉伸、修整端钩或补焊。没有已确认政策不承诺固定使用年限，也不借用别家更换周期；高强度场景请供应方给出适配建议。
+
+### PE-093 | 为了消毒，能否对软包、木架和金属都喷同一种药剂？
+- 核查：分别核对面料、木材涂层、金属表面与胶黏部位的清洁兼容性，查看药剂成分、浓度和停留时间要求，确认现行维护说明是否允许。
+- 行动：取得供应方确认后按批准方法清洁，并避免液体进入轴承、木接缝和调节机构。不能用“耐水”推导耐所有消毒剂；出现发黏、褪色或开裂时暂停该方法并记录受影响材料。
+
+### PE-094 | 哪些部件需要润滑，是否可以统一推荐硅油？
+- 核查：查看各部件的润滑许可、油品类型、用量与禁用区域，分别确认轮轨、轴承、铰链、绳扣和木连接，不能把一个部位的要求扩展到整机。
+- 行动：只有说明明确允许的部位才按指定方式操作，不默认对轨道、绳索或摩擦锁扣喷油。异响先定位原因；缺少型号指导时请求技术支持，不以润滑替代紧固、换件或损伤判定。
+
+### PE-095 | 绳索起毛后，剪掉毛边继续用是否可行？
+- 核查：检查磨损位置、护套与芯线状态、滑轮沟槽、锁扣接触和左右绳差异，核对本型号的停用及更换判据，记录零件号与安装日期。
+- 行动：达到更换条件或状态不明时隔离相关器械，按批准规格换绳并检查造成磨损的接触部位。不要剪毛、熔封、打结或局部修补后继续承力；新绳装好后重新核对绳路与锁定。
+
+### PE-096 | 售后买轮子，只给床的购买年份是否足够？
+- 核查：提供设备型号、序列号、轮组位置、旧件照片和可安全取得的尺寸，确认同年是否存在结构修订，核对轴承、轮轴及垫片的组合关系。
+- 行动：由售后按版本匹配零件并确认更换程序，不用相近外观的通用件试装。拆换需合格人员操作并按要求复检；若旧件身份无法确认，先补齐信息，不为赶课盲目采购可能不兼容的轮子。
+
+### PE-097 | 螺栓松了，拧得越紧是不是越安全？
+- 核查：确认松动点、紧固件规格、材料、连接形式及规定扭矩，检查螺纹、孔位与防松件是否损伤，区分正常复检项和反复松脱的结构异常。
+- 行动：由合格人员按型号要求紧固，受损或缺失防松件按批准规格更换。没有扭矩资料就请求指导，不凭蛮力加长工具；木件开裂、螺纹滑牙或反复松动时先停用，不能靠持续加力维持使用。
+
+### PE-098 | 设备出现故障，远程售后第一步应让客户做什么？
+- 核查：先确认是否涉及脱轨、失锁、弹簧连接、结构裂损或异常回位，再收集型号、序列号、发生条件与安全拍摄的影像，避免要求重复危险情景。
+- 行动：涉及安全或原因不明时停止并隔离设备，再按技术指令检查。销售不远程指导绕过锁扣、拆承力件或让学员重现故障；先完成风险控制，再确定配件、维修人员及恢复使用的验收条件。
+
+### PE-099 | “整机保修”是否自动包含弹簧、绳索与上门人工？
+- 核查：核对合同中的覆盖部件、期限起算、磨耗件、使用环境、维护条件、运输与人工责任，查看索赔证据和处理流程，不从“整机”二字推定全部免费。
+- 行动：在下单前把结构件、消耗件、运费和人工分项写清楚，引用当前已授权条款。未确认政策不承诺免费换新、永久保修或固定响应时间；故障原因与责任确认后再提出有依据的处理方案。
+
+### PE-100 | 首批工作室订单应储备哪些配件，才能减少停课？
+- 核查：按现有机型数量、关键件兼容性、预计使用强度、补货渠道与实际供应周期列出弹簧、绳索、轮组、安全件等清单，区分可现场更换与需专业维修的部件。
+- 行动：让供应方按零件号确认建议库存、包装标识和保存条件，并约定改版后的兼容与停产通知。没有可靠数据不报通用备件比例或永久现货承诺；先保障关键安全件可追溯，再优化库存成本。

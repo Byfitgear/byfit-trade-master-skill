@@ -1,5 +1,7 @@
 # BYFIT Pilates Equipment — Real-World Case Studies
 
+> Historical working examples, not verified current BYFIT specifications or promises. Confirm every model-specific claim, price, certification, performance value, case outcome, warranty and delivery term against this task's evidence. Do not send these examples verbatim.
+
 > **Note:** All client names, company names, and specific financial details have been anonymized to protect client confidentiality. Market segments, product specifications, and strategic insights are accurate.
 
 ---
